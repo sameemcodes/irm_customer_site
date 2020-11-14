@@ -1,0 +1,790 @@
+APPLICATION_ID, REQUEST_GROUP_ID, REQUEST_GROUP_NAME, LAST_UPDATE_DATE, LAST_UPDATED_BY, CREATION_DATE, CREATED_BY, LAST_UPDATE_LOGIN, DESCRIPTION, REQUEST_GROUP_CODE
+0,5,Application Developer Reports,03.01.07,1,30.05.91,1,0,Application Developer reports,
+0,821,Business Views Setup,08.06.99,2,08.06.99,1,0,Reqest group for genertaion of business views, and security maintenance.,FND_BV_SETUP_RG
+0,7,Regression Tester Reports,30.05.91,1,30.05.91,1,0,Regression Tester reports,
+0,6,System Administrator Reports,12.11.08,121,30.05.91,1,0,,
+0,822,Workflow Administrator,29.08.05,120,09.06.99,1,0,Workflow Administrator Programs,FNDWF_ADMIN
+50,28,Applications DBA Reports,11.11.92,1,11.11.92,1,0,Application DBA Reports,DBA
+101,27,Automatic Posting Program,17.05.05,120,06.09.91,1,0,Program to automatically post journal batches,
+101,712,GCS Concurrent Program Group,17.05.05,120,10.02.99,1,0,Program group that includes all GCS related programs,GCS_CONCURRENT_PROGRAM_GROUP
+101,711,GIS Super User Request Group,09.02.99,1,09.02.99,1,27914,Program group that includes all GIS and related GL reports and programs,GL_GIS_SUPERUSER_REQUEST_GROUP
+101,710,GIS User Request Group,09.02.99,1,09.02.99,1,27914,Program group that includes all GIS reports and programs,GL_GIS_USER_REQUEST_GROUP
+101,111,GL Concurrent Program Group,17.05.05,120,20.10.98,1,0,Program group that includes all other GL program groups,GL_CONCURRENT_PROGRAM_GROUP
+140,175,All Reports,06.07.00,2,07.11.99,1,0,All Reports,
+140,40,All Reports and Programs,17.05.95,2,17.05.95,1,0,All standard submission programs for Oracle Assets GUI,
+140,671,MRC Programs FA,06.01.98,2,06.01.98,1,0,Reports and Processes for MRC FA Responsibility,
+140,824,RX Reports,23.06.99,121,23.06.99,1,0,RX Reports,
+160,236,Alert Manager,20.02.06,120,10.08.95,1,0,Reports for Alert Manager responsibility,
+175,253,EDI Inbound Programs,29.08.05,120,08.11.99,1,0,Programs for importing inbound datafiles,EDI_INBOUND
+175,247,EDI Outbound Programs,29.08.05,120,14.11.95,1,0,Programs for generating outbound datafiles,EDI_OUTBOUND
+175,709,EDI Reports,29.08.05,120,08.11.99,1,0,Reports for Oracle e-Commerce Gateway,EDI_REPORTS
+175,854,Seed Data Reconciliation,29.08.05,120,08.11.99,1,0,Seed Data Reconciliation for Oracle e-Commerce Gateway,EC_SEED_DATA_REC
+178,586,Customer Summary,05.09.97,2,05.09.97,1,0,Request for WebApps Manager,ICX_CUSTOMER_SUMMARY
+185,699,All Reports,13.11.98,2,13.11.98,1,0,Oracle Treasury All Reports,
+185,703,Foreign Exchange Dealer,29.12.98,2,29.12.98,1,0,Foreign Exchange Dealer,
+185,702,Money Market Dealer,29.12.98,2,29.12.98,1,0,Money Market Dealers,
+185,704,Treasury Dealer,29.12.98,2,29.12.98,1,0,Treasury Dealer,
+185,705,Treasury Inquiry,29.12.98,2,29.12.98,1,0,Treasury Inquiry,
+190,587,Implementation Financials,30.09.97,1,30.09.97,1,20111,,
+190,589,Implementation Human Resources,30.09.97,1,30.09.97,1,20111,,
+190,590,Implementation Manufacturing,30.09.97,1,30.09.97,1,20111,,
+190,588,Implementation Sales & Service,14.10.97,1,14.10.97,1,20569,,
+190,607,Implementationn Sysadmin,26.10.02,1,03.10.97,1,0,,
+191,706,Business Views Setup,08.06.99,1,08.06.99,1,32878,,BIS_BV_SETUP_RG
+200,1,All Reports,28.11.00,2,09.08.91,1,0,All Payables SRS reports (including update programs),
+200,630,MRC Programs AP,05.12.97,2,05.12.97,1,0,Reports and Processes for MRC Responsibility,AP_MRC_PROGS
+200,26,Payables Reports only,29.09.99,1,29.09.99,1,0,AP SRS reports, not including update programs,
+201,112,All Reports,24.07.00,2,23.05.93,1,0,All Purchasing SRS Reports,
+201,670,MRC Programs PO,05.01.98,2,05.01.98,1,0,Reports and Processes for MRC Purchasing Responsibility,
+201,129,Purchasing Reports,21.06.93,2,21.06.93,1,0,Purchasing Reports,CST_PO_REPORTS
+202,356,All Reports,15.10.96,1,15.10.96,1,10244,All Supplier Scheduling Reports,
+222,115,Accounting,02.06.93,2,02.06.93,1,0,Print Accounting Reports,ACCOUNTING
+222,211,Archive and Purge,18.06.95,1,18.06.95,1,0,Archive and Purge,ARCHIVE_PURGE
+222,104,Autoinvoice,03.05.93,1,03.05.93,1,0,Autoinvoice,AUTOINVOICE
+222,204,Automatic Clearing,01.06.95,1,01.06.95,1,0,,AUTOCLEAR
+222,144,Cash Book,03.06.94,1,03.06.94,1,0,Cash Book Reports,CASHBOOK
+222,116,Collection,02.06.93,2,02.06.93,1,0,Print Collection Reports,COLLECTION
+222,105,Customer Interface,03.05.93,1,03.05.93,1,0,Customer Interface,RACUST
+222,114,Dunning,01.06.93,1,01.06.93,1,0,Print Dunning Letters,DUNNING
+222,134,Format Receipts,02.08.93,1,02.08.93,1,0,Format receipts for print or tranmission,FORMAT_RECEIPTS
+222,133,Format Remittances,02.08.93,1,02.08.93,1,0,Format remittances for print or tranmission,FORMAT_REMITTANCES
+222,117,Listing,02.06.93,2,02.06.93,1,0,Print Listing Reports,LISTING
+222,650,MRC Programs AR,15.12.97,2,15.12.97,1,0,Reports and Processes for MRC Receivables Responsibility,
+222,118,Other,02.06.93,1,02.06.93,1,0,Print Other Reports,OTHER
+222,119,Print Invoices,02.06.93,2,02.06.93,1,0,Print Invoices,PRINT_INVOICE
+222,97,Receivables All,28.11.00,2,29.03.93,1,0,All reports and programs,
+222,610,Receivables Reports Only,21.11.97,120,21.11.97,1,0,Receivables Reports Only,
+222,713,Receivables Tax Reports,16.02.99,2,16.02.99,1,0,Tax Reports and Programs,AR_TAX_REPORTS
+222,137,Revenue Recognition,18.02.94,2,18.02.94,1,0,,REVENUE_RECOGNITION
+222,106,Sales Tax Rate Interface,03.05.93,1,03.05.93,1,0,Sales Tax Rate Interface,TAX
+240,697,PN_ALL_REPORTS,25.10.07,121,05.08.99,1,0,All Reports in Oracle Property Manager,PN_ALL_REPORTS
+240,716,PN_EMPLOYEE_REPORTS,24.05.99,1,24.05.99,1,32160,PN - Employee Reports,PN_EMPLOYEE_REPORTS
+240,819,PN_LEASE_REPORTS,25.05.99,1,25.05.99,1,32258,PN - Lease Related Reports,PN_LEASE_REPORTS
+240,718,PN_OTHER_REPORTS,24.05.99,2,24.05.99,1,0,PN - Other Reports,PN_OTHER_REPORTS
+240,833,PN_PURGE_INTERFACE,05.08.99,1,05.08.99,1,35927,Purge Locations and Space Allocations Interfaces,PN_PURGE_INTERFACE
+240,715,PN_RENT_REPORTS,03.03.99,1,03.03.99,1,0,PN - Rent Reports,PN_RENT_REPORTS
+240,714,PN_SPACE_REPORTS,03.03.99,1,03.03.99,1,0,PN - Space Reports,PN_SPACE_REPORTS
+250,166,All Reports,29.03.95,2,29.03.95,1,0,All Oracle Quality Reports,QA_ALL_REPORTS
+260,177,All Reports,18.05.95,1,18.05.95,1,2621,All Cash Management Reports,
+260,361,Cash Forecast Reports,18.12.96,1,18.12.96,1,0,Cash Forecast Reports,
+260,360,Reconciliation Reports,26.10.02,1,18.12.96,1,0,Bank Reconciliation Reports,
+275,263,All Project Billing Programs,10.07.96,2,10.07.96,1,0,All reports and processes for Project Billing,PB_ALL_PROGRAMS
+275,262,All Project Costing Programs,10.07.96,2,10.07.96,1,0,All reports and processes for Project Costing,PC_ALL_PROGRAMS
+275,550,MRC Programs PA Billing,25.05.99,2,25.05.99,1,0,Reports and processes for MRC Project Billing User,PA_PB_MRC_PROGS
+275,566,MRC Programs PA Costing,25.05.99,2,25.05.99,1,0,Reports and processes for MRC Project Costing User,PA_PC_MRC_PROGS
+279,281,Marketing Manager,28.06.96,2,28.06.96,1,0,Request group for Marketing Manager Responsibility,
+279,215,Sales and Marketing Super User,22.10.97,2,22.10.97,1,0,Sales and Marketing Super User Request group,
+279,282,Territory Administrator,28.06.96,2,28.06.96,1,0,Request group for Territory Administrator Responsibility,
+300,100,All Order Entry Programs,13.04.93,1,13.04.93,1,0,Report group containing all Order Entry reports and programs,
+300,136,All Shipping Documents,06.12.95,1,06.12.95,1,5499,All Oracle Shipping Documents,SHP_ALL_DOCUMENTS
+300,252,All Shipping Interfaces,06.12.95,1,06.12.95,1,5499,All Oracle Shipping Interfaces,SHP_ALL_INTERFACES
+300,423,All Shipping Interfaces, Del,12.09.97,1,12.09.97,1,0,All Shipping Interfaces,WSH_SHIP_INTERFACES
+300,249,All Shipping Reports,01.12.95,1,01.12.95,1,5434,All Oracle Shipping Reports,SHP_ALL_REPORTS
+300,422,All Shipping Reports and Docs,01.08.97,1,01.08.97,1,0,All Shipping Reports and Docs,WSH_ALL_REPORTS
+300,266,Assemble to Order Processes,15.04.96,1,15.04.96,1,7384,Process ATO orders,OE_ATO
+300,101,OE Concurrent Programs,13.04.93,1,13.04.93,1,0,Order Entry Concurrent Programs (Interfaces and Batch Programs),OE_CONC_PROGRAMS
+300,371,Order Purge,23.04.97,1,23.04.97,1,12872,Order Purge,ORDER_PURGE_PROGRAM
+300,250,Pick Release,05.12.95,1,05.12.95,1,5486,Pick Release via Standard Report Submission,SHP_PICK_RELEASE_SRS
+300,145,Reports Only,08.06.94,1,08.06.94,1,0,Reports excluding concurrent programs,OE_REPORTS_ONLY
+300,251,Ship Confirm,05.12.95,1,05.12.95,1,5486,Update Shipping via Standard Report Submission,SHP_UPDATE_SHIPPING
+300,147,Tax Reports,12.07.94,1,12.07.94,1,0,Tax Reports and Programs,TAX_REPORTS
+401,126,Accuracy Analysis Report,18.06.93,2,18.06.93,1,0,SRS Report Group for Accuracy Reports,INV_ACCURACY_REPORTS
+401,295,All Inclusive GUI,21.12.00,2,16.07.96,1,0,All inclusive reports GUI,INV_ALL_REPORTS_GUI
+401,58,All inclusive,27.08.93,2,27.08.93,1,0,All inclusive -- super-user,INV_ALL_REPORTS
+401,88,CopyCosts,09.03.93,2,09.03.93,1,0,Copy item cost information,INV_COPY_COSTS
+401,297,Cost and Period Close GUI,17.07.96,2,17.07.96,1,0,SRS Report Group for Cost and Period Close Reports GUI,INV_COST_REPORTS_GUI
+401,124,Cost and Period Close Reports,18.06.93,2,18.06.93,1,0,SRS Report Group for Cost and Period Close Reports,INV_COST_REPORTS
+401,107,Cycle Count List Report,03.05.93,2,03.05.93,1,0,,COUNTLIST
+401,87,GenAutoSched,09.03.93,2,09.03.93,1,0,Generate automatic schedules,GENAUTOSCHED
+401,86,GenCountReq,09.03.93,2,09.03.93,1,0,Generate cycle count requests,GENCOUNTREQ
+401,842,INV_CCEOI_IMPORT,01.09.99,2,01.09.99,1,0,Import Cycle Count Interface Data,INV_CCEOI_IMPORT
+401,841,INV_CCEOI_PURGE,01.09.99,2,01.09.99,1,0,Purge Cycle Count Interface Data,INV_CCEOI_PURGE
+401,218,Intercompany Invoicing,23.06.95,2,23.06.95,1,0,Intercompany Invoicing Programs,INTERCOMPANY_INVOICING
+401,246,Inventory Item Cost Report GUI,10.07.96,2,10.07.96,1,0,Inventory Item cost reports- GUI,INV_ITEM_COST_REPORTS_GUI
+401,123,Item Reports,18.06.93,2,18.06.93,1,0,SRS Report Group for Item Reports,INV_ITEM_REPORTS
+401,296,Item Reports GUI,29.09.00,2,16.07.96,1,0,SRS Report Group for Item Reports GUI,INV_ITEMS_REPORTS_GUI
+401,146,Item import,10.06.94,2,10.06.94,1,0,Import interface items,INV_ITEM_IMPORT
+401,89,MassEditCosts,09.03.93,2,09.03.93,1,0,Mass edit item cost information,INV_COST_MASSEDIT
+401,353,Minmax Report,15.08.96,2,15.08.96,1,0,Minmax Report,INV_MINMAX
+401,708,Movement Statistics,14.01.99,2,14.01.99,1,0,Movement statitistics reports,INV_MOVEMENT_STATISTICS
+401,127,Onhand Reports,23.07.96,2,23.07.96,1,0,SRS Report Group for On-hand Reports and Processes,INV_ONHAND_REPORTS
+401,108,Perform full cycle count,03.05.93,2,03.05.93,1,0,,GENCOMPSCHED
+401,109,Perform physical inventory adj,04.05.93,2,04.05.93,1,0,,PHYSADJ
+401,125,Planning and Forecasting Rept,19.08.97,2,19.08.97,1,0,SRS Report Group for Planning and Forecasting Reports,INV_PLANNING_REPORTS
+401,83,PurgeABC,09.03.93,2,09.03.93,1,0,Purge ABC information,PURGEABC
+401,84,PurgeCycle,09.03.93,2,09.03.93,1,0,Purge cycle count information,PURGECYCLE
+401,85,PurgePhysical,09.03.93,2,09.03.93,1,0,Purge physical inventory information,PURGEPHYS
+401,93,Replenishment,09.03.93,2,09.03.93,1,0,Includes only Replenishment Validator and Processor,INV_REPLENISHMENT
+401,94,Replenishment Purge,09.03.93,2,09.03.93,1,0,Replenishment Purge Program Only,INV_REPLENISHMENT_PURGE
+401,128,Setup Reports,18.06.93,2,18.06.93,1,0,SRS Report Group for Setup Reports,INV_SETUP_REPORTS
+401,354,Setup Reports GUI,05.02.01,2,15.08.96,1,0,SRS Report Group for Setup Reports GUI,INV_SETUP_REPORT_GUI
+401,700,Shortage Reports,01.01.80,2,01.01.80,1,0,Shortage Reports,INV_SHORT_REPORTS
+401,122,Transaction Reports,18.06.93,2,18.06.93,1,0,SRS Report set for transaction reports,INV_TRX_REPORTS
+401,174,Transfer transactions to GL,18.04.95,2,18.04.95,1,0,SRS Report Group for Inventory's GL Transfer,INV_GL_TRANSFER
+401,139,Update item statuses,15.09.93,2,15.09.93,1,0,Update item statuses with pending statuses,STATUSUPDATE
+452,823,All Reports,11.06.99,1,11.06.99,1,33027,Purchasing Intelligence Reports and Programs,POA_ALL_REPORTS
+550,788,OPM GMA Request Group,02.04.99,2,02.04.99,1,0,OPM GMA Reports Request Group,OPM GMA Request Group
+551,796,OPM GMI Request Group,02.04.99,2,02.04.99,1,0,OPM GMI Reports Request Group,OPM GMI Request Group
+552,790,OPM GMD Request Group,02.04.99,2,02.04.99,1,0,OPM GMD Reports Request Group,OPM GMD Request Group
+553,792,OPM GME Request Group,02.04.99,2,02.04.99,1,0,OPM GME Reports Request Group,OPM GME Request Group
+554,800,OPM GMP Request Group,02.04.99,2,02.04.99,1,0,OPM GMP Reports Request Group,OPM GMP Request Group
+555,794,OPM GMF Request Group,02.04.99,2,02.04.99,1,0,OPM GMF Reports Request Group,OPM GMF Request Group
+556,798,OPM GML Request Group,02.04.99,2,02.04.99,1,0,OPM GML Reports Request Group,OPM GML Request Group
+557,820,OPM GR Request Group,26.05.99,2,26.05.99,1,0,Request Group for Regulatory Management Reports,OPM_GR_REQUEST_GROUP
+558,825,PMI Request Group,09.06.00,1,25.06.99,1,0,PMI Request group to populate pmi summary tables.,PMI_REQ_GRP
+600,245,AX Developer,25.06.03,1,22.09.95,1,0,AX Developer,
+600,242,AX General Ledger,25.06.03,1,22.09.95,1,0,AX General Ledger,
+600,835,AX General Ledger Supervisor,25.06.03,1,10.08.99,1,0,AX General Ledger Supervisor,
+600,256,AX Inventory,25.06.03,1,21.12.95,1,0,AX Inventory,
+600,257,AX Inventory Supervisor,25.06.03,1,21.12.95,1,0,AX Inventory Supervisor,
+600,243,AX Payables,25.06.03,1,22.09.95,1,0,AX Payables,
+600,837,AX Payables MRC,25.06.03,1,12.08.99,1,0,AX Payables MRC,
+600,255,AX Payables Supervisor,25.06.03,1,21.12.95,1,0,AX Payables Supervisor,
+600,244,AX Receivables,25.06.03,1,22.09.95,1,0,AX Receivables,
+600,838,AX Receivables MRC,25.06.03,1,12.08.99,1,0,AX Receivables MRC,
+600,254,AX Receivables Supervisor,25.06.03,1,21.12.95,1,0,AX Receivables Supervisor,
+660,844,OM Concurrent Programs,11.12.00,2,09.11.99,1,0,Order Management Concurrent Programs,OM_CONC_PROGRAMS
+660,852,OM Reports,11.12.00,2,15.10.99,1,0,Order Management Reports Only,ONT_REPORTS_ONLY
+661,848,QP Concurrent Programs,11.10.99,2,11.10.99,1,0,QP Concurrent Programs,QP_CONC_PROGRAMS
+662,831,Demand Transactions,20.01.00,2,07.07.99,1,0,Release Management Demand Transactions,RLM_DEMAND_PROCESSOR
+665,849,All Shipping Interfaces,14.10.99,2,14.10.99,1,0,all shipping interface programs,WSH_ALL_SHIP_INTERFACES
+665,855,Shipping Reports and Documents,11.11.99,2,11.11.99,1,0,Shipping Reports and Documents,WSH_REPORTS_AND_DOCS
+700,96,All Reports,15.03.93,1,15.03.93,1,0,All manufacturing reports,
+702,267,All Configurator Reports,09.05.96,1,09.05.96,1,7707,All Configurator Reports,CZ_ALL_REPORTS
+702,140,All audits,24.09.93,2,24.09.93,1,0,All the manufacturing audits,CST_AUDITS
+702,77,Assemble to Order,09.03.93,2,09.03.93,1,0,Assemble to Order,BOM_ATO
+702,203,BOM Setup reports GUI,10.07.96,2,10.07.96,1,0,BOM Setup reports for GUI,BOM_SETUP_BOM_REPORT_GUI
+702,79,BOM reports,09.03.93,2,09.03.93,1,0,BOM reports,CST_BOM_REPORTS
+702,237,BOM reports GUI,04.09.95,2,04.09.95,1,0,BOM reports GUI,CST_BOM_REPORTS_GUI
+702,113,Bill of material verify report,25.05.93,2,25.05.93,1,0,Bill of material verify report,BOM_VERIFY_REPORT
+702,71,Bill reports,09.03.93,2,09.03.93,1,0,Bill reports,BOM_BILL_REPORT
+702,201,Bill reports GUI,10.07.96,2,10.07.96,1,0,Bill reports for GUI,BOM_BILL_REPORT_GUI
+702,57,Bills of Material,09.03.93,2,09.03.93,1,0,,BOM_ALL_REPORTS
+702,241,CST_ANALYSIS_REPORTS,08.09.95,2,08.09.95,1,0,Analysis Reports,CST_ANALYSIS_REPORTS
+702,701,CST_PAC_REPORTS,01.01.80,2,01.01.80,1,0,Reports for PAC,CST_PAC_REPORTS
+702,239,CST_TRANSACTION_REPORTS,08.09.95,2,08.09.95,1,0,Cost Transaction Reports,CST_TRANSACTION_REPORTS
+702,240,CST_VALUE_REPORTS,08.09.95,2,08.09.95,1,0,Value Reports,CST_VALUE_REPORTS
+702,846,CST_VALUE_REPORTS_AVG,05.10.99,2,05.10.99,1,0,Costing Value Reports - Average Costing,CST_VALUE_REPORTS_AVG
+702,847,CST_VALUE_REPORTS_STD,05.10.99,2,05.10.99,1,0,Costing Value Reports - Standard Costing,CST_VALUE_REPORTS_STD
+702,487,CZ Concurrent Programs,11.08.97,1,11.08.97,1,0,Product Configurator Concurrent Programs,CZ_CONC_PROGRAMS
+702,132,Calculate Lead Times,10.07.96,2,10.07.96,1,0,Calculate Lead Times,BOM_LT
+702,217,Calculate Lead times GUI,22.06.95,2,22.06.95,1,0,Calculate lead times,BOM_LT_GUI
+702,61,Copy cost information,18.01.95,2,18.01.95,1,0,The programs that copies cost information across cost types,CST_COPY_COST_INFORMATION
+702,99,Cost Management,26.03.93,2,26.03.93,1,0,Comprehensive cost management report group,CST_ALL
+702,265,Cost Rollup GUI,14.03.96,2,14.03.96,1,0,The programs that launch item cost rollup,CST_COST_ROLLUP_GUI
+702,103,Delete report,30.04.93,2,30.04.93,1,0,Delete items report,BOM_DELETE_REPORT
+702,216,Delete report GUI,22.06.95,2,22.06.95,1,0,Delete items report,BOM_DELETE_REPORT_GUI
+702,131,GL reports,10.07.96,2,10.07.96,1,0,GL reports,CST_GL_REPORTS
+702,80,INV reports,09.03.93,2,09.03.93,1,0,INV reports,CST_INV_REPORTS
+702,141,Import Bills and Routings,20.05.94,2,20.05.94,1,0,Import bills and routings,BOM_IMPORT
+702,238,Item cost info reports GUI,04.09.95,2,04.09.95,1,0,Item cost info reports GUI,CST_ITEM_COST_REPORTS_GUI
+702,156,Launch Cost Update,18.01.95,2,18.01.95,1,0,Launch Cost Update,CST_COST_UPDATE
+702,81,MRP reports,09.03.93,2,09.03.93,1,0,MRP reports,CST_MRP_REPORTS
+702,95,Margin analysis reports,09.03.93,2,09.03.93,1,0,Margin analysis reports,CST_MARGIN_REPORTS
+702,214,Mass Edit Item Accounts,20.06.95,2,20.06.95,1,0,Mass Edit Item Accounts,CST_MASS_EDIT_ITEM_ACCOUNT
+702,75,Mass edits,09.03.93,2,09.03.93,1,0,Mass edit item cost information,CST_MASS_EDITS
+702,130,PUR reports,10.07.96,2,10.07.96,1,0,Purchasing reports,CST_PUR_REPORTS
+702,370,Project Mfg. Cost Transfer,16.04.97,2,16.04.97,1,0,Project Manufacturing Cost Transfer,CST_COST_COLLECTOR_GUI
+702,163,Purge Std Cost History,15.02.95,2,15.02.95,1,0,The program that purges std cost history,CST_PURGE_COSTHISTORY
+702,90,Purge cost information,09.03.93,2,09.03.93,1,0,The programs that purge cost information of cost types,CST_PURGE_COST
+702,157,Report Pending Cost Adjustment,19.01.95,2,19.01.95,1,0,Report Pending Cost Adjustments,CST_COST_PENDING
+702,68,Routing reports,09.03.93,2,09.03.93,1,0,Routing reports,BOM_ROUTING_REPORT
+702,202,Routing reports GUI,10.07.96,2,10.07.96,1,0,Routing reports for GUI,BOM_ROUTING_REPORT_GUI
+702,69,Setup BOM reports,09.03.93,2,09.03.93,1,0,Setup Bills of Material reports,BOM_SETUP_BOM_REPORT
+702,70,Setup Organization reports,09.03.93,2,09.03.93,1,0,Setup Organization reports,BOM_SETUP_ORG_REPORT
+702,82,Setup reports,09.03.93,2,09.03.93,1,0,Setup reports,CST_SETUP_REPORTS
+702,162,Standard Cost Adjustment Repor,01.06.95,2,01.06.95,1,0,Standard Cost Adjustment Reports and Report Set,CST_COST_ADJUST
+702,78,WIP reports,09.03.93,2,09.03.93,1,0,WIP reports,CST_WIP_REPORTS
+702,67,WhereUsed reports,09.03.93,2,09.03.93,1,0,Where Used reports,BOM_WU_REPORT
+703,66,Change Order AutoImplement,09.03.93,2,09.03.93,1,0,Change Order AutoImplement Concurrent Program,ENG_CO_IMPLMNT
+703,65,Change Order Purge Process,09.03.93,2,09.03.93,1,0,Change Order Purge Concurrent Program,ENG_CO_PURGE
+703,64,Change Order Report,09.03.93,2,09.03.93,1,0,Change Order Reports,ENG_CO_REPORT
+703,492,Import ECOs,11.08.97,2,11.08.97,1,0,Import ECOs,ENG_ECO_IMPORT
+703,142,Import item information,20.05.94,2,20.05.94,1,0,Import item information,ENG_IMPORT
+703,102,Item reports,19.04.93,2,19.04.93,1,0,Engineering Item reports,ENG_ITEM_REPORT
+703,62,Oracle Engineering,09.03.93,2,09.03.93,1,0,,ALL_ENGINEERING
+703,63,Setup Reports,09.03.93,2,09.03.93,1,0,Setup Reports,ENG_SETUP_REPORT
+704,55,All MRP Reports,09.03.93,2,09.03.93,1,0,All MRP Reports,MRP_ALL_REPORTS
+704,258,All SCP Reports,22.02.01,2,04.02.96,1,0,All SCP Reports,SCP_ALL_REPORTS
+704,74,Consumption,09.03.93,2,09.03.93,1,0,Consumption,MRP_CONSUMPTION
+704,153,Copy/Merge Forecast,10.07.96,2,10.07.96,1,0,Copy/Merge Forecast,MRP_COPY_FORECAST
+704,158,Copy/Merge MPS,22.12.94,2,22.12.94,1,0,Copy/Merge MPS,MRP_COPY_MPS
+704,160,Generate Forecast,10.07.96,2,10.07.96,1,0,Generate Forecast,MRP_GENERATE_FORECAST
+704,161,Launch MPS Plan,08.01.95,2,08.01.95,1,0,Launch MPS Plan,MRP_LAUNCH_MPS_PLAN
+704,155,Launch Plan,29.11.94,2,29.11.94,1,0,Launch Plan,MRP_LAUNCH_PLAN
+704,839,Launch Roll Flow Schedules,13.08.99,2,13.08.99,1,0,Launch Roll Flow Schedules,MRP_LAUNCH_ROLL_FLOW_SCH
+704,261,Launch Supply Chain DRP Plan,08.02.96,2,08.02.96,1,0,Launch Plan,MRP_LAUNCH_SCP_DRP_PLAN
+704,260,Launch Supply Chain MPS Plan,08.02.96,2,08.02.96,1,0,Launch Plan,MRP_LAUNCH_SCP_MPS_PLAN
+704,259,Launch Supply Chain MRP Plan,08.02.96,2,08.02.96,1,0,Launch Plan,MRP_LAUNCH_SCP_MRP_PLAN
+704,159,Load MPS,22.12.94,2,22.12.94,1,0,Load MPS,MRP_LOAD_MPS
+704,154,Load/Copy/Merge MDS,22.12.94,2,22.12.94,1,0,Load/Copy/Merge MDS,MRP_LOAD_MDS
+704,164,Load/Copy/Merge MPS,28.02.95,2,28.02.95,1,0,Load/Copy/Merge MPS,MRP_LOAD_COPY_MPS
+704,693,Oracle RHYTHM Factory Planner,25.03.98,2,25.03.98,1,0,Oracle RHYTHM Factory Planner,MRP_APS_I2_FP
+704,691,Oracle RHYTHM Listener,25.03.98,2,25.03.98,1,0,Oracle RHYTHM Listener,MRP_APS_I2_OL
+704,694,Oracle RHYTHM Load Program,25.03.98,2,25.03.98,1,0,Oracle RHYTHM Load Program,MRP_APS_I2_LOAD
+704,695,Oracle RHYTHM Setup Program,25.03.98,2,25.03.98,1,0,Oracle RHYTHM Setup Program,MRP_APS_I2_SETUP
+704,692,Oracle RhythmLink,25.03.98,2,25.03.98,1,0,Oracle RhythmLink,MRP_APS_I2_RL
+705,59,All Reports,09.03.93,2,09.03.93,1,0,All CRP Reports,CRP_ALL_REPORTS
+705,60,Resource Rollup,09.03.93,2,09.03.93,1,0,Launch resource rollup,CRP_RESOURCE_ROLLUP
+706,357,All GUI Reports,24.10.96,2,24.10.96,1,0,All WIP Reports for 10SC,WIP_ALL_REPORTS_GUI
+706,53,All Reports,06.07.93,2,06.07.93,1,0,All Oracle Work in Process Reports,WIP_ALL_REPORTS
+706,323,Close Discrete Jobs,27.07.96,2,27.07.96,1,0,Close discrete jobs,WIP_CLOSE
+706,91,Import program,09.03.93,2,09.03.93,1,0,Import orders from interface,WIP_IMPORT
+706,696,Load Production Summary Data,10.06.98,2,10.06.98,1,0,Load Production Summary Data into Summary Tables,WIP_BIS_PROD
+706,92,Load sales orders,09.03.93,2,09.03.93,1,0,Programs to load sales order demand into discrete jobs,WIP_SO_LOAD
+706,322,Purge WIP Information,27.07.96,2,27.07.96,1,0,Purge WIP job and schedule information,WIP_PURGE
+707,707,Colombia Manufacturing,01.01.80,1,01.01.80,1,0,,COLOMBIA_MANUFACTURING
+710,362,Demand Processor,20.12.96,1,20.12.96,1,0,Release Accounting Demand Processor,RLA_DEMAND_PROCESSOR
+711,367,Automotive Exports,08.01.97,1,08.01.97,1,0,Oracle Automotive Requests,VEH_EXPORTS_ALL
+711,366,Automotive External Imports,08.01.97,1,08.01.97,1,0,Oracle Automotive External Imports,VEH_EXTERNAL_ALL
+711,368,Automotive Imports,08.01.97,1,08.01.97,1,0,Oracle Automotive Imports,VEH_IMPORTS_ALL
+711,363,Automotive Reports,22.12.96,1,22.12.96,1,0,Oracle Automotive Reports,VEH_REPORTS_ALL
+712,548,PJM Accounting Reports,26.08.97,2,26.08.97,1,0,Project Manufacturing Accounting Reports,PJM_ACCOUNTING_INFO
+712,690,PJM Cost Collection,09.01.98,2,09.01.98,1,0,Project Cost Collection,PJM_COST_COLLECTION
+712,546,PJM Project Reports,26.08.97,2,26.08.97,1,0,Project Manufacturing Project Reports,PJM_PROJECT_INFO
+712,547,PJM Transaction Reports,26.08.97,2,26.08.97,1,0,Project Manufacturing Transaction Reports,PJM_TRANSACTION_INFO
+712,830,Project Scheduling Integration,01.01.80,2,01.01.80,1,0,Project Scheduling Integration Programs,PJM_SCHEDULE_INTEGRATION
+714,850,FLM_PROD_REPORTS,14.10.99,2,14.10.99,1,0,Flow Productivity Reports,FLM_PROD_REPORTS
+714,851,FLM_SCH_REPORTS,14.10.99,2,14.10.99,1,0,Flow Scheduling Reports,FLM_SCH_REPORTS
+724,834,All MSC Reports,22.02.01,120,05.08.99,1,0,All MSC Reports,MSC_ALL_REPORTS
+800,720,CA HR Reports and Processes,11.03.99,1,11.03.99,1,28883,Canadian HR Reports and Processes,CA_HR_Reports_and_Processes
+800,719,FR HRMS Reports & Processes,28.06.06,120,11.03.99,1,0,FR HRMS reports and processes,FR_HRMS_REP_PRO
+800,698,Global HRMS Reports & Process,26.01.01,2,12.11.98,1,0,Global HRMS Reports and Processes,GLOBAL_HRMS_REP_PRO
+800,120,HR Reports,23.06.95,2,23.06.95,1,0,Oracle HR reports available in Release 10 (character-mode),
+800,121,HR Reports and Processes,26.01.01,2,21.11.97,1,0,Oracle HR reports and processes,
+800,427,JP HR Reports & Processes,14.12.05,120,06.08.97,1,0,Obsoleted the Request Group in R12,JP_HR_REP_PRO
+800,426,JP HRMS Reports & Processes,30.03.01,2,06.08.97,1,0,JP HRMS Reports and Processes,JP_HRMS_REP_PRO
+800,428,JP Payroll Reports & Processes,06.08.97,1,06.08.97,1,15592,,
+800,832,Payroll Reports & Processes,16.07.99,2,16.07.99,1,0,Global Payroll Reports and Processes,
+800,168,UK HR Reports & Processes,28.06.06,120,16.07.99,1,0,UK HR reports and processes,GB_HR_REP_PRO
+800,167,UK HRMS Reports & Processes,28.06.06,120,16.07.99,1,0,UK HRMS reports and processes,GB_HRMS_REP_PRO
+800,169,UK Payroll Reports & Processes,28.06.06,120,16.07.99,1,0,UK Payroll reports and processes,GB_PAY_REP_PRO
+800,171,US HR Reports & Processes,28.06.06,120,16.07.99,1,0,US HR reports and processes,US_HR_REP_PRO
+800,170,US HRMS Reports & Processes,28.06.06,120,12.11.98,1,0,US HRMS reports and processes,US_HRMS_REP_PRO
+800,172,US Payroll Reports & Processes,28.06.06,120,16.07.99,1,0,US Payroll reports and processes,US_PAY_REP_PRO
+804,248,SSP reports,27.11.95,2,27.11.95,1,0,SSP reports,
+808,399,Oracle Time Management,30.08.01,1,23.07.97,1,0,,
+810,264,OTA Reports,14.03.96,1,14.03.96,1,6904,Oracle Training Reports,
+7000,355,JAAU + Assets Reports,19.08.99,2,19.08.99,1,0,JAAU + Assets Reports,JAAUFA
+7000,394,JAAU + Inventory Reports,11.05.99,2,11.05.99,1,0,JAAU + Inventory Reports,JAAUINV
+7000,843,JACA + AP Reports,27.10.99,2,27.10.99,1,0,Canadian Localizations - AP Request Group,
+7000,853,JACA + PO Reports,27.10.99,2,27.10.99,1,0,Canadian Localizations - PO Request Group,
+7000,301,JACN + Assets Reports,19.08.99,2,19.08.99,1,0,JACN + Assets Reports,JACNFA
+7000,302,JACN + General Ledger Reports,04.07.07,121,19.08.99,1,0,JACN + General Ledger Reports,JACNGL
+7000,299,JACN + Payables Reports,19.08.99,2,19.08.99,1,0,JACN + Payables Reports,JACNAP
+7000,300,JACN + Receivables Reports,11.05.99,2,11.05.99,1,0,JACN + Receivables Reports,JACNAR
+7000,372,JAKR + Assets Reports,11.05.99,2,11.05.99,1,0,JAKR + Assets Reports,JAKRFA
+7000,305,JAKR + Payables Reports,19.08.99,2,19.08.99,1,0,JAKR + Payables Reports,JAKRAP
+7000,306,JAKR + Receivables Reports,11.05.99,2,11.05.99,1,0,JAKR + Receivables Reports,JAKRAR
+7000,424,JASG + General Ledger Reports,11.05.99,2,11.05.99,1,0,JASG + General Ledger Reports,JASGGL
+7000,467,JASG + Payables Reports,11.05.99,2,11.05.99,1,0,JASG + Payables Reports,JASGAP
+7000,425,JASG + Receivables Reports,11.05.99,2,11.05.99,1,0,JASG + Receivables Reports,JASGAR
+7000,373,JATH + Inventory Reports,11.05.99,2,11.05.99,1,0,JATH + Inventory  Reports,JATHINV
+7000,307,JATH + Payables Reports,19.08.99,2,19.08.99,1,0,JATH + Payables Reports,JATHAP
+7000,308,JATH + Receivables Reports,11.05.99,2,11.05.99,1,0,JATH + Receivables Reports,JATHAR
+7000,303,JATW + Payables Reports,19.08.99,2,19.08.99,1,0,JATW + Payables Reports,JATWAP
+7000,304,JATW + Receivables Reports,11.05.99,2,11.05.99,1,0,JATW + Receivables Reports,JATWAR
+7002,727,Austrian AP Reports,13.04.00,2,22.03.99,1,0,Austrian AP Reports With Localizations,
+7002,336,Austrian GL Reports,13.04.00,2,24.03.99,1,0,Austrian GL Reports With Localizations,
+7002,728,Belgian AP Reports,13.04.00,2,22.03.99,1,0,Belgian AP Reports With Localizations,
+7002,729,Belgian AR Reports,13.04.00,2,22.03.99,1,0,Belgian AR Reports With Localizations,
+7002,337,Belgian GL Reports,13.04.00,2,24.03.99,1,0,Belgian GL Reports With Localizations,
+7002,731,Czech AP Reports,13.04.00,2,22.03.99,1,0,Czech AP Reports With Localizations,
+7002,732,Czech AR Reports,13.04.00,2,22.03.99,1,0,Czech AR Reports With Localizations,
+7002,730,Czech GL Reports,13.04.00,2,22.03.99,1,0,Czech General Ledger Reports With Localizations,
+7002,768,Danish AP Reports,13.04.00,2,24.03.99,1,0,Danish AP Reports With Localizations,
+7002,340,Danish AR Reports,13.04.00,2,24.03.99,1,0,Danish AR Reports With Localizations,
+7002,769,Danish GL Reports,13.04.00,2,24.03.99,1,0,Danish GL Reports With Localizations,
+7002,734,Finnish AP Reports,13.04.00,2,22.03.99,1,0,Finnish AP Reports With Localizations,
+7002,735,Finnish AR Reports,13.04.00,2,22.03.99,1,0,Finnish AR Reports With Localizations,
+7002,733,Finnish GL Reports,13.04.00,2,22.03.99,1,0,Finnish General Ledger Reports With Localizations,
+7002,736,French AP Reports,13.04.00,2,22.03.99,1,0,French AP Reports With Localizations,
+7002,343,French GL Reports,13.04.00,2,24.03.99,1,0,French GL Reports With Localizations,
+7002,737,German AP Reports,13.04.00,2,22.03.99,1,0,German AP Reports With Localizations,
+7002,738,German AR Reports,13.04.00,2,22.03.99,1,0,German AR Reports With Localizations,
+7002,339,German GL Reports,13.04.00,2,24.03.99,1,0,German GL Reports With Localizations,
+7002,770,Greek AP Reports,13.04.00,2,24.03.99,1,0,Greek AP Reports With Localizations,
+7002,845,Greek AR Reports,13.04.00,2,01.10.99,1,0,Greek AR Reports With Localizations,
+7002,828,Greek FA Reports,13.04.00,2,30.06.99,1,0,Greek Fixed Assets,
+7002,739,Greek GL Reports,13.04.00,2,22.03.99,1,0,Greek General Ledger Reports With Localizations,
+7002,742,Hungarian AP Reports,13.04.00,2,22.03.99,1,0,Hungarian AP Reports With Localizations,
+7002,743,Hungarian AR Reports,13.04.00,2,22.03.99,1,0,Hungarian AR Reports With Localizations,
+7002,741,Hungarian Cash Mgmt Reports,13.04.00,2,22.03.99,1,0,Hungarian Cash Management Reports With Localizations,
+7002,740,Hungarian FA Reports,13.04.00,2,22.03.99,1,0,Hungarian FA Reports With Localizations,
+7002,493,Hungarian GL Reports,13.04.00,2,24.03.99,1,0,Hungarian GL Reports With Localizations,
+7002,749,Italian AP Reports,13.04.00,2,22.03.99,1,0,Italian AP Reports With Localizations,
+7002,751,Italian AR Reports,13.04.00,2,22.03.99,1,0,Italian AR Reports With Localizations,
+7002,745,Italian FA Reports,13.04.00,2,22.03.99,1,0,Italian FA Reports With Localizations,
+7002,746,Italian GL Reports,13.04.00,2,22.03.99,1,0,Italian GL Reports With Localizations,
+7002,747,Italian Inventory Reports,13.04.00,2,22.03.99,1,0,Italian Inventory Reports With Localizations,
+7002,748,Italian Order Entry Reports,13.04.00,2,22.03.99,1,0,Italian Order Entry Reports With Localizations,
+7002,750,Italian Purchasing Reports,13.04.00,2,22.03.99,1,0,Italian Purchasing Reports With Localizations,
+7002,345,Netherland GL Report,13.04.00,2,24.03.99,1,0,Netherland GL Reports With Localizations,
+7002,752,Netherlands AP Reports,13.04.00,2,22.03.99,1,0,Netherlands AP Reports With Localizations,
+7002,754,Norwegian AP Reports,13.04.00,2,22.03.99,1,0,Norwegian AP Reports With Localizations,
+7002,755,Norwegian AR Reports,13.04.00,2,24.03.99,1,0,Norwegian AR Reports With Localizations,
+7002,753,Norwegian GL Reports,13.04.00,2,22.03.99,1,0,Norwegian GL Reports With Localizations,
+7002,757,Polish AP Reports,13.04.00,2,22.03.99,1,0,Polish AP Reports With Localizations,
+7002,758,Polish AR Reports,13.04.00,2,22.03.99,1,0,Polish AR Reports With Localizations,
+7002,756,Polish GL Reports,13.04.00,2,22.03.99,1,0,Polish GL Reports With Localizations,
+7002,760,Portuguese AP Reports,13.04.00,2,22.03.99,1,0,Portuguese AP Reports With Localizations,
+7002,761,Portuguese AR Reports,13.04.00,2,22.03.99,1,0,Portuguese AR Reports With Localizations,
+7002,759,Portuguese GL Reports,13.04.00,2,22.03.99,1,0,Portuguese GL Reports With Localizations,
+7002,763,Spanish AP Reports,13.04.00,2,22.03.99,1,0,Spanish AP Reports With Localizations,
+7002,764,Spanish AR Reports,13.04.00,2,22.03.99,1,0,Spanish AR Reports With Localizations,
+7002,762,Spanish GL Reports,13.04.00,2,22.03.99,1,0,Spanish GL Reports With Localizations,
+7002,347,Swedish AP Reports,13.04.00,2,24.03.99,1,0,Swedish AP Reports With Localizations,
+7002,771,Swedish AR Reports,13.04.00,2,24.03.99,1,0,Swedish AR Reports With Localizations,
+7002,772,Swedish GL Reports,13.04.00,2,24.03.99,1,0,Swedish GL Reports With Localizations,
+7002,765,Swiss AP Reports,13.04.00,2,24.03.99,1,0,Swiss AP Reports With Localizations,
+7002,766,Swiss AR Reports,13.04.00,2,24.03.99,1,0,Swiss AR Reports With Localizations,
+7002,338,Swiss GL Reports,13.04.00,2,24.03.99,1,0,Swiss GL Reports With Localizations,
+7002,497,Turkish AP Reports,13.04.00,2,24.03.99,1,0,Turkish AP Reports With Localizations,
+7002,773,Turkish AR Reports,13.04.00,2,24.03.99,1,0,Turkish AR Reports With Localizations,
+7002,767,Turkish GL Reports,13.04.00,2,24.03.99,1,0,Turkish GL Reports With Localizations,
+7003,856,JGJP + AP Reports,02.12.99,2,02.12.99,1,0,JGJP + AP Reports,JGJPAP
+7003,857,JGJP + AR Reports,02.12.99,2,02.12.99,1,0,JGJP + AR Reports,JGJPAR
+7003,858,JGJP + GL Reports,02.12.99,2,02.12.99,1,0,JGJP + GL Reports,JGJPGL
+7003,721,Regional AP Localization,22.03.99,1,22.03.99,1,29165,Regional AP Localizations Reports,
+7003,722,Regional AR Localizations,22.03.99,2,22.03.99,1,0,Regional AR Localizations Reports,
+7003,725,Regional Contra Charging,22.03.99,2,22.03.99,1,0,Regional Contra Charging Reports,
+7003,801,Regional Cross Product Reports,06.08.99,2,06.08.99,1,0,Regional Cross Product Reports (AP/AR/FA/GL),
+7003,723,Regional FA Localizations,22.03.99,2,22.03.99,1,0,Regional FA Localization Reports,
+7003,724,Regional GL Localizations,22.03.99,2,22.03.99,1,0,Regional GL Localizations Reports,
+7003,726,Regional Interest Invoice,22.03.99,2,22.03.99,1,0,Regional Localizations Interest Invoice Reports,
+7004,805,JLAR + AP Reports,01.01.80,2,01.01.80,1,0,Argentine Localization Payables Request Group,
+7004,803,JLAR + AR Reports,01.01.80,2,01.01.80,1,0,Argentine Globalization Receivables Request Group,
+7004,517,JLAR + FA Reports,12.08.97,2,12.08.97,1,0,Argentine Globalization Oracle Assets Request Group,
+7004,398,JLAR + GL Reports,19.10.99,2,19.10.99,1,0,Argentine Localizations General Ledger Request Group,
+7004,804,JLAR + OE Reports,01.01.80,2,01.01.80,1,0,Argentine Globalization Order Entry Request Group,
+7004,395,JLBR + AP Reports,16.07.97,2,16.07.97,1,0,Brazilian Localizations - Request Groups,
+7004,396,JLBR + AR Reports,16.07.97,2,16.07.97,1,0,Brazilian Localizations - Request Groups,
+7004,397,JLBR + GL Reports,19.10.99,2,19.10.99,1,0,Brazilian Localizations General Ledger Request Group,
+7004,807,JLCL + AP Reports,01.01.80,2,01.01.80,1,0,Chilean Localizations Payables Request Group,
+7004,808,JLCL + AR Reports,01.01.80,2,01.01.80,1,0,Chilean Localizations Receivables Request Group,
+7004,806,JLCL + FA Reports,01.01.80,2,01.01.80,1,0,Chilean Localizations Fixed Assets Request Group,
+7004,809,JLCL + GL Reports,01.01.80,2,01.01.80,1,0,Chilean Localizations General Ledger Request Group,
+7004,810,JLCL + PO Reports,01.01.80,2,01.01.80,1,0,Chilean Localizations Purchasing Request Group,
+7004,811,JLCO + AP Reports,01.01.80,2,01.01.80,1,0,Colombian Localization Payables Request Group,JL_CO_AP_REQUEST_GROUP
+7004,812,JLCO + AR Reports,01.01.80,2,01.01.80,1,0,Colombian Localizations Receivables Request Group,JL_CO_AR_REQUEST_GROUP
+7004,813,JLCO + FA Reports,01.01.80,2,01.01.80,1,0,Colombian Localizations Fixed Assets Request Group,
+7004,814,JLCO + GL Reports,01.01.80,2,01.01.80,1,0,Colombian Localizations General Ledger Request Group,JL_CO_GL_REQUEST_GROUP
+7004,815,JLCO + PO Reports,01.01.80,2,01.01.80,1,0,Colombian Localizations Purchasing Request Group,JL_CO_PO_REQUEST_GROUP
+7004,816,JLCO Magnetic Media,01.01.80,2,01.01.80,1,0,Colombian Localizations Magnetic Media Request Group,JL_CO_MG_REQUEST_GROUP
+7004,817,JLCO Third Party,01.01.80,2,01.01.80,1,0,Colombian Localizations Third Party Request Group,JL_CO_NIT_REQUEST_GROUP
+7004,518,JLMX + FA Reports,12.08.97,2,12.08.97,1,0,Mexican Oracle Assets request group,
+7004,153,LA + GL Reports - OBSOLETE,28.07.97,2,28.07.97,1,0,Brazilian Localizations - Request Groups,
+8301,374,US Fed HR Reports and Process,12.04.04,2,19.06.98,1,0,US Fed HR Reports and Processes,
+518,860,BIC Programs,25.04.00,2,15.05.00,0,0,All Executable Programs,
+677,888,BIXCONC,02.02.01,2,16.05.00,0,0,Purge, populate,
+510,917,Contracts Core User,19.04.04,121,22.12.00,1,0,Users Programs and Reports for Oracle Contracts Core,OKC_CONCURRENT_PROGRAMS_USER
+8901,920,Federal All Reports,28.11.00,2,22.12.00,1,0,All Federal Localization Reports,FV_ALL_REPORTS
+222,968,HZ_Party,15.02.01,2,30.08.01,1,0,All reports and programs,
+702,971,CST_VALUE_REPORTS_WMS,29.08.00,2,30.08.01,1,0,Costing Value Reports - Warehouse Management,CST_VALUE_REPORTS_WMS
+535,1031,SFM System Administrator,22.08.01,2,31.05.02,1,0,Request Group for SFM System Administrator Menu,XDP_SYSTEM_ADMIN
+864,1041,Oracle Hosting Manager,11.04.02,2,25.10.02,0,0,All Programs Related to OHM,ALL_PROGRAMS
+866,1042,CIC Admin Report,28.02.02,2,25.10.02,0,0,CIC Admin Report,
+553,1043,OPM GME New Request Group,01.01.01,2,25.10.02,0,0,OPM GME New Reports Request Group,OPM_GME_New_Request_Group
+540,1048,Lease Administrator,10.07.06,121,26.10.02,0,0,,
+800,1053,HK HR Reports and Processes,18.01.02,2,18.01.02,2,0,Hong Kong HR Reports and Processes,HK_HR_REP_PRO
+879,1057,IMC Request Group,07.02.02,2,07.02.02,2,0,All Concurrent Programs,
+810,1060,FR OTA Reports and Processes,03.04.00,1,03.04.00,1,0,FR OTA Reports and Processes,
+8405,1088,SEVIS Processes,06.11.02,2,25.06.03,0,0,Concurrent Processes to be used for SEVIS processing,
+800,1092,CN HRMS Reports and Processes,12.11.02,2,25.06.03,0,0,China HRMS Reports and processes,CN_HRMS_REP_PRO
+703,1095,Collaborative Dev Import,06.01.03,2,06.01.03,2,0,Collaborative Development Import,ENG_COLLABDEV_IMPORT
+8407,1097,IGC_CONCURRENT_PROGRAM_GROUP,18.01.01,2,18.01.01,1,0,Contract Commitment Concurrent Program Group,
+694,1100,PRP Concurrent Program Group,12.12.02,2,12.12.02,2,0,PRP Concurrent Program Group,PRP_CONC_PROG_GROUP
+689,859,Mobile Admin,31.01.00,2,15.05.00,1,0,Mobile Administrator concurrent program reqest group,
+695,864,IEX_REPORTS,02.10.02,2,15.05.00,0,0,Collections Reports,
+523,869,CSP_PL_REPORTS,30.08.01,1,15.05.00,0,0,Planning reports.,CSP_PL_REPORTS
+523,870,CSP_TR_REPORTS,30.08.01,1,15.05.00,0,0,Transaction reports.,CSP_TR_REPORTS
+538,873,FPT_REPORTS,11.10.00,0,15.05.00,0,0,Oracle Banking Center Reports,
+671,874,iStore Concurrent Programs,02.06.00,2,15.05.00,0,0,iStore Concurrent Programs,IBERESCON
+680,875,IEM DBA,23.02.00,1,15.05.00,1,0,,
+690,876,CRM Administration,29.08.05,120,15.05.00,1,0,Reports for CRM Foundation,JTF_REPORTS
+510,877,Contracts Core All,19.04.04,121,15.05.00,1,0,All Programs and Reports for Oracle Contracts Core,OKC_CONCURRENT_PROGRAMS_ALL
+535,879,OP System Administrator,30.08.01,1,15.05.00,1,0,Request Group for OP System Administrator Menu,XDP_SYSTEM_ADMIN
+662,880,CUM Key Adjustment,20.01.00,2,15.05.00,1,0,Release Management CUM Transactions,RLM_CUM_TRANSACTIONS_ALL
+662,881,Reports,20.01.00,2,15.05.00,1,0,Release Management Reports,RLM_REPORTS
+662,882,EDI Inbound Transaction,20.01.00,2,15.05.00,1,0,Release Management EDI Inbound Transaction,RLM_EDI_INBOUND
+800,886,JP SHRMS Reports & Processes,14.12.05,120,16.05.00,1,0,Obsoleted the Request Group in R12,JP_SHRMS_REP_PRO
+800,887,JP PAY Reports & Processes,14.12.05,120,16.05.00,1,0,Obsoleted the Request Group in R12,JP_PAY_REP_PRO
+521,919,TeleSales Administration,25.06.03,1,22.12.00,1,0,OTS: Admin Request Group,OTS
+682,921,N-Tier Marketing Request Group,30.08.01,1,23.12.00,1,0,N-Tier Marketing Request Group,OZF_CONCURRENT_PROGRAMS
+275,929,All PRM Programs,03.05.01,2,12.06.01,1,0,All Project Resource Management Programs,PRM_ALL_PROGRAMS
+240,943,PN_RXI_LEASE_REPORTS,25.10.07,121,12.06.01,1,0,RXi Reports,PN_RXI_LEASE_REPORTS
+240,944,PN_RXI_PURGE,04.12.00,2,12.06.01,1,0,Purge RXI Report Data,PN_RXI_PURGE
+240,945,PN_RXI_SPACE_REPORTS,15.11.00,2,12.06.01,1,0,RXi Reports,PN_RXI_SPACE_REPORTS
+272,967,ABM Concurrent Request Group,25.06.03,1,30.08.01,1,0,Activity Based Management request group contains concurrent programs,ABM_CONCURRENT_REQUEST_GROUP
+272,969,ABM Migration Request Group,25.06.03,1,30.08.01,1,0,Contains concurrent programs to migrate Activa3.x to ABM,ABM_MIGRATION_REQUEST_GROUP
+697,970,Order Capture Reports,31.05.02,1,30.08.01,1,0,Oracle Order Capture Reports,
+401,973,INV_MGD_INVPOS,24.10.00,2,30.08.01,1,0,Inventory Position View and Export requests,INV_MGD_INVPOS
+544,985,FIELD_SALES_REQUEST_GROUP,12.11.01,2,12.11.01,1,0,Field Sales Request Group,FIELD_SALES_REQUEST_GROUP
+191,993,BIS Concurrent Programs,27.10.04,1,31.05.02,1,0,Concurrent Programs for BIS,BIS_CONCURRENT_PROGRAMS
+191,996,Transaction System All Reports,05.06.01,1,31.05.02,1,0,Transaction System All Reports,BIS_EDW_TRX_REPORTS
+677,1003,ICI Concurrent Programs,26.06.01,2,26.06.01,2,0,Request group for collection programs.,
+271,1005,BSC Concurrent Request Group,28.12.04,121,31.05.02,1,0,Balanced Scorecard request group contains concurrent programs,BSC_CONCURRENT_REQUEST_GROUP
+271,1006,BSC VBConcurrent Request Group,28.12.04,121,31.05.02,1,0,Concurrent Requests that will be run from the VB application only,BSC_CONCURRENT_REQUEST_GROUPVB
+174,1010,All Reports and Programs,09.10.00,2,09.10.00,2,0,All XMl Gateway Programs and Reports,ECX_REPORTS
+724,1023,ALL ATP REPORTS,13.11.01,120,13.11.01,1,0,ALL ATP REPORTS,ATP_ALL_REPORTS
+871,1027,Sales Contracts All,01.08.01,2,01.08.01,1,0,All concurrent request for Contracts for Sales,OKO_REQUEST_ALL
+874,1046,JTM ADMINISTRATOR,06.06.02,121,26.10.02,0,0,JTM CONCURRENT PROGRAM FOR MOBILE TEAM,
+186,1050,Risk Management All,18.03.02,2,26.10.02,0,0,Risk Management All Requests,
+186,1051,Treasury and Risk All,18.03.02,2,26.10.02,0,0,Treasury and Risk Management All Requests,
+222,1052,AR_RCPT_REQUESTS,24.09.03,2,18.03.02,2,0,AR Receipt Requests,AR_RCPT_REQUESTS
+702,1054,CST_IPV_EAM,05.02.02,2,05.02.02,2,0,Shop Floor Invoice Variance for Maintenance Work Orders,CST_IPV_EAM
+8406,1055,All Concurrent Jobs,25.12.00,2,25.12.00,2,0,All Concurrent Jobs,
+8405,1058,IGS_HE_REP_PLSQL,26.02.02,2,26.02.02,2,0,HESA Concurrent Processes,IGS_HE_REP_PLSQL
+690,1089,Interaction History Data Purge,21.10.02,2,25.06.03,0,0,Interaction History Data Purge,
+275,1090,All Projects Programs,10.07.96,2,25.06.03,0,0,All reports and processes for Oracle Project,PA_ALL_PROGRAMS
+275,1091,Projects Archive and Purge,12.07.02,2,25.06.03,0,0,Request group for Archive / Purge programs,PROJECT_ARCHIVE_PURGE
+1,1096,System Administrator Reports,20.02.06,120,15.06.01,2,0,,
+283,861,Super User Reports,18.07.96,2,15.05.00,1,0,Request group for the Sales Compensation Super User,
+283,862,Analyst Reports,24.07.95,2,15.05.00,1,0,,
+517,863,BIM_OLTP_COLLECTION_GROUP,02.02.01,2,15.05.00,1,0,Request group for OLTP Marketing Intelligence collection,
+512,865,Depot Repair Program Group,05.06.00,2,15.05.00,1,0,Depot Repair Concurrent Program Group,CSD_CONCURRENT_PROGRAM_GROUP
+170,866,Service Reports Only,09.03.00,2,15.05.00,1,0,Service Reports,CS_REPORTS_ONLY
+170,867,Service Reports,09.03.00,2,15.05.00,1,0,All concurrent programs in Oracle Service,CS_CONCURRENT_PROGRAMS
+511,868,Customer Care Programs,14.01.00,2,15.05.00,1,0,Customer Care Concurrent Programs,CSCBATCH
+514,871,Support Reports,16.02.00,2,15.05.00,1,0,Oracle Support,
+8729,872,All Reports,30.08.01,1,15.05.00,0,0,CUN Network Logistics Reports CUN,
+534,878,Number Portability Requests,13.02.00,2,15.05.00,1,0,Generate Number Portability and Common Lookups,
+8721,883,CRL All Project Programs,09.03.00,2,15.05.00,0,0,CRL All Project Processes and reports,PA_CRL_ALL_PROGRAMS
+8731,884,CRL + FA Reports,16.03.00,2,15.05.00,1,0,Request Group for all CRL 11i Asset Programs and Reports,FA_CRL_ALL_PROGRAMS
+600,926,AX_AR_ACC_REPORTS,25.06.03,1,12.06.01,1,0,Global Accounting Receivable Accounting Reports,AX_AR_ACCOUNTING
+170,890,Installed Base Reports,07.06.00,2,11.10.00,1,0,Installed Base Reports,CS_IB_REPORTS
+800,900,CA Payroll Reports & Processes,28.06.06,120,11.10.00,1,0,Canadian Payroll Reports and Processes,CA_PAY_REP_PRO
+515,902,Service Contracts All,23.03.01,2,11.10.00,1,0,All Programs and Reports for Oracle Contracts for Service,
+702,903,CST_SC_COST_ROLLUP,24.05.00,2,11.10.00,0,0,The group that holds all Supply Chain Cost Rollup programs.,CST_SC_COST_ROLLUP
+7003,904,Regional AP Localizations,05.01.00,2,11.10.00,1,0,Regional AP Localizations Reports,
+8402,907,All Grants Accounting Programs,10.04.01,2,11.10.00,1,0,All Grants Management Programs,GMS_ALL_PROGRAMS
+8404,908,IGW Reports,24.10.00,2,11.10.00,1,0,,
+677,914,BIX Purge,02.03.01,2,11.10.00,0,0,Purge Interactions,
+691,915,PV_CONC_PGM_GRP,13.09.00,2,22.12.00,0,0,PRM Concurrent Job request group,PV_CONC_PGM_GRP
+696,916,IEU Administration,09.08.00,2,22.12.00,1,0,Advanced administration functions owned by Universal Work Queue.,IEU_RG_ADMIN
+222,918,Maturity and Risk,06.09.00,2,22.12.00,1,0,Bills Receivable Maturity and Risk program,MATURITY_RISK
+800,931,AU HRMS Reports and Processes,16.08.00,2,12.06.01,1,0,Australian HRMS Reports and Processes,AU_HRMS_REP_PRO
+800,932,AU PAY Reports and Processes,16.08.00,2,12.06.01,1,0,Australian Payroll Reports and Processes,AU_PAY_REP_PRO
+800,935,AU HR Reports and Processes,16.08.00,2,12.06.01,1,0,Australian HR Reports and Processes,AU_HR_REP_PRO
+800,942,HR Foundation,04.01.01,2,12.06.01,1,0,HR Foundation Request Group,
+8401,946,Budget User Reports,07.08.00,2,12.06.01,1,0,Budget User Reports by responsibility,
+519,966,IES_REQUEST_GROUP,09.04.01,1,30.08.01,1,0,Request Group for Scripting,IES_REQUEST_GROUP
+708,972,CZ_CONC_GROUPS,23.02.05,120,30.08.01,1,0,Configurator Administrator Request Group,
+385,974,All WMS Reports,24.05.01,2,30.08.01,0,0,All Warehouse Management Reports,ALL_WMS_REPORTS
+777,975,Project Contracts (All),11.05.01,2,30.08.01,1,0,All Oracle Project Contracts related programs,OKE_ALL
+800,976,ZA HRMS Reports & Processes,28.06.06,120,30.08.01,1,0,ZA HRMS Reports and Processes,ZA_HRMS_REP_PRO
+800,977,HK Pay Reports and Processes,21.01.01,2,30.08.01,1,0,Hong Kong Payroll Reports and Processes,HK_PAY_REP_PRO
+8450,978,Reports,28.12.00,2,30.08.01,1,0,Multiple Fund : Reports and Requests,MFREPORTS
+8450,979,Control,28.12.00,2,30.08.01,1,0,Control Multiple Fund,MFCONTROL
+240,980,PN_MASS_APPROVE,11.01.01,2,30.08.01,1,0,Mass Approval for Lease Schedules,PN_MASS_APPROVE
+270,983,EAA Concurrent Request Group,25.06.03,1,31.05.02,1,0,The report group contains concurrent programs and reports,EAA_CONCURRENT_REQUEST_GROUP
+800,986,US OAB Reports & Processes,16.08.00,2,31.05.02,1,0,US OAB Reports & Processes,
+800,987,DE HRMS Reports & Process,27.10.04,1,31.05.02,1,0,DE HRMS Reports and Processes,
+800,988,DE HR Reports & Processes,06.11.01,2,31.05.02,1,0,German HR Reports & Processes,DE_HR_REP_PRO
+800,989,IE HRMS Reports & Processes,02.05.01,2,31.05.02,1,0,Irish HRMS Reports and Processes,IE_HRMS_REP_PRO
+800,990,IE HR Reports & Processes,02.05.01,2,31.05.02,1,0,Ireland HR reports and processes,IE_HR_REP_PRO
+800,991,CA HR Reports & Processes,22.05.01,2,31.05.02,1,0,Canadian HR Reports and Processes,CA_HR_Reports_and_Processes
+800,992,US OSB Reports & Processes,18.08.00,2,31.05.02,1,0,US OSB Reports & Processes,
+800,994,ZA SHRMS Reports & Processes,28.06.06,120,31.05.02,1,0,ZA SHRMS Reports and Processes,ZA_SHRMS_REP_PRO
+800,995,%,22.11.00,2,31.05.02,1,0,,
+800,998,NL HRMS Reports & Process,02.02.01,2,31.05.02,1,0,NL HRMS Reports and Processes,NL_HRMS_REP_PRO
+800,999,KR HRMS Reports & Processes,28.06.06,120,31.05.02,1,0,Korea HRMS Reports and Processes,KR_HRMS_REP_PRO
+800,1000,IE SHRMS Reports & Processes,02.05.01,2,31.05.02,1,0,Irish SHRMS Reports and Processes,IE_SHRMS_REP_PRO
+800,1001,IE Payroll Reports & Processes,21.05.01,2,31.05.02,1,0,Ireland Payroll reports and processes,IE_PAY_REP_PROC
+800,1004,JP SHR Reports & Processes,14.12.05,120,12.09.01,1,0,Obsoleted the Request Group in R12,JP_SHR_REP_PRO
+542,1008,Installed Base Processors,14.12.01,2,14.12.01,2,0,Oracle Installed Base Concurrent Requests,CSI_REQUESTS
+542,1009,Installed Base Reports,14.12.01,2,14.12.01,2,0,Oracle Installed Base Reports,CSI_REPORTS
+809,1011,Global OTL Reports & Processes,11.06.01,2,11.06.01,1,0,These reports and processes can be run for any OTL instance,GLOBAL_OTC_REQUEST_GROUP
+201,1013,Oracle P2P Administrator,25.07.01,2,25.07.01,1,0,,
+545,1014,IEC_REQ_GROUP,03.10.01,2,03.10.01,2,0,,IEC_REQ_GROUP
+545,1017,Advanced Outbound Group,03.10.01,2,03.10.01,2,0,,IEC_ADMIN
+8400,1019,IGI_FA_SETUP,12.09.01,2,12.09.01,1,0,Setup Reports,IGI_FA_SETUP
+8400,1020,IGI_FA_MHC,12.09.01,2,12.09.01,1,0,Modified Historic Cost Accounting Reports,IGI_FA_MHC
+8400,1021,IGI_GBV_NAO,24.10.01,2,24.10.01,1,0,GBV NAO Reports,IGI_GBV_NAO
+870,1024,Contracts Intelligence All,06.07.01,2,31.05.02,1,0,All Contracts Intelligence Concurrent Requests,OKI_CONCURRENT_REQUEST_ALL
+541,1026,Contracts for Rights group,29.10.01,2,29.10.01,1,0,Contracts for Rights group,CONTRACTS_FOR_RIGHTS_GROUP
+191,1082,DBI Requests and Reports,18.08.05,120,25.06.03,0,0,,BIS_DBI_REQ_GROUP
+430,1083,DDD_CADVIEW_SERVER_GROUP,11.03.04,2,25.06.03,0,0,Request Group for CADView-3D Server,
+426,1084,EAM_REPORTS,04.11.02,2,25.06.03,0,0,Enterprise Asset Management Reports,EAM_REPORTS
+191,1094,BIS PMV Table Cleanup,11.09.02,2,11.09.02,2,0,Delete old records from BIS_USER_ATTRIBUTES table,BIS_USER_ATTRIBUTES
+676,889,Sales Intelligence Admin,01.09.00,2,11.10.00,0,0,Request Group for Sales Intelligence OLTP Collection,BIL
+410,891,WSM_JOB_REPORTS,29.06.00,2,11.10.00,1,0,Shopfloor Management Reports,WSM_JOB_REPORTS
+800,922,US SHR Reports & Processes,28.06.06,120,12.06.01,1,0,US SHR reports and processes,US_SHR_REP_PRO
+800,923,US SHRMS Reports & Processes,28.06.06,120,12.06.01,1,0,US SHRMS reports and processes,US_SHRMS_REP_PRO
+800,924,UK SHR Reports & Processes,16.08.00,2,12.06.01,1,0,UK SHR reports and processes,
+800,925,UK SHRMS Reports & Processes,28.06.06,120,12.06.01,1,0,UK SHRMS reports and processes,GB_SHRMS_REP_PRO
+673,927,IBY_SCHED_GROUP,18.01.01,2,12.06.01,1,0,,
+8405,928,All Reports,18.09.03,2,12.06.01,1,0,All Reports and Concurrent Programs,
+191,898,Warehouse All Reports,05.06.01,1,11.10.00,1,0,All reports and programs for EDW warehouse responsibility.,BIS_EDW_WH_REPORTS
+800,899,CA HRMS Reports & Processes,28.06.06,120,11.10.00,1,0,Canadian HRMS Reports and Processes,CA_HRMS_REP_PRO
+556,901,OPM GML Request Group for GPN,24.05.00,2,11.10.00,1,0,OPM GML Request Group for Graphical Process Navigator,OPM_GML_REQ_FOR_GPN
+532,905,Sales for Comms Program,26.04.00,2,11.10.00,1,0,To get a feedback notice from OM,
+200,906,Payables Reports Only,14.06.00,2,11.10.00,1,0,AP SRS reports, not including update programs,
+8401,909,All Reports,01.08.00,2,11.10.00,1,0,All reports and concurrent programs,
+8403,910,PSP - Process and Reports,30.10.00,2,11.10.00,1,0,All Reports and Processes for Labor Distribution,PSP_ALL_PROGRAMS
+190,911,Implementation OPM,30.08.01,1,11.10.00,1,0,,
+800,912,IT HRMS Reports & Process,05.01.01,2,01.01.80,1,0,IT HRMS Reports and Processes,IT_HRMS_REP_PRO
+530,913,Oracle Marketing Reports,15.02.06,120,11.10.00,1,0,Oracle Marketing Programs,
+800,930,NZ HRMS Reports and Processes,16.08.00,2,12.06.01,1,0,New Zealand HRMS Reports and Processes,NZ_HRMS_REQ_GRP
+800,933,NZ PAY Reports and Processes,16.08.00,2,12.06.01,1,0,New Zealand Payroll Reports and Processes,NZ_PAY_REQ_GRP
+800,934,SG HRMS Reports and Processes,16.11.00,2,12.06.01,1,0,Singapore HRMS Reports and Processes,SG_HRMS_REP_PRO
+800,936,SG PAY Reports and Processes,16.11.00,2,12.06.01,1,0,Singapore Payroll Reports and Processes,SG_PAY_REP_PRO
+800,937,SG HR Reports and Processes,16.11.00,2,12.06.01,1,0,Singapore HR Reports and Processes,SG_HR_REP_PRO
+800,938,NZ HR Reports and Processes,16.08.00,2,12.06.01,1,0,New Zealand HR Reports and Processes,NZ_HR_REQ_GRP
+800,939,HK HRMS Reports and Processes,16.08.00,2,12.06.01,1,0,Hong Kong HRMS Reports and Processes,HK_HRMS_REP_PRO
+800,940,Global SHRMS Reports & Process,26.01.01,2,12.06.01,1,0,Global SHRMS Reports and Processes,GLOBAL_HRMS_REP_PRO
+800,941,BE HRMS Reports & Process,05.01.01,2,12.06.01,1,0,BE HRMS Reports and Processes,BE_HRMS_REP_PRO
+8400,947,IGI_CBR_AR_GROUP,17.06.04,120,12.06.01,0,0,Receivables Combined Basis Reports,IGI_CBR_AR_GROUP
+8400,948,IGI_AOL_GROUP,17.06.04,121,12.06.01,0,0,Report Security Group for System Administration,IGI_AOL_GROUP
+8400,949,IGI_AR_SETUP,14.11.00,2,12.06.01,1,0,Receivables Global,IGI_AR_SETUP
+8400,950,IGI_AR_RPI,17.06.04,120,12.06.01,1,0,Standing Charges,IGI_AR_RPI
+8400,951,IGI_AR_ARC,14.11.00,2,12.06.01,1,0,Combined Basis Accounting,IGI_AR_ARC
+8400,952,IGI_ARC_SETUP,14.11.00,2,12.06.01,1,0,Receivables Global,IGI_ARC_SETUP
+8400,953,IGI_AR_DUN,14.11.00,2,12.06.01,1,0,Dunning Letters,IGI_AR_DUN
+8400,954,IGI_AR_INS,17.06.04,120,12.06.01,1,0,Installment Terms,IGI_AR_INS
+8400,955,IGI_SIA_GROUP,17.06.04,120,12.06.01,1,0,SIA Request Security Group,IGI_SIA_GROUP
+8400,956,IGI_AP_MPP,14.11.00,2,12.06.01,1,0,Multi Period Posting - Reports,IGI_AP_MPP
+8400,957,IGI_CIS_GROUP,14.11.00,2,12.06.01,1,0,Report Security Group for Construction Industry Scheme,IGI_CIS_GROUP
+8400,958,IGI_ITR_GROUP,17.06.04,120,12.06.01,1,0,Report Security Group for Internal Trading,IGI_ITR_GROUP
+8400,959,IGI_COM_GROUP,14.11.00,2,12.06.01,1,0,Report Security Group for Cash & Accruals,IGI_COM_GROUP
+8400,960,IGI_BUD_GROUP,17.06.04,120,12.06.01,1,0,Report Security Group for Budgeting Extensions,IGI_BUD_GROUP
+8400,961,IGI_INT_GROUP,17.06.04,120,12.06.01,1,0,Report Security Group for Generic Interface,IGI_INT_GROUP
+8400,962,IGI_SLS_REPORTS,17.06.04,120,12.06.01,0,0,SLS Reports,IGI_SLS_REPORTS
+8400,963,IGI_SLS_PLSQL,17.06.04,120,12.06.01,0,0,SLS PL/SQL Processes,IGI_SLS_PLSQL
+8400,964,IGI_CBR_GL_GROUP,17.06.04,120,12.06.01,0,0,General Ledger Combined Basis Reports,IGI_CBR_GL_GROUP
+8400,965,IGI_CBR_AP_GROUP,17.06.04,120,12.06.01,0,0,Payables Combined Basis  Reports,IGI_CBR_AP_GROUP
+873,981,All Reports,02.07.01,2,31.05.02,0,0,Request Set for CSE,
+872,982,XNI Reports,28.09.01,2,31.05.02,0,0,,XNI_IB_REPORTS
+530,984,Trade Management Request Group,04.04.01,2,04.04.01,2,0,Trade Management Request Group,AMS_TM_CONCURRENT_PROGRAMS
+862,1002,BIV Collection Programs,03.08.01,2,31.05.02,1,0,All Collection Programs for Oracle Service Intelligence,BIV_PROGRAMS
+514,1007,DEMS Concurrent Request Group,07.08.01,2,31.05.02,1,0,DEMS Concurrent Request Group,CSS_DEF_REQUEST_GROUP
+808,1012,OTLR Reports and Processes,27.07.01,2,27.07.01,1,0,,
+680,1016,IEM_STANDALONE_DBA,13.08.01,1,13.08.01,1,0,,
+695,1018,Collections Administration,30.05.01,2,30.05.01,1,0,Collections Batch Administration Processing Request Group,
+690,1022,Interaction History Import,30.05.01,2,31.05.02,1,0,Interaction History Data Import,JTF_IH_IMPORT
+451,1028,MBI_REQUEST_GROUP,03.01.07,1,31.05.02,1,0,Manufacturing Intelligence Request Group,MBI_REQUEST_GROUP
+240,1029,PN_RENT_INCREASE_REPORTS,24.08.01,2,31.05.02,1,0,Rent Increase Reports,PN_RENT_INCREASE_REPORTS
+8401,1030,MRC Programs PSB,25.02.01,2,25.02.01,1,0,Reports and Concurrent Programs,
+673,1044,IBY_DBC_GROUP,24.04.02,2,25.10.02,0,0,,
+8405,1045,Financial Aid Concurrent Jobs,26.02.02,2,25.10.02,0,0,Financial Aid Concurrent Jobs,
+722,1047,Demand Planning,11.10.02,2,26.10.02,0,0,Group for Demand Planning System Administrator,MSD_REQ_GROUP
+800,1049,iRecruitment Processes,12.03.02,2,26.10.02,0,0,iRecruitment Processes,IRC_PROC
+8400,1056,IGI_AP_EXP,13.12.01,2,13.12.01,1,0,Exchange Protocol Request Group,IGI_AP_EXP
+690,1059,CRM Intermedia Index,07.12.01,2,07.12.01,2,0,CRM Intermedia Index,JTFTKIMD
+800,1061,CA SHRMS Reports & Processes,28.06.06,120,11.06.02,2,0,CA SHRMS Reports & Processes,CA_SHRMS_REP_PRO
+240,1062,PN_VARIABLE_RENT_REPORTS,10.01.02,2,10.01.02,2,0,Variable Rent Reports,PN_VARIABLE_RENT_REPORTS
+867,1081,All Reports,07.10.02,2,25.06.03,0,0,All AHL Reports,
+709,1085,EDR_SUPER_USER_REQ_GROUP,23.10.02,2,25.06.03,0,0,ERES Super User Request Group,
+709,1086,EDR_DEVELOPER_REQ_GROUP,23.10.02,2,25.06.03,0,0,ERES Developer Request Group,
+709,1087,EDR_USER_REQ_GROUP,23.10.02,2,25.06.03,0,0,ERES User Request Group,
+222,1093,Credit Management,12.10.02,2,12.10.02,2,0,Credit Management,ARCMGT
+8400,1098,IGI_IMP_IAC_REPORTS,29.10.07,121,06.06.02,2,0,Inflation Accounting : Implementation Reports,IGI_IMP_IAC_REPORTS
+8400,1099,IGI_IAC_REPORTS,29.10.07,121,23.04.02,2,0,Inflation Accounting Reports,IGI_IAC_REPORTS
+222,1103,Bill Presentment All,24.02.04,2,27.10.04,0,0,All programs,AR_BPA_ALL
+431,1112,Item Manager RG,21.07.04,2,27.10.04,0,0,Item Manager Request Group,EGO_IM_RG
+7002,1120,Slovak GL Reports,28.08.03,2,27.10.04,0,0,Slovak GL Reports with Localizations,
+7002,1121,Slovak AR Reports,28.08.03,2,27.10.04,0,0,Slovak AR Reports With Localizations,
+7002,1122,Slovak AP Reports,28.08.03,2,27.10.04,0,0,Slovak AP Reports with Localizations,
+800,1127,ES HRMS Reports & Process,16.05.07,121,27.10.04,0,0,Spanish HRMS Reports and Processes,ES_HRMS_REP_PRO
+222,1137,General Ledger Transfer,18.05.04,2,18.05.04,2,0,Receivables General Ledger Transfer,ARGLTP
+274,1146,FEM Integrations Program Group,30.11.05,121,03.12.03,2,0,Concurrent Program Group for FEM Integrations,FEM_INTEGRATION_CONC_PGM_GROUP
+260,1154,Cash Management Setup Admin,03.01.07,0,03.01.07,0,0,Empty request group,
+260,1155,Cash Management Analyst,03.01.07,0,03.01.07,0,0,Empty request group,
+260,1156,Cash Accountant,03.01.07,0,03.01.07,0,0,Empty request group,
+260,1157,Cash Management Manager,03.01.07,0,03.01.07,0,0,Empty request group,
+701,1158,M4U ALL Concurrent Programs,30.08.04,121,03.01.07,0,0,Request group for M4U Concurrent Programs,M4U_ALL_REQUESTS
+800,1200,DK HRMS Reports & Process,25.04.04,120,03.01.07,0,0,Denmark HRMS Reports and Processes,DK_HRMS_REP_PRO
+800,1208,MX HRMS Reports and Processes,06.12.04,120,03.01.07,0,0,,MX_HRMS_REPORTS_PROCESS
+240,1213,PN_SUPER_USER_REQUEST_GROUP,03.01.07,0,03.01.07,0,0,Empty request group,
+602,1214,Subledger Accounting Reports,30.05.05,2,03.01.07,0,0,All Reports for the Oracle Subledger Accounting.,XLA_REPORTS
+881,1218,XNB Reports,16.12.04,2,03.01.07,0,0,XNB Requests,XNB_REPORTS
+874,1308,Mobile Field Service Admin,07.05.08,121,25.11.08,0,0,Mobile Field Service Administrator concurrent request group,
+718,1329,RRS_ADMIN_GROUP,01.02.06,121,25.11.08,0,0,,RRS_ADMIN_GROUP
+222,1389,OIR Request Group All,02.04.10,121,20.04.15,0,0,Request Group For All iReceivables Concurrent Programs,ARI_REQUEST_GROUP_ALL
+177,1393,Supplier Data Librarian,19.08.09,121,20.04.15,0,0,Supplier Data Librarian Request Group,POS_SDL_GROUP
+177,1394,Supplier Management,18.08.09,121,20.04.15,0,0,Supplier Management Request Group,POS_SM_GROUP
+177,1395,Supplier Management Admin,03.05.10,121,20.04.15,0,0,Supplier Management Request Group,POS_SM_ADMIN_GROUP
+101,1668,MAR_GL Concurrent Program,15.05.18,2257,15.05.18,2257,9888646,,MAR_GL_CONCURRENT_PROGRAM
+800,1768,MA HRMS Reports & Process,02.08.18,1732,02.08.18,1732,11315776,Morocco HRMS Reports and Processes,MA_HRMS_REP_PRO
+201,1808,Requisition Import,04.09.18,1732,04.09.18,1732,11862945,,
+800,1828,Morocco Data Group,21.10.18,1732,21.10.18,1732,13038168,,
+200,1888,API_Supplier_ALL,31.01.19,2257,31.01.19,2257,15646855,,
+271,1105,BSC Loader Request and Report,28.12.04,121,27.10.04,0,0,BSC Loader Request and Report,BSC_PMD_LDR_REQ_GRP
+431,1111,Development Manager RG,10.07.03,2,27.10.04,0,0,Development Manager Request Group,EGO_DM_RG
+266,1114,IDT Concurrent Program Group,04.08.03,2,27.10.04,0,0,Concurrent Programs for Interface Data Transformer,IDT_CONCURRENT_PROGRAM_GROUP
+557,1115,OPM GR Admin Request Group,24.02.04,2,27.10.04,0,0,Request Group for Regulatory Administrator Reports,OPM_GR_ADMIN_REQUEST_GROUP
+205,1116,All Reports and Programs,05.01.04,2,27.10.04,0,0,All standard submission programs for Oracle iAssets,
+549,1117,OCM Concurrent Programs,08.12.03,2,27.10.04,0,0,Concurrent Programs for OCM,IBCCONPRG
+390,1123,All MST Reports,21.07.03,2,27.10.04,0,0,ALL MST Reports,MST_ALL_REPORTS
+682,1125,Trade Management Request Group,26.02.04,2,27.10.04,0,0,Oracle Trade Management Request Group,OZF_CONCURRENT_PROGRAMS_11510
+800,1129,MX HR Reports and Processes,10.03.04,2,27.10.04,0,0,Reports and Processes for Mexican HR Manager,MX_HR_RP
+455,1138,Load Catalog Hierarchy Program,25.06.03,2,25.06.03,2,0,,ENI_HRCHY_PRG
+517,1141,BIM_DBI_REQUEST_GROUP,05.12.02,2,27.10.04,0,0,Request Group for Marketing Intelligence DBI,
+455,1144,All Reports,27.10.04,0,27.10.04,0,0,Empty request group,
+170,1162,Knowledge Management Programs,13.09.05,121,03.01.07,0,0,Knowledge Management concurrent programs,CS_KB_PROGRAMS
+553,1170,OPM GME Requests,20.06.06,121,03.01.07,0,0,OPM GME Reports and Conc Request Group,OPM_GME_Request_Group
+673,1177,IBY_SYS_SECURITY_GROUP,03.05.06,121,03.01.07,0,0,,
+870,1198,OKI Discoverer Requests,03.01.07,0,03.01.07,0,0,Empty request group,
+800,1204,SE HRMS Reports & Process,25.05.07,120,03.01.07,0,0,Sweden HRMS Reports and Processes,SE_HRMS_REP_PRO
+266,1237,GCS Admin,13.08.04,2,13.08.04,2,0,GCS Admin,GCS_CONCURRENT_PROGRAM_GROUP
+555,1239,OPM GMF Valuation Reports,30.10.05,120,30.10.05,120,0,OPM GMF Valuation Reports,OPM_GMF_VALUATION_REP
+555,1240,OPM GMF Item Reports,30.10.05,120,30.10.05,120,0,OPM GMF Item Reports,OPM_GMF_ITEM_REP
+778,1241,JMF SHIKYU Report Group,27.06.05,120,27.06.05,120,0,Report group for SHIKYU,JMF_SHIKYU_RPT
+778,1242,JMF SHIKYU Request Group,27.06.05,120,27.06.05,120,0,Request group for SHIKYU,JMF_SHIKYU_RST
+778,1243,JMF GTA Analysis Reports,05.03.10,121,25.08.05,120,0,OBSOLETE,JMF_GTA_ANALYSIS_REPORTS
+778,1244,JMF GTA Interface Programs,05.03.10,121,25.08.05,120,0,OBSOLETE,JMF_GTA_INTERFACE_GROUP
+701,1309,M4U: Demand Request Group,23.05.07,121,25.11.08,0,0,M4U: Demand Request Group,M4U_DMD_REQUESTS
+778,1313,Subcontracting Request Group,12.03.08,121,25.11.08,0,0,Request Group for all Subcontracting Concurrent Requests,JMF_SHIKYU_ALL_REQUESTS
+7000,1390,JAI_Projects_RG,25.04.09,121,20.04.15,0,0,India Localization Projects Request Group,JAIPARG
+235,1628,API_TAX_Reports,14.02.18,2257,14.02.18,2257,8297352,,
+800,1689,AE HRMS Reports - No Payroll,05.06.18,1732,05.06.18,1732,10307075,UAE HRMS Reports and Processes,AE_HRMS_REP_PRO_NO_PAYROLL
+140,1788,XX_All Reports_FA,02.09.18,2257,02.09.18,2257,11910795,,
+800,2028,XX USERS LOGINS LOG,19.03.20,2424,19.03.20,2424,27584931,This RG includes one request and assigned to Employees Logins Log Responsibility,
+677,1104,ICI Group to Run Request Sets,14.07.03,2,27.10.04,0,0,Request group to run ICI request sets and individual programs,BIX_RSET_GROUP
+260,1107,Cash Manager Web,17.07.03,2,27.10.04,0,0,Cash Manager Web Reports,
+260,1108,Cash Manager,29.11.05,120,27.10.04,0,0,,
+260,1109,CE Back Office Administrator,17.07.03,2,27.10.04,0,0,,
+800,1126,SA HRMS Reports & Process,24.07.03,2,27.10.04,0,0,Saudi Arabia HRMS Reports and Processes,SA_HRMS_REP_PRO
+800,1128,HU HRMS Reports & Process,16.10.03,2,27.10.04,0,0,Hungarian HRMS Reports and Processes,HU_HRMS_REP_PRO
+177,1131,Profile Administrator,11.11.03,2,27.10.04,0,0,,
+185,1132,Treasury, Cash and Risk All,30.07.03,2,27.10.04,0,0,Treasury, Cash and Risk Management All Requests,
+185,1133,Treasury Back Office Admin,30.07.03,2,27.10.04,0,0,Treasury Back Office Administrator,
+185,1134,Treasury Cash Manager,30.07.03,2,27.10.04,0,0,Treasury Cash Manager,
+185,1135,Treasury Middle Office Admin,30.07.03,2,27.10.04,0,0,Treasury Middle Office Administrator,
+185,1136,Treasury Setup Admin,30.07.03,2,27.10.04,0,0,Treasury Setup Administrator,
+661,1139,QP PO Concurrent Programs,27.10.03,2,27.10.03,2,0,QP Concurrent programs for purchasing application,QP_PO_CONC_PROGRAMS
+1292,1145,All PJI Programs,03.09.02,2,27.10.04,0,0,All Programs for Project Intelligence,PJI_ALL_PROGS
+242,1149,RCI Request Group,17.01.06,121,03.01.07,0,0,,RCI_RG
+190,1151,AZ_REQUEST_GROUP,03.01.07,0,03.01.07,0,0,Empty request group,
+283,1159,Plan Administrator Requests,30.06.06,120,03.01.07,0,0,Request group for the plan administrator responsibility,
+283,1160,Compensation Manager Requests,30.06.06,120,03.01.07,0,0,Request group for the compensation manager responsibility,
+283,1161,Compensation Analyst Requests,30.06.06,120,03.01.07,0,0,Request group for the compensation analyst responbility,
+873,1163,OAT Requests,03.01.07,0,03.01.07,0,0,Empty request group,
+508,1166,FTP Program Group,03.01.07,0,03.01.07,0,0,Empty request group,
+809,1174,OTL Reports and Processes,21.02.05,2,03.01.07,0,0,,OTL_REQUEST_GROUP
+680,1178,IEM_DBA,03.01.07,0,03.01.07,0,0,Empty request group,
+8405,1179,IGR_REPORTS,23.02.05,2,03.01.07,0,0,All Student Recruiting Reports and Concurrent Programs,
+690,1194,Territory Management,03.01.07,0,03.01.07,0,0,Empty request group,
+206,1195,LNS_SLA_MAINTENANCE_REQUESTS,22.09.05,121,03.01.07,0,0,Loans Subledger Accounting Maintenance,
+206,1196,LNS_ADMIN_REQUESTS,05.01.04,121,03.01.07,0,0,Loans Administrator Requests,
+510,1197,Contract Repository Requests,14.02.05,121,03.01.07,0,0,Concurrent Request Group for Contract Repository,OKC_REP_REQ_GRP
+800,1203,KW HRMS Reports & Process,13.04.04,120,03.01.07,0,0,Global HRMS Reports and Processes,KW_HRMS_REP_PRO
+800,1205,NO HRMS Reports & Process,03.06.07,120,03.01.07,0,0,Norway HRMS Reports and Processes,NO_HRMS_REP_PRO
+800,1207,PL Payroll Reports & Processes,26.01.04,2,03.01.07,0,0,Polish Payroll Reports and Processes,PL_PAY_REP_PRO
+800,1209,RU HRMS Reports & Process,22.08.04,2,03.01.07,0,0,Russian HRMS Reports and Processes,RU_HRMS_REP_PRO
+800,1210,AE HRMS Reports & Process,07.06.05,120,03.01.07,0,0,UAE HRMS Reports and Processes,AE_HRMS_REP_PRO
+800,1211,PER_HRMS_LOC_SEED,03.01.07,0,03.01.07,0,0,Empty request group,
+396,1215,Sourcing Supplier Group,18.05.05,121,03.01.07,0,0,,
+661,1216,QP Admin Concurrent Programs,11.01.08,121,03.01.07,0,0,QP Concurrent Programs for Pricing Administrator,QP_ADMIN_CONC_PROGRAMS
+222,1228,Balance Forward Bills,19.01.06,120,19.01.06,120,0,Balance Forward Bills,PRINT_BFB
+222,1229,Late Charges,13.03.06,120,13.03.06,120,0,Receivables Late Charge Generation Program,AR_LATE_CHRG
+222,1230,Send Dunning,10.08.06,120,10.08.06,120,0,IEX: Send Dunnings for delinquent customers,SEND_DUNNING
+222,1231,AR: Create Accounting,23.08.06,120,23.08.06,120,0,AR: Create Accounting,AR_CREATE_ACCOUNTING
+553,1238,OPM GME Conc Request Group,01.05.06,120,01.05.06,120,0,OPM GME Concurrent Programs Request Group,OPM_GME_Conc_Request_Group
+235,1245,Oracle eTax Request group,26.05.05,120,26.05.05,120,0,Empty request group,
+235,1246,E-Business Tax Request group,17.11.05,120,17.11.05,120,0,E-Business Tax request group,
+235,1247,Tax Simulator Purge Request,19.08.05,120,19.08.05,120,0,Oracle E-Business Tax Simulator Purge Request Group,
+274,1248,CPM Intelligence Program Group,20.07.07,121,23.10.07,0,0,CPM Intelligence Program Group,FEM_BI_CONC_PGM_GROUP
+7000,1269,JACN + Data Export Programs,04.07.07,121,04.07.07,121,0,Request group with export programs for CN,JA_CN_DATA_EXPORT_PROGRAMS
+7000,1270,JACN + Cash Flow Statements,04.07.07,121,04.07.07,121,0,All programs related to Cash Flow Statement,JA_CN_CFS_PROGRAMS
+667,1328,QPR_ADMIN_REQUESTS,16.01.08,121,25.11.08,0,0,Deal Management Administrator Request Group,QPR_ADMIN_REQUESTS
+9004,1348,INL_REPORTS,03.06.08,121,02.04.09,0,0,LCM Reports,INL_REPORTS
+222,1388,AR Golden Tax All Reports,19.01.10,121,20.04.15,0,0,Request group with all GTA reports for Golden Tax Adaptor,AR_GTA_ALL_REPORTS
+9001,1391,MTH Concurrent Programs,14.01.10,121,20.04.15,0,0,Oracle Manufacturing Operations Center Concurrent Programs,MTH_CONCURRENT_PROGRAMS
+201,1428,ACWA Purchasing Request Set,05.05.15,1150,05.05.15,1150,51749,,
+800,1488,Payslip Test Self Service,30.11.15,1732,30.11.15,1732,871007,,
+800,1528,Acwa HR Auditing Reports,13.11.16,2424,13.11.16,2424,2873819,,
+800,1588,XXX_HR_SP_REPORTS,03.08.17,1732,03.08.17,1732,5836014,,
+800,1688,SA HRMS Reports - No Payroll,05.06.18,1732,05.06.18,1732,10265880,Saudi Arabia HRMS Reports and Processes,SA_HRMS_REP_PRO_NO_PAYROLL
+101,1748,OPEN_CLOSE_PERIOD,03.07.18,2424,03.07.18,2424,10803939,,
+101,1948,API_Period_Manager,08.07.19,2257,08.07.19,2257,19747101,,
+800,2008,Signon Auditing RG,27.01.20,2424,27.01.20,2424,24942413,,
+800,2048,XXX_HR_SP_REPORTS1,18.06.20,1732,18.06.20,1732,30878214,,
+396,2068,Sourcing Admin Group,01.09.13,121,06.07.20,0,0,,
+242,1102,Audit Manager Reports,22.04.03,2,27.10.04,0,0,Audit Manager Reports,
+695,1118,Collections Lease Admin,17.02.04,2,27.10.04,0,0,Collections Lease Administration Processing Request Group,
+510,1124,Contract Terms Request Group,24.02.04,121,27.10.04,0,0,Concurrent requests for contract terms and deliverables.,OKC_TERMS_REQ_GRP
+396,1130,Sourcing Group,02.02.05,120,27.10.04,0,0,,
+677,1142,ICI Request Group for DBI,27.08.02,2,27.10.04,0,0,Interaction Center Intelligence Request Group for DBI,BIX_DBI_REQ_GROUP
+210,1147,ZPB Request Group,20.02.08,121,27.10.04,0,0,Oracle Enterprise Planning and Budgeting Request Group,
+869,1150,Wireless Sales Administrator,03.01.07,0,03.01.07,0,0,Empty request group,
+702,1152,Cost Management - SLA,15.07.05,121,03.01.07,0,0,Cost management request group with SLA concurrent programs,CST_ALL_WITH_SLA
+702,1153,Colombia Manufacturing,31.10.05,121,03.01.07,0,0,Colombia Inflation Adjustment concurrent programs,COLOMBIA_MANUFACTURING
+708,1164,CZ_DEV_CONC_GROUP,23.02.05,121,03.01.07,0,0,Configurator Developer Request Group,
+266,1169,FCH Program Group,31.03.05,2,03.01.07,0,0,,
+809,1173,OTL Advanced Processes,21.02.05,2,03.01.07,0,0,,HXC_ADV_PROCESSES_REQ_GROUP
+230,1181,ITG Concurrent Programs,03.01.07,0,03.01.07,0,0,Empty request group,
+7000,1182,JAI_FixedAssets_RG,23.06.05,121,03.01.07,0,0,India Localization Fixed Assets Request group,JAIFARG
+7000,1183,JAI_Payables_RG,23.06.05,121,03.01.07,0,0,India Localization Payables Request group,JAIAPRG
+7000,1184,JAI_Receivables_RG,23.06.05,121,03.01.07,0,0,India Localization Receivables Request group,JAIARRG
+7000,1185,JAI_Inventory_RG,23.06.05,121,03.01.07,0,0,India Localization Inventory Request group,JAIINVRG
+7000,1186,JAI_OrderMgmt_RG,23.06.05,121,03.01.07,0,0,India Localization Order Mgmt Request group,JAIOMRG
+7000,1187,JAI_Purchasing_RG,23.06.05,121,03.01.07,0,0,India Localization Purchasing Request group,JAIPORG
+778,1192,JMF GoldenTax All Reports,05.03.10,121,03.01.07,0,0,OBSOLETE,JMF_GTA_ALL_REPORTS
+778,1193,JMF SHIKYU All Request Group,03.01.07,0,03.01.07,0,0,Empty request group,
+801,1199,Global SLA/Payroll Processes,12.10.06,121,03.01.07,0,0,Global SLA/Payroll Processes,GLB_SLA_PAYROLL_PROCESSES
+507,1212,PFT Program Group,12.12.05,121,03.01.07,0,0,Concurrent Program Group for PFT application,PFT_CONC_PGM_GROUP
+210,1219,ZPB Controller Request Group,20.02.08,121,03.01.07,0,0,Oracle EPB Controller Responsibility Request Group,
+432,1234,Document Management,30.05.06,120,30.05.06,120,0,Document Management Request Group,DOM_ALL_REQ_GRP
+8400,1268,IGI_CIS2007_REPORTS,11.07.07,121,03.10.06,2,0,Construction Industry Scheme : Processes and Reports,IGI_CIS2007_REPORTS
+8400,1288,IGI_DUNNING_POST_UPG,07.11.07,120,07.11.07,120,0,Dunning post upgrade,
+9000,1310,DPP_CONCURRENT_PROGRAMS,03.12.07,121,25.11.08,0,0,,DPP_CONCURRENT_PROGRAMS
+0,1311,Auditing Manager Reports,14.01.08,121,25.11.08,0,0,Auditing Manager Reports,
+401,1312,Integrations Request Group,29.01.08,121,25.11.08,0,0,,INV_EBI_REQUEST_GROUP
+8400,1368,IGI_IAC_REPORTS_XML,13.04.08,121,13.04.08,121,0,Inflation Accounting Reports XML,IGI_IAC_REPORTS_XML
+8400,1369,IGI_SIA_GROUP_XML,13.04.08,121,13.04.08,121,0,SIA Request Security Group XML,IGI_SIA_GROUP_XML
+222,1408,AR GTA Analysis Reports,19.01.10,121,19.01.10,121,0,Request group with analysis reports for GTA,AR_GTA_ANALYSIS_REPORTS
+222,1409,AR GTA Interface Programs,19.01.10,121,19.01.10,121,0,Request group with all interface programs for GTA,AR_GTA_INTERFACE_GROUP
+800,1468,Acwa HR Reports,07.09.15,1732,07.09.15,1732,798262,,XXX_HR_REPORTS
+800,1508,OM HRMS Reports & Process,09.10.16,1732,09.10.16,1732,2366030,,OM_HRMS_REP_PRO
+101,1928,API_VAT Report,17.06.19,2257,17.06.19,2257,19173648,,
+530,1101,AMS_REQUEST_GROUP,19.08.03,2,27.10.04,0,0,Request Group for Oracle Marketing Requests,AMS_REQUEST_GROUP
+539,1106,IEO_CONCURRENT_GROUP,15.10.03,2,27.10.04,0,0,Concurrent Request Group for IEO,
+701,1110,CLN All Concurrent Programs,17.06.03,2,27.10.04,0,0,CLN All Concurrent Programs,CLN_ALL_REQUESTS
+716,1113,FTE Concurrent Req Group,22.05.03,2,27.10.04,0,0,Oracle Transportation Concurrent Request Group,FTE_CONCURRENT_REQ_GROUP
+8405,1119,IGS_SC_REQ_GROUP,09.12.03,2,27.10.04,0,0,IGS Security request group,IGS_SC_REQ_GROUP
+283,1143,Sales Comp DBI Requests,23.09.02,2,27.10.04,0,0,,CN_DBI_REQ_GROUP
+800,1148,Approvals Management Processes,08.09.05,2,03.01.07,0,0,Approvals Management Processes,AME_PROCESSES
+274,1165,Environment Administrator,30.11.05,121,03.01.07,0,0,Access to the Refresh Engine,FEM_ENVIRONMENT_ADMIN
+435,1167,All Intercompany Reports,20.05.05,121,03.01.07,0,0,,
+435,1168,Intercompany User Reports,20.05.05,121,03.01.07,0,0,,
+560,1171,GMO_DISPENSE_GRP,07.10.05,120,03.01.07,0,0,GMO Dispense Report Group,
+560,1172,GMO_ADMIN_GRP,07.10.05,120,03.01.07,0,0,GMO Administrator Accessible Programs,
+549,1175,Content Manager Programs,03.01.07,0,03.01.07,0,0,Empty request group,
+666,1176,Web Analytics: Conc Programs,03.01.07,0,03.01.07,0,0,Empty request group,
+438,1180,IT Auditor Requests,22.11.04,121,03.01.07,0,0,,ITA_IT_AUDITOR_REQ_GP
+7002,1188,Israeli AP Reports,23.03.06,120,03.01.07,0,0,Israeli AP Reports With Localizations,
+7002,1189,Israeli AR Reports,23.03.06,120,03.01.07,0,0,Israeli AR Reports With Localizations,
+7002,1190,Croatian AP Reports,23.03.06,120,03.01.07,0,0,Croatian AP Reports With Localizations,
+7002,1191,Croatian AR Reports,23.03.06,120,03.01.07,0,0,Croatian AR Reports With Localizations,
+800,1201,FI HRMS Reports & Process,11.05.07,120,03.01.07,0,0,Finland HRMS Reports and Processes,FI_HRMS_REP_PRO
+800,1202,IN HRMS Reports and Processes,16.07.04,121,03.01.07,0,0,India Reports and Processes,IN_HRMS_REP_PRO
+800,1206,PL HRMS Reports & Processes,26.01.04,2,03.01.07,0,0,Polish HRMS Reports and Processes,PL_HRMS_REP_PRO
+603,1217,XML Publisher Request Set,03.01.07,0,03.01.07,0,0,Empty request group,
+235,1220,ZX Bulk Testing Tool Group,26.05.05,120,03.01.07,0,0,ZX Bulk Testing Tool Group,ZXITAPIS_GROUP
+235,1221,Oracle E-Business Tax Request,04.05.06,120,03.01.07,0,0,Oracle E-Business Tax request group,
+222,1232,Reconciliation,11.03.05,2,11.03.05,2,0,,AR_RECON
+702,1233,CST_ACCRUAL_REQUESTS,04.05.05,120,04.05.05,120,0,Accrual Reconciliation Requests,CST_ACCRUAL_REQUESTS
+435,1235,Sequencing,20.05.05,120,20.05.05,120,0,,FUN_SEQ_REQUEST_GROUP
+435,1236,Intercompany Request Group,20.05.05,120,20.05.05,120,0,,
+722,1314,Demand Management,19.12.07,121,25.11.08,0,0,Group for Demand Management System Administrator,MSD_DEM_DM_REQ_GRP
+396,1392,Sourcing EMD Group,03.04.09,121,20.04.15,0,0,Request group to contain Sourcing EMD Concurrent Program,
+800,1448,XXX_HR_PAYROLL,17.05.15,1130,17.05.15,1130,59969,,XXX_HR_PAYROLL
+101,1550,XXGL Concurrent Program Group,19.12.16,2257,19.12.16,2257,3677272,,XXGL_CONCURRENT_PROGRAM_GROUP
+200,1551,XXALL Reports_AP,19.12.16,2257,19.12.16,2257,3677272,,
+222,1552,XXReceivables All,19.12.16,2257,19.12.16,2257,3677272,,
+260,1553,XXALL Reports_CE,19.12.16,2257,19.12.16,2257,3677272,,
+200,1568,All Payables Custom Reports,09.06.17,2424,09.06.17,2424,5440564,,
+222,1569,All Recievables Custom Reports,09.06.17,2424,09.06.17,2424,5440564,,
+101,1570,All GL Custom Reports,09.06.17,2424,09.06.17,2424,5440564,,
+260,1571,All Cash Manag. Custom Reports,09.06.17,2424,09.06.17,2424,5440564,,
+140,1572,All Assets Custom Reports,09.06.17,2424,09.06.17,2424,5440564,,
+101,1608,Financial Auditing Reports,10.09.17,2424,10.09.17,2424,6133014,,
+800,1648,Hassyan HR Auditing Reports,06.03.18,2257,06.03.18,2257,8661864,,
+101,1708,AUDIT_Custom,06.06.18,2257,06.06.18,2257,10321083,,
+101,1728,Period_GL Concurrent Program,07.06.18,2257,07.06.18,2257,10340159,Program group that includes all other GL program groups,PERIOD_GL_CONCURRENT_PROGRAM
+101,1848,GL Custom Reports,12.11.18,2257,12.11.18,2257,13601642,,
+101,1868,API_Riyadh GL Reports,13.11.18,2424,13.11.18,2424,13648409,,
+800,1908,XXX_HR_TRAINING_REQUEST,14.03.19,1732,14.03.19,1732,16764572,,
+200,1968,API_Suppliers,18.07.19,2257,18.07.19,2257,20006425,,
+260,1988,XXALL Reports_CE 1,19.12.19,6869,19.12.19,6869,23532254,,

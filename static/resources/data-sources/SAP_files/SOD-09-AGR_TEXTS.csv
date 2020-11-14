@@ -1,0 +1,1596 @@
+300,Z_BR_AA_ACCOUNTANT,E,0,Asset Accountant
+300,Z_BR_AA_ACCOUNTANT,E,1,Role copied from SAP_BR_AA_ACCOUNTANT
+300,Z_BR_AA_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT,E,4,
+300,Z_BR_AA_ACCOUNTANT_IT,E,0,Asset Accountant for Italy
+300,Z_BR_AA_ACCOUNTANT_IT,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_IT
+300,Z_BR_AA_ACCOUNTANT_IT,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_IT,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_IT,E,4,
+300,Z_BR_AA_ACCOUNTANT_JP,E,0,Asset Accountant for Japan
+300,Z_BR_AA_ACCOUNTANT_JP,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_JP
+300,Z_BR_AA_ACCOUNTANT_JP,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_JP,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_JP,E,4,
+300,Z_BR_AA_ACCOUNTANT_KR,E,0,Asset Accountant for South Korea
+300,Z_BR_AA_ACCOUNTANT_KR,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_KR
+300,Z_BR_AA_ACCOUNTANT_KR,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_KR,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_KR,E,4,
+300,Z_BR_AA_ACCOUNTANT_KZ,E,0,Asset Accountant for Kazakhstan
+300,Z_BR_AA_ACCOUNTANT_KZ,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_KZ
+300,Z_BR_AA_ACCOUNTANT_KZ,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_KZ,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_KZ,E,4,
+300,Z_BR_AA_ACCOUNTANT_PL,E,0,Asset Accountant for Poland
+300,Z_BR_AA_ACCOUNTANT_PL,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_PL
+300,Z_BR_AA_ACCOUNTANT_PL,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_PL,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_PL,E,4,
+300,Z_BR_AA_ACCOUNTANT_PT,E,0,Asset Accountant for Portugal
+300,Z_BR_AA_ACCOUNTANT_PT,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_PT
+300,Z_BR_AA_ACCOUNTANT_PT,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_PT,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_PT,E,4,
+300,Z_BR_AA_ACCOUNTANT_RO,E,0,Asset Accountant for Romania
+300,Z_BR_AA_ACCOUNTANT_RO,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_RO
+300,Z_BR_AA_ACCOUNTANT_RO,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_RO,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_RO,E,4,
+300,Z_BR_AA_ACCOUNTANT_RU,E,0,Asset Accountant for Russian Federation
+300,Z_BR_AA_ACCOUNTANT_RU,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_RU
+300,Z_BR_AA_ACCOUNTANT_RU,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_RU,E,4,
+300,Z_BR_AA_ACCOUNTANT_UA,E,0,Asset Accountant for Ukraine
+300,Z_BR_AA_ACCOUNTANT_UA,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_UA
+300,Z_BR_AA_ACCOUNTANT_UA,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_UA,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_UA,E,4,
+300,Z_BR_AA_ACCOUNTANT_US,E,0,Asset Accountant for USA
+300,Z_BR_AA_ACCOUNTANT_US,E,1,Role copied from SAP_BR_AA_ACCOUNTANT_US
+300,Z_BR_AA_ACCOUNTANT_US,E,2,Created automatically with task list:
+300,Z_BR_AA_ACCOUNTANT_US,E,3,FLP content activation for Business Roles
+300,Z_BR_AA_ACCOUNTANT_US,E,4,
+300,Z_BR_ACS_AUDITOR_GR,E,0,Audit Specialist for Greece
+300,Z_BR_ACS_AUDITOR_GR,E,1,Role copied from SAP_BR_ACS_AUDITOR_GR
+300,Z_BR_ACS_AUDITOR_GR,E,2,Created automatically with task list:
+300,Z_BR_ACS_AUDITOR_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_ACS_AUDITOR_GR,E,4,
+300,Z_BR_ADMINISTRATOR_LCM,E,0,Administrator - Enterprise Contract Management
+300,Z_BR_ADMINISTRATOR_LCM,E,1,Role copied from SAP_BR_ADMINISTRATOR_LCM
+300,Z_BR_ADMINISTRATOR_LCM,E,2,Created automatically with task list:
+300,Z_BR_ADMINISTRATOR_LCM,E,3,FLP content activation for Business Roles
+300,Z_BR_ADMINISTRATOR_LCM,E,4,
+300,Z_BR_ADMINISTRATOR_RCP_DEV,E,0,Administrator - Recipe Development
+300,Z_BR_ADMINISTRATOR_RCP_DEV,E,1,Role copied from SAP_BR_ADMINISTRATOR_RCP_DEV
+300,Z_BR_ADMINISTRATOR_RCP_DEV,E,2,Created automatically with task list:
+300,Z_BR_ADMINISTRATOR_RCP_DEV,E,3,FLP content activation for Business Roles
+300,Z_BR_ADMINISTRATOR_RCP_DEV,E,4,
+300,Z_BR_ADMINISTRATOR_RFM,E,0,Administrator (Retail)
+300,Z_BR_ADMINISTRATOR_RFM,E,1,Role copied from SAP_BR_ADMINISTRATOR_RFM
+300,Z_BR_ADMINISTRATOR_RFM,E,2,Created automatically with task list:
+300,Z_BR_ADMINISTRATOR_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_ADMINISTRATOR_RFM,E,4,
+300,Z_BR_ADMIN_APR_FICA,E,0,Administrator - Accounts Payable and Receivable (FI-CA)
+300,Z_BR_ADMIN_APR_FICA,E,1,Role copied from SAP_BR_ADMIN_APR_FICA
+300,Z_BR_ADMIN_APR_FICA,E,2,Created automatically with task list:
+300,Z_BR_ADMIN_APR_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_ADMIN_APR_FICA,E,4,
+300,Z_BR_ADMIN_JVA,E,0,Joint Venture Accountant - Special Ledger
+300,Z_BR_ADMIN_JVA,E,1,Role copied from SAP_BR_ADMIN_JVA
+300,Z_BR_ADMIN_JVA,E,2,Created automatically with task list:
+300,Z_BR_ADMIN_JVA,E,3,FLP content activation for Business Roles
+300,Z_BR_ADMIN_JVA,E,4,
+300,Z_BR_ALLOCATOR_RETAIL,E,0,Allocator (Retail)
+300,Z_BR_ALLOCATOR_RETAIL,E,1,Role copied from SAP_BR_ALLOCATOR_RETAIL
+300,Z_BR_ALLOCATOR_RETAIL,E,2,Created automatically with task list:
+300,Z_BR_ALLOCATOR_RETAIL,E,3,FLP content activation for Business Roles
+300,Z_BR_ALLOCATOR_RETAIL,E,4,
+300,Z_BR_APR_ACCOUNTANT_FICA,E,0,Accounts Payable and Receivable Accountant (FI-CA)
+300,Z_BR_APR_ACCOUNTANT_FICA,E,1,Role copied from SAP_BR_APR_ACCOUNTANT_FICA
+300,Z_BR_APR_ACCOUNTANT_FICA,E,2,Created automatically with task list:
+300,Z_BR_APR_ACCOUNTANT_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_APR_ACCOUNTANT_FICA,E,4,
+300,Z_BR_APR_MANAGER_FICA,E,0,Accounts Payable and Receivable Manager (FI-CA)
+300,Z_BR_APR_MANAGER_FICA,E,1,Role copied from SAP_BR_APR_MANAGER_FICA
+300,Z_BR_APR_MANAGER_FICA,E,2,Created automatically with task list:
+300,Z_BR_APR_MANAGER_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_APR_MANAGER_FICA,E,4,
+300,Z_BR_AP_ACCOUNTANT,E,0,Accounts Payable Accountant
+300,Z_BR_AP_ACCOUNTANT,E,1,Role copied from SAP_BR_AP_ACCOUNTANT
+300,Z_BR_AP_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT,E,4,
+300,Z_BR_AP_ACCOUNTANT_AE,E,0,Accounts Payable Accountant for United Arab Emirates
+300,Z_BR_AP_ACCOUNTANT_AE,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_AE
+300,Z_BR_AP_ACCOUNTANT_AE,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_AE,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_AE,E,4,
+300,Z_BR_AP_ACCOUNTANT_CN,E,0,Accounts Payable Accountant for China
+300,Z_BR_AP_ACCOUNTANT_CN,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_CN
+300,Z_BR_AP_ACCOUNTANT_CN,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_CN,E,4,
+300,Z_BR_AP_ACCOUNTANT_EG,E,0,Accounts Payable Accountant for Egypt
+300,Z_BR_AP_ACCOUNTANT_EG,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_EG
+300,Z_BR_AP_ACCOUNTANT_EG,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_EG,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_EG,E,4,
+300,Z_BR_AP_ACCOUNTANT_ES,E,0,Accounts Payable Accountant for Spain
+300,Z_BR_AP_ACCOUNTANT_ES,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_ES
+300,Z_BR_AP_ACCOUNTANT_ES,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_ES,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_ES,E,4,
+300,Z_BR_AP_ACCOUNTANT_FR,E,0,Accounts Payable Accountant for France
+300,Z_BR_AP_ACCOUNTANT_FR,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_FR
+300,Z_BR_AP_ACCOUNTANT_FR,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_FR,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_FR,E,4,
+300,Z_BR_AP_ACCOUNTANT_GB,E,0,Accounts Payable Accountant for United Kingdom
+300,Z_BR_AP_ACCOUNTANT_GB,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_GB
+300,Z_BR_AP_ACCOUNTANT_GB,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_GB,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_GB,E,4,
+300,Z_BR_AP_ACCOUNTANT_GR,E,0,Accounts Payable Accountant for Greece
+300,Z_BR_AP_ACCOUNTANT_GR,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_GR
+300,Z_BR_AP_ACCOUNTANT_GR,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_GR,E,4,
+300,Z_BR_AP_ACCOUNTANT_IE,E,0,Accounts Payable Accountant for Ireland
+300,Z_BR_AP_ACCOUNTANT_IE,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_IE
+300,Z_BR_AP_ACCOUNTANT_IE,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_IE,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_IE,E,4,
+300,Z_BR_AP_ACCOUNTANT_JP,E,0,Accounts Payable Accountant for Japan
+300,Z_BR_AP_ACCOUNTANT_JP,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_JP
+300,Z_BR_AP_ACCOUNTANT_JP,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_JP,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_JP,E,4,
+300,Z_BR_AP_ACCOUNTANT_KR,E,0,Accounts Payable Accountant for South Korea
+300,Z_BR_AP_ACCOUNTANT_KR,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_KR
+300,Z_BR_AP_ACCOUNTANT_KR,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_KR,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_KR,E,4,
+300,Z_BR_AP_ACCOUNTANT_KW,E,0,Accounts Payable Accountant for Kuwait
+300,Z_BR_AP_ACCOUNTANT_KW,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_KW
+300,Z_BR_AP_ACCOUNTANT_KW,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_KW,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_KW,E,4,
+300,Z_BR_AP_ACCOUNTANT_KZ,E,0,Accounts Payable Accountant for Kazakhstan
+300,Z_BR_AP_ACCOUNTANT_KZ,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_KZ
+300,Z_BR_AP_ACCOUNTANT_KZ,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_KZ,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_KZ,E,4,
+300,Z_BR_AP_ACCOUNTANT_NO,E,0,Accounts Payable Accountant for Norway
+300,Z_BR_AP_ACCOUNTANT_NO,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_NO
+300,Z_BR_AP_ACCOUNTANT_NO,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_NO,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_NO,E,4,
+300,Z_BR_AP_ACCOUNTANT_OM,E,0,Accounts Payable Accountant for Oman
+300,Z_BR_AP_ACCOUNTANT_OM,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_OM
+300,Z_BR_AP_ACCOUNTANT_OM,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_OM,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_OM,E,4,
+300,Z_BR_AP_ACCOUNTANT_PL,E,0,Accounts Payable Accountant for Poland
+300,Z_BR_AP_ACCOUNTANT_PL,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_PL
+300,Z_BR_AP_ACCOUNTANT_PL,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_PL,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_PL,E,4,
+300,Z_BR_AP_ACCOUNTANT_PROCMT_CN,E,0,Accounts Payable Accountant for China
+300,Z_BR_AP_ACCOUNTANT_PROCMT_CN,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_PROCMT_CN
+300,Z_BR_AP_ACCOUNTANT_PROCMT_CN,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_PROCMT_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_PROCMT_CN,E,4,
+300,Z_BR_AP_ACCOUNTANT_PROCMT_NL,E,0,Accounts Payable Accountant - Procurement for Netherlands
+300,Z_BR_AP_ACCOUNTANT_PROCMT_NL,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_PROCMT_NL
+300,Z_BR_AP_ACCOUNTANT_PROCMT_NL,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_PROCMT_NL,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_PROCMT_NL,E,4,
+300,Z_BR_AP_ACCOUNTANT_PROCUREMT,E,0,Accounts Payable Accountant - Procurement
+300,Z_BR_AP_ACCOUNTANT_PROCUREMT,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_PROCUREMT
+300,Z_BR_AP_ACCOUNTANT_PROCUREMT,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_PROCUREMT,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_PROCUREMT,E,4,
+300,Z_BR_AP_ACCOUNTANT_QA,E,0,Accounts Payable Accountant for Qatar
+300,Z_BR_AP_ACCOUNTANT_QA,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_QA
+300,Z_BR_AP_ACCOUNTANT_QA,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_QA,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_QA,E,4,
+300,Z_BR_AP_ACCOUNTANT_RO,E,0,Accounts Payable Accountant for Romania
+300,Z_BR_AP_ACCOUNTANT_RO,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_RO
+300,Z_BR_AP_ACCOUNTANT_RO,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_RO,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_RO,E,4,
+300,Z_BR_AP_ACCOUNTANT_RU,E,0,Accounts Payable Accountant for Russian Federation
+300,Z_BR_AP_ACCOUNTANT_RU,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_RU
+300,Z_BR_AP_ACCOUNTANT_RU,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_RU,E,4,
+300,Z_BR_AP_ACCOUNTANT_SA,E,0,Accounts Payable Accountant for Saudi Arabia
+300,Z_BR_AP_ACCOUNTANT_SA,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_SA
+300,Z_BR_AP_ACCOUNTANT_SA,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_SA,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_SA,E,4,
+300,Z_BR_AP_ACCOUNTANT_SI,E,0,Accounts Payable Accountant for Slovenia
+300,Z_BR_AP_ACCOUNTANT_SI,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_SI
+300,Z_BR_AP_ACCOUNTANT_SI,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_SI,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_SI,E,4,
+300,Z_BR_AP_ACCOUNTANT_UA,E,0,Accounts Payable Accountant for Ukraine
+300,Z_BR_AP_ACCOUNTANT_UA,E,1,Role copied from SAP_BR_AP_ACCOUNTANT_UA
+300,Z_BR_AP_ACCOUNTANT_UA,E,2,Created automatically with task list:
+300,Z_BR_AP_ACCOUNTANT_UA,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_ACCOUNTANT_UA,E,4,
+300,Z_BR_AP_MANAGER,E,0,Accounts Payable Manager
+300,Z_BR_AP_MANAGER,E,1,Role copied from SAP_BR_AP_MANAGER
+300,Z_BR_AP_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER,E,4,
+300,Z_BR_AP_MANAGER_AU,E,0,Accounts Payable Manager for Australia
+300,Z_BR_AP_MANAGER_AU,E,1,Role copied from SAP_BR_AP_MANAGER_AU
+300,Z_BR_AP_MANAGER_AU,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_AU,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_AU,E,4,
+300,Z_BR_AP_MANAGER_BE,E,0,Accounts Payable Manager for Belgium
+300,Z_BR_AP_MANAGER_BE,E,1,Role copied from SAP_BR_AP_MANAGER_BE
+300,Z_BR_AP_MANAGER_BE,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_BE,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_BE,E,4,
+300,Z_BR_AP_MANAGER_BZ,E,0,Accounts Payable Manager for Belize
+300,Z_BR_AP_MANAGER_BZ,E,1,Role copied from SAP_BR_AP_MANAGER_BZ
+300,Z_BR_AP_MANAGER_BZ,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_BZ,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_BZ,E,4,
+300,Z_BR_AP_MANAGER_ES,E,0,Accounts Payable Manager for Spain
+300,Z_BR_AP_MANAGER_ES,E,1,Role copied from SAP_BR_AP_MANAGER_ES
+300,Z_BR_AP_MANAGER_ES,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_ES,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_ES,E,4,
+300,Z_BR_AP_MANAGER_FR,E,0,Accounts Payable Manager for France
+300,Z_BR_AP_MANAGER_FR,E,1,Role copied from SAP_BR_AP_MANAGER_FR
+300,Z_BR_AP_MANAGER_FR,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_FR,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_FR,E,4,
+300,Z_BR_AP_MANAGER_GB,E,0,Accounts Payable Manager for United Kingdom
+300,Z_BR_AP_MANAGER_GB,E,1,Role copied from SAP_BR_AP_MANAGER_GB
+300,Z_BR_AP_MANAGER_GB,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_GB,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_GB,E,4,
+300,Z_BR_AP_MANAGER_ID,E,0,Accounts Payable Manager for Indonesia
+300,Z_BR_AP_MANAGER_ID,E,1,Role copied from SAP_BR_AP_MANAGER_ID
+300,Z_BR_AP_MANAGER_ID,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_ID,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_ID,E,4,
+300,Z_BR_AP_MANAGER_IE,E,0,Accounts Payable Manager for Ireland
+300,Z_BR_AP_MANAGER_IE,E,1,Role copied from SAP_BR_AP_MANAGER_IE
+300,Z_BR_AP_MANAGER_IE,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_IE,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_IE,E,4,
+300,Z_BR_AP_MANAGER_IT,E,0,Accounts Payable Manager for Italy
+300,Z_BR_AP_MANAGER_IT,E,1,Role copied from SAP_BR_AP_MANAGER_IT
+300,Z_BR_AP_MANAGER_IT,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_IT,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_IT,E,4,
+300,Z_BR_AP_MANAGER_JP,E,0,Accounts Payable Manager for Japan
+300,Z_BR_AP_MANAGER_JP,E,1,Role copied from SAP_BR_AP_MANAGER_JP
+300,Z_BR_AP_MANAGER_JP,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_JP,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_JP,E,4,
+300,Z_BR_AP_MANAGER_KR,E,0,Accounts Payable Manager for South Korea
+300,Z_BR_AP_MANAGER_KR,E,1,Role copied from SAP_BR_AP_MANAGER_KR
+300,Z_BR_AP_MANAGER_KR,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_KR,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_KR,E,4,
+300,Z_BR_AP_MANAGER_MX,E,0,Accounts Payable Manager for Mexico
+300,Z_BR_AP_MANAGER_MX,E,1,Role copied from SAP_BR_AP_MANAGER_MX
+300,Z_BR_AP_MANAGER_MX,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_MX,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_MX,E,4,
+300,Z_BR_AP_MANAGER_MY,E,0,Accounts Payable Manager for Malaysia
+300,Z_BR_AP_MANAGER_MY,E,1,Role copied from SAP_BR_AP_MANAGER_MY
+300,Z_BR_AP_MANAGER_MY,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_MY,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_MY,E,4,
+300,Z_BR_AP_MANAGER_PH,E,0,Accounts Payable Manager for Philippines
+300,Z_BR_AP_MANAGER_PH,E,1,Role copied from SAP_BR_AP_MANAGER_PH
+300,Z_BR_AP_MANAGER_PH,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_PH,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_PH,E,4,
+300,Z_BR_AP_MANAGER_PT,E,0,Accounts Payable Manager for Portugal
+300,Z_BR_AP_MANAGER_PT,E,1,Role copied from SAP_BR_AP_MANAGER_PT
+300,Z_BR_AP_MANAGER_PT,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_PT,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_PT,E,4,
+300,Z_BR_AP_MANAGER_SA,E,0,Accounts Payable Manager for Saudi Arabia
+300,Z_BR_AP_MANAGER_SA,E,1,Role copied from SAP_BR_AP_MANAGER_SA
+300,Z_BR_AP_MANAGER_SA,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_SA,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_SA,E,4,
+300,Z_BR_AP_MANAGER_SG,E,0,Accounts Payable Manager for Singapore
+300,Z_BR_AP_MANAGER_SG,E,1,Role copied from SAP_BR_AP_MANAGER_SG
+300,Z_BR_AP_MANAGER_SG,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_SG,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_SG,E,4,
+300,Z_BR_AP_MANAGER_TH,E,0,Accounts Payable Manager for Thailand
+300,Z_BR_AP_MANAGER_TH,E,1,Role copied from SAP_BR_AP_MANAGER_TH
+300,Z_BR_AP_MANAGER_TH,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_TH,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_TH,E,4,
+300,Z_BR_AP_MANAGER_US,E,0,Accounts Payable Manager for USA
+300,Z_BR_AP_MANAGER_US,E,1,Role copied from SAP_BR_AP_MANAGER_US
+300,Z_BR_AP_MANAGER_US,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_US,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_US,E,4,
+300,Z_BR_AP_MANAGER_VE,E,0,Accounts Payable Manager for Venezuela
+300,Z_BR_AP_MANAGER_VE,E,1,Role copied from SAP_BR_AP_MANAGER_VE
+300,Z_BR_AP_MANAGER_VE,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_VE,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_VE,E,4,
+300,Z_BR_AP_MANAGER_ZA,E,0,Accounts Payable Manager for South Africa
+300,Z_BR_AP_MANAGER_ZA,E,1,Role copied from SAP_BR_AP_MANAGER_ZA
+300,Z_BR_AP_MANAGER_ZA,E,2,Created automatically with task list:
+300,Z_BR_AP_MANAGER_ZA,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_MANAGER_ZA,E,4,
+300,Z_BR_AP_OPER_IN,E,0,General Ledger Accountant for India
+300,Z_BR_AP_OPER_IN,E,1,Role copied from SAP_BR_AP_OPER_IN
+300,Z_BR_AP_OPER_IN,E,2,Created automatically with task list:
+300,Z_BR_AP_OPER_IN,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_OPER_IN,E,4,
+300,Z_BR_AP_PER_ACT_ES,E,0,Accounts Payable Manager for Spain
+300,Z_BR_AP_PER_ACT_ES,E,1,Role copied from SAP_BR_AP_PER_ACT_ES
+300,Z_BR_AP_PER_ACT_ES,E,2,Created automatically with task list:
+300,Z_BR_AP_PER_ACT_ES,E,3,FLP content activation for Business Roles
+300,Z_BR_AP_PER_ACT_ES,E,4,
+300,Z_BR_AR_ACCOUNTANT,E,0,Accounts Receivable Accountant
+300,Z_BR_AR_ACCOUNTANT,E,1,Role copied from SAP_BR_AR_ACCOUNTANT
+300,Z_BR_AR_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT,E,4,
+300,Z_BR_AR_ACCOUNTANT_AE,E,0,Accounts Receivable Accountant for United Arab Emirates
+300,Z_BR_AR_ACCOUNTANT_AE,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_AE
+300,Z_BR_AR_ACCOUNTANT_AE,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_AE,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_AE,E,4,
+300,Z_BR_AR_ACCOUNTANT_CN,E,0,Accounts Receivable Accountant for China
+300,Z_BR_AR_ACCOUNTANT_CN,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_CN
+300,Z_BR_AR_ACCOUNTANT_CN,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_CN,E,4,
+300,Z_BR_AR_ACCOUNTANT_EG,E,0,Accounts Receivable Accountant for Egypt
+300,Z_BR_AR_ACCOUNTANT_EG,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_EG
+300,Z_BR_AR_ACCOUNTANT_EG,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_EG,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_EG,E,4,
+300,Z_BR_AR_ACCOUNTANT_ES,E,0,Accounts Receivable Accountant for Spain
+300,Z_BR_AR_ACCOUNTANT_ES,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_ES
+300,Z_BR_AR_ACCOUNTANT_ES,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_ES,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_ES,E,4,
+300,Z_BR_AR_ACCOUNTANT_FR,E,0,Accounts Receivable Accountant for France
+300,Z_BR_AR_ACCOUNTANT_FR,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_FR
+300,Z_BR_AR_ACCOUNTANT_FR,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_FR,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_FR,E,4,
+300,Z_BR_AR_ACCOUNTANT_GR,E,0,Accounts Receivable Accountant for Greece
+300,Z_BR_AR_ACCOUNTANT_GR,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_GR
+300,Z_BR_AR_ACCOUNTANT_GR,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_GR,E,4,
+300,Z_BR_AR_ACCOUNTANT_HR,E,0,Accounts Receivable Accountant for Croatia
+300,Z_BR_AR_ACCOUNTANT_HR,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_HR
+300,Z_BR_AR_ACCOUNTANT_HR,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_HR,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_HR,E,4,
+300,Z_BR_AR_ACCOUNTANT_ID,E,0,Accounts Receivable Accountant for Indonesia
+300,Z_BR_AR_ACCOUNTANT_ID,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_ID
+300,Z_BR_AR_ACCOUNTANT_ID,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_ID,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_ID,E,4,
+300,Z_BR_AR_ACCOUNTANT_IL,E,0,Accounts Receivable Accountant for Israel
+300,Z_BR_AR_ACCOUNTANT_IL,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_IL
+300,Z_BR_AR_ACCOUNTANT_IL,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_IL,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_IL,E,4,
+300,Z_BR_AR_ACCOUNTANT_IN,E,0,Accounts Receivable Accountant for India
+300,Z_BR_AR_ACCOUNTANT_IN,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_IN
+300,Z_BR_AR_ACCOUNTANT_IN,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_IN,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_IN,E,4,
+300,Z_BR_AR_ACCOUNTANT_IT,E,0,Accounts Receivable Accountant for Italy
+300,Z_BR_AR_ACCOUNTANT_IT,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_IT
+300,Z_BR_AR_ACCOUNTANT_IT,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_IT,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_IT,E,4,
+300,Z_BR_AR_ACCOUNTANT_JP,E,0,Accounts Receivable Accountant for Japan
+300,Z_BR_AR_ACCOUNTANT_JP,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_JP
+300,Z_BR_AR_ACCOUNTANT_JP,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_JP,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_JP,E,4,
+300,Z_BR_AR_ACCOUNTANT_KR,E,0,Accounts Receivable Accountant for South Korea
+300,Z_BR_AR_ACCOUNTANT_KR,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_KR
+300,Z_BR_AR_ACCOUNTANT_KR,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_KR,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_KR,E,4,
+300,Z_BR_AR_ACCOUNTANT_KZ,E,0,Accounts Receivable Accountant for Kazakhstan
+300,Z_BR_AR_ACCOUNTANT_KZ,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_KZ
+300,Z_BR_AR_ACCOUNTANT_KZ,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_KZ,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_KZ,E,4,
+300,Z_BR_AR_ACCOUNTANT_NO,E,0,Accounts Receivable Accountant for Norway
+300,Z_BR_AR_ACCOUNTANT_NO,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_NO
+300,Z_BR_AR_ACCOUNTANT_NO,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_NO,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_NO,E,4,
+300,Z_BR_AR_ACCOUNTANT_PH,E,0,Accounts Receivable Accountant for Philippines
+300,Z_BR_AR_ACCOUNTANT_PH,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_PH
+300,Z_BR_AR_ACCOUNTANT_PH,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_PH,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_PH,E,4,
+300,Z_BR_AR_ACCOUNTANT_PL,E,0,Accounts Receivable Accountant for Poland
+300,Z_BR_AR_ACCOUNTANT_PL,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_PL
+300,Z_BR_AR_ACCOUNTANT_PL,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_PL,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_PL,E,4,
+300,Z_BR_AR_ACCOUNTANT_QA,E,0,Accounts Receivable Accountant for Qatar
+300,Z_BR_AR_ACCOUNTANT_QA,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_QA
+300,Z_BR_AR_ACCOUNTANT_QA,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_QA,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_QA,E,4,
+300,Z_BR_AR_ACCOUNTANT_RU,E,0,Accounts Receivable Accountant for Russian Federation
+300,Z_BR_AR_ACCOUNTANT_RU,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_RU
+300,Z_BR_AR_ACCOUNTANT_RU,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_RU,E,4,
+300,Z_BR_AR_ACCOUNTANT_SA,E,0,Accounts Receivable Accountant for Saudi Arabia
+300,Z_BR_AR_ACCOUNTANT_SA,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_SA
+300,Z_BR_AR_ACCOUNTANT_SA,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_SA,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_SA,E,4,
+300,Z_BR_AR_ACCOUNTANT_TH,E,0,Accounts Receivable Accountant for Thailand
+300,Z_BR_AR_ACCOUNTANT_TH,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_TH
+300,Z_BR_AR_ACCOUNTANT_TH,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_TH,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_TH,E,4,
+300,Z_BR_AR_ACCOUNTANT_TR,E,0,Accounts Receivable Accountant for Turkey
+300,Z_BR_AR_ACCOUNTANT_TR,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_TR
+300,Z_BR_AR_ACCOUNTANT_TR,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_TR,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_TR,E,4,
+300,Z_BR_AR_ACCOUNTANT_UA,E,0,Accounts Receivable Accountant for Ukraine
+300,Z_BR_AR_ACCOUNTANT_UA,E,1,Role copied from SAP_BR_AR_ACCOUNTANT_UA
+300,Z_BR_AR_ACCOUNTANT_UA,E,2,Created automatically with task list:
+300,Z_BR_AR_ACCOUNTANT_UA,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_ACCOUNTANT_UA,E,4,
+300,Z_BR_AR_MANAGER,E,0,Accounts Receivable Manager
+300,Z_BR_AR_MANAGER,E,1,Role copied from SAP_BR_AR_MANAGER
+300,Z_BR_AR_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_AR_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_MANAGER,E,4,
+300,Z_BR_AR_MANAGER_TH,E,0,Accounts Receivable Manager for Thailand
+300,Z_BR_AR_MANAGER_TH,E,1,Role copied from SAP_BR_AR_MANAGER_TH
+300,Z_BR_AR_MANAGER_TH,E,2,Created automatically with task list:
+300,Z_BR_AR_MANAGER_TH,E,3,FLP content activation for Business Roles
+300,Z_BR_AR_MANAGER_TH,E,4,
+300,Z_BR_ASSORT_SPECIALIST_RFM,E,0,Assortment Specialist - Retail
+300,Z_BR_ASSORT_SPECIALIST_RFM,E,1,Role copied from SAP_BR_ASSORT_SPECIALIST_RFM
+300,Z_BR_ASSORT_SPECIALIST_RFM,E,2,Created automatically with task list:
+300,Z_BR_ASSORT_SPECIALIST_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_ASSORT_SPECIALIST_RFM,E,4,
+300,Z_BR_BATCH_MASTER_SPCLST,E,0,Master Data Specialist - Batch Data
+300,Z_BR_BATCH_MASTER_SPCLST,E,1,Role copied from SAP_BR_BATCH_MASTER_SPCLST
+300,Z_BR_BATCH_MASTER_SPCLST,E,2,Created automatically with task list:
+300,Z_BR_BATCH_MASTER_SPCLST,E,3,FLP content activation for Business Roles
+300,Z_BR_BATCH_MASTER_SPCLST,E,4,
+300,Z_BR_BILLING_CLERK,E,0,Billing Clerk
+300,Z_BR_BILLING_CLERK,E,1,Role copied from SAP_BR_BILLING_CLERK
+300,Z_BR_BILLING_CLERK,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK,E,4,
+300,Z_BR_BILLING_CLERK_CL,E,0,Billing Clerk for Chile
+300,Z_BR_BILLING_CLERK_CL,E,1,Role copied from SAP_BR_BILLING_CLERK_CL
+300,Z_BR_BILLING_CLERK_CL,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_CL,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_CL,E,4,
+300,Z_BR_BILLING_CLERK_CO,E,0,Billing Clerk for Colombia
+300,Z_BR_BILLING_CLERK_CO,E,1,Role copied from SAP_BR_BILLING_CLERK_CO
+300,Z_BR_BILLING_CLERK_CO,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_CO,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_CO,E,4,
+300,Z_BR_BILLING_CLERK_CZ,E,0,Billing Clerk for Czech Republic
+300,Z_BR_BILLING_CLERK_CZ,E,1,Role copied from SAP_BR_BILLING_CLERK_CZ
+300,Z_BR_BILLING_CLERK_CZ,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_CZ,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_CZ,E,4,
+300,Z_BR_BILLING_CLERK_GR,E,0,Billing Clerk for Greece
+300,Z_BR_BILLING_CLERK_GR,E,1,Role copied from SAP_BR_BILLING_CLERK_GR
+300,Z_BR_BILLING_CLERK_GR,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_GR,E,4,
+300,Z_BR_BILLING_CLERK_HU,E,0,Billing Clerk for Hungary
+300,Z_BR_BILLING_CLERK_HU,E,1,Role copied from SAP_BR_BILLING_CLERK_HU
+300,Z_BR_BILLING_CLERK_HU,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_HU,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_HU,E,4,
+300,Z_BR_BILLING_CLERK_IN,E,0,Billing Clerk for India
+300,Z_BR_BILLING_CLERK_IN,E,1,Role copied from SAP_BR_BILLING_CLERK_IN
+300,Z_BR_BILLING_CLERK_IN,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_IN,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_IN,E,4,
+300,Z_BR_BILLING_CLERK_IT,E,0,Billing Clerk for Italy
+300,Z_BR_BILLING_CLERK_IT,E,1,Role copied from SAP_BR_BILLING_CLERK_IT
+300,Z_BR_BILLING_CLERK_IT,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_IT,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_IT,E,4,
+300,Z_BR_BILLING_CLERK_PE,E,0,Billing Clerk for Peru
+300,Z_BR_BILLING_CLERK_PE,E,1,Role copied from SAP_BR_BILLING_CLERK_PE
+300,Z_BR_BILLING_CLERK_PE,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_PE,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_PE,E,4,
+300,Z_BR_BILLING_CLERK_PH,E,0,Billing Clerk for Philippines
+300,Z_BR_BILLING_CLERK_PH,E,1,Role copied from SAP_BR_BILLING_CLERK_PH
+300,Z_BR_BILLING_CLERK_PH,E,2,Created automatically with task list:
+300,Z_BR_BILLING_CLERK_PH,E,3,FLP content activation for Business Roles
+300,Z_BR_BILLING_CLERK_PH,E,4,
+300,Z_BR_BOM_ENGINEER,E,0,BOM Engineer
+300,Z_BR_BOM_ENGINEER,E,1,Role copied from SAP_BR_BOM_ENGINEER
+300,Z_BR_BOM_ENGINEER,E,2,Created automatically with task list:
+300,Z_BR_BOM_ENGINEER,E,3,FLP content activation for Business Roles
+300,Z_BR_BOM_ENGINEER,E,4,
+300,Z_BR_BPC_EXPERT,E,0,Configuration Expert - Business Process Configuration
+300,Z_BR_BPC_EXPERT,E,1,Role copied from SAP_BR_BPC_EXPERT
+300,Z_BR_BPC_EXPERT,E,2,Created automatically with task list:
+300,Z_BR_BPC_EXPERT,E,3,FLP content activation for Business Roles
+300,Z_BR_BPC_EXPERT,E,4,
+300,Z_BR_BPC_EXPERT_MDG,E,0,Configuration Expert - Business Process Configuration
+300,Z_BR_BPC_EXPERT_MDG,E,1,Role copied from SAP_BR_BPC_EXPERT_MDG
+300,Z_BR_BPC_EXPERT_MDG,E,2,Created automatically with task list:
+300,Z_BR_BPC_EXPERT_MDG,E,3,FLP content activation for Business Roles
+300,Z_BR_BPC_EXPERT_MDG,E,4,
+300,Z_BR_BUDGET_RESPONSIBLE,E,0,Budget Responsible - Funds Management
+300,Z_BR_BUDGET_RESPONSIBLE,E,1,Role copied from SAP_BR_BUDGET_RESPONSIBLE
+300,Z_BR_BUDGET_RESPONSIBLE,E,2,Created automatically with task list:
+300,Z_BR_BUDGET_RESPONSIBLE,E,3,FLP content activation for Business Roles
+300,Z_BR_BUDGET_RESPONSIBLE,E,4,
+300,Z_BR_BUDGET_SPECIALIST,E,0,Budget Specialist - Funds Management
+300,Z_BR_BUDGET_SPECIALIST,E,1,Role copied from SAP_BR_BUDGET_SPECIALIST
+300,Z_BR_BUDGET_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_BUDGET_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_BUDGET_SPECIALIST,E,4,
+300,Z_BR_BUPA_MASTER_SPECIALIST,E,0,Master Data Specialist - Business Partner Data
+300,Z_BR_BUPA_MASTER_SPECIALIST,E,1,Role copied from SAP_BR_BUPA_MASTER_SPECIALIST
+300,Z_BR_BUPA_MASTER_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_BUPA_MASTER_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_BUPA_MASTER_SPECIALIST,E,4,
+300,Z_BR_BUYER,E,0,Strategic Buyer
+300,Z_BR_BUYER,E,1,Role copied from SAP_BR_BUYER
+300,Z_BR_BUYER,E,2,Created automatically with task list:
+300,Z_BR_BUYER,E,3,FLP content activation for Business Roles
+300,Z_BR_BUYER,E,4,
+300,Z_BR_CALIBRATION_TECHNICIAN,E,0,Calibration Technician
+300,Z_BR_CALIBRATION_TECHNICIAN,E,1,Role copied from SAP_BR_CALIBRATION_TECHNICIAN
+300,Z_BR_CALIBRATION_TECHNICIAN,E,2,Created automatically with task list:
+300,Z_BR_CALIBRATION_TECHNICIAN,E,3,FLP content activation for Business Roles
+300,Z_BR_CALIBRATION_TECHNICIAN,E,4,
+300,Z_BR_CASH_MANAGER,E,0,Cash Manager
+300,Z_BR_CASH_MANAGER,E,1,Role copied from SAP_BR_CASH_MANAGER
+300,Z_BR_CASH_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_CASH_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_MANAGER,E,4,
+300,Z_BR_CASH_MANAGER_CN,E,0,Cash Manager for China
+300,Z_BR_CASH_MANAGER_CN,E,1,Role copied from SAP_BR_CASH_MANAGER_CN
+300,Z_BR_CASH_MANAGER_CN,E,2,Created automatically with task list:
+300,Z_BR_CASH_MANAGER_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_MANAGER_CN,E,4,
+300,Z_BR_CASH_SPECIALIST,E,0,Cash Management Specialist
+300,Z_BR_CASH_SPECIALIST,E,1,Role copied from SAP_BR_CASH_SPECIALIST
+300,Z_BR_CASH_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST,E,4,
+300,Z_BR_CASH_SPECIALIST_CN,E,0,Cash Management Specialist for China
+300,Z_BR_CASH_SPECIALIST_CN,E,1,Role copied from SAP_BR_CASH_SPECIALIST_CN
+300,Z_BR_CASH_SPECIALIST_CN,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_CN,E,4,
+300,Z_BR_CASH_SPECIALIST_GB,E,0,Cash Management Specialist for United Kingdom
+300,Z_BR_CASH_SPECIALIST_GB,E,1,Role copied from SAP_BR_CASH_SPECIALIST_GB
+300,Z_BR_CASH_SPECIALIST_GB,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_GB,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_GB,E,4,
+300,Z_BR_CASH_SPECIALIST_GR,E,0,Cash Management Specialist for Greece
+300,Z_BR_CASH_SPECIALIST_GR,E,1,Role copied from SAP_BR_CASH_SPECIALIST_GR
+300,Z_BR_CASH_SPECIALIST_GR,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_GR,E,4,
+300,Z_BR_CASH_SPECIALIST_HU,E,0,Cash Management Specialist for Hungary
+300,Z_BR_CASH_SPECIALIST_HU,E,1,Role copied from SAP_BR_CASH_SPECIALIST_HU
+300,Z_BR_CASH_SPECIALIST_HU,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_HU,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_HU,E,4,
+300,Z_BR_CASH_SPECIALIST_PL,E,0,Cash Management Specialist for Poland
+300,Z_BR_CASH_SPECIALIST_PL,E,1,Role copied from SAP_BR_CASH_SPECIALIST_PL
+300,Z_BR_CASH_SPECIALIST_PL,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_PL,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_PL,E,4,
+300,Z_BR_CASH_SPECIALIST_RO,E,0,Cash Management Specialist for Romania
+300,Z_BR_CASH_SPECIALIST_RO,E,1,Role copied from SAP_BR_CASH_SPECIALIST_RO
+300,Z_BR_CASH_SPECIALIST_RO,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_RO,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_RO,E,4,
+300,Z_BR_CASH_SPECIALIST_US,E,0,Cash Management Specialist for USA
+300,Z_BR_CASH_SPECIALIST_US,E,1,Role copied from SAP_BR_CASH_SPECIALIST_US
+300,Z_BR_CASH_SPECIALIST_US,E,2,Created automatically with task list:
+300,Z_BR_CASH_SPECIALIST_US,E,3,FLP content activation for Business Roles
+300,Z_BR_CASH_SPECIALIST_US,E,4,
+300,Z_BR_CAT_MAN_RFM,E,0,Category Manager (Retail)
+300,Z_BR_CAT_MAN_RFM,E,1,Role copied from SAP_BR_CAT_MAN_RFM
+300,Z_BR_CAT_MAN_RFM,E,2,Created automatically with task list:
+300,Z_BR_CAT_MAN_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_CAT_MAN_RFM,E,4,
+300,Z_BR_CENTRAL_PURCHASER,E,0,Purchaser - Central Procurement
+300,Z_BR_CENTRAL_PURCHASER,E,1,Role copied from SAP_BR_CENTRAL_PURCHASER
+300,Z_BR_CENTRAL_PURCHASER,E,2,Created automatically with task list:
+300,Z_BR_CENTRAL_PURCHASER,E,3,FLP content activation for Business Roles
+300,Z_BR_CENTRAL_PURCHASER,E,4,
+300,Z_BR_CHG_MGMT_COORDINATOR,E,0,Change Management Coordinator
+300,Z_BR_CHG_MGMT_COORDINATOR,E,1,Role copied from SAP_BR_CHG_MGMT_COORDINATOR
+300,Z_BR_CHG_MGMT_COORDINATOR,E,2,Created automatically with task list:
+300,Z_BR_CHG_MGMT_COORDINATOR,E,3,FLP content activation for Business Roles
+300,Z_BR_CHG_MGMT_COORDINATOR,E,4,
+300,Z_BR_CMMFDOF_TRADER,E,0,Trader - Commodity Derivative Orders
+300,Z_BR_CMMFDOF_TRADER,E,1,Role copied from SAP_BR_CMMFDOF_TRADER
+300,Z_BR_CMMFDOF_TRADER,E,2,Created automatically with task list:
+300,Z_BR_CMMFDOF_TRADER,E,3,FLP content activation for Business Roles
+300,Z_BR_CMMFDOF_TRADER,E,4,
+300,Z_BR_CMMFSA_MD_MANAGER,E,0,Trader - Commodity Derivative Orders
+300,Z_BR_CMMFSA_MD_MANAGER,E,1,Role copied from SAP_BR_CMMFSA_MD_MANAGER
+300,Z_BR_CMMFSA_MD_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_CMMFSA_MD_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_CMMFSA_MD_MANAGER,E,4,
+300,Z_BR_COLL_SPECIALIST_FICA,E,0,Collections Specialist (FI-CA)
+300,Z_BR_COLL_SPECIALIST_FICA,E,1,Role copied from SAP_BR_COLL_SPECIALIST_FICA
+300,Z_BR_COLL_SPECIALIST_FICA,E,2,Created automatically with task list:
+300,Z_BR_COLL_SPECIALIST_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_COLL_SPECIALIST_FICA,E,4,
+300,Z_BR_COMPL_ENG_FOOD_BEV,E,0,Compliance Engineer - Food and Beverage
+300,Z_BR_COMPL_ENG_FOOD_BEV,E,1,Role copied from SAP_BR_COMPL_ENG_FOOD_BEV
+300,Z_BR_COMPL_ENG_FOOD_BEV,E,2,Created automatically with task list:
+300,Z_BR_COMPL_ENG_FOOD_BEV,E,3,FLP content activation for Business Roles
+300,Z_BR_COMPL_ENG_FOOD_BEV,E,4,
+300,Z_BR_CONF_EXPERT_BUS_NET_INT,E,0,Configuration Expert - Business Network Integration
+300,Z_BR_CONF_EXPERT_BUS_NET_INT,E,1,Role copied from SAP_BR_CONF_EXPERT_BUS_NET_INT
+300,Z_BR_CONF_EXPERT_BUS_NET_INT,E,2,Created automatically with task list:
+300,Z_BR_CONF_EXPERT_BUS_NET_INT,E,3,FLP content activation for Business Roles
+300,Z_BR_CONF_EXPERT_BUS_NET_INT,E,4,
+300,Z_BR_CONTRACT_MANAGER_CCM,E,0,Contract Manager - Settlement Management
+300,Z_BR_CONTRACT_MANAGER_CCM,E,1,Role copied from SAP_BR_CONTRACT_MANAGER_CCM
+300,Z_BR_CONTRACT_MANAGER_CCM,E,2,Created automatically with task list:
+300,Z_BR_CONTRACT_MANAGER_CCM,E,3,FLP content activation for Business Roles
+300,Z_BR_CONTRACT_MANAGER_CCM,E,4,
+300,Z_BR_CREDIT_CONTROLLER,E,0,Credit Controller
+300,Z_BR_CREDIT_CONTROLLER,E,1,Role copied from SAP_BR_CREDIT_CONTROLLER
+300,Z_BR_CREDIT_CONTROLLER,E,2,Created automatically with task list:
+300,Z_BR_CREDIT_CONTROLLER,E,3,FLP content activation for Business Roles
+300,Z_BR_CREDIT_CONTROLLER,E,4,
+300,Z_BR_CSR_TRM,E,0,Customer Service Representative - Tax and Revenue Management
+300,Z_BR_CSR_TRM,E,1,Role copied from SAP_BR_CSR_TRM
+300,Z_BR_CSR_TRM,E,2,Created automatically with task list:
+300,Z_BR_CSR_TRM,E,3,FLP content activation for Business Roles
+300,Z_BR_CSR_TRM,E,4,
+300,Z_BR_CUSTOMER_SALES_MGR,E,0,Sales Manager (Customer Management)
+300,Z_BR_CUSTOMER_SALES_MGR,E,1,Role copied from SAP_BR_CUSTOMER_SALES_MGR
+300,Z_BR_CUSTOMER_SALES_MGR,E,2,Created automatically with task list:
+300,Z_BR_CUSTOMER_SALES_MGR,E,3,FLP content activation for Business Roles
+300,Z_BR_CUSTOMER_SALES_MGR,E,4,
+300,Z_BR_CUSTOMER_SERVICE_MGR,E,0,Customer Service Manager (Customer Management)
+300,Z_BR_CUSTOMER_SERVICE_MGR,E,1,Role copied from SAP_BR_CUSTOMER_SERVICE_MGR
+300,Z_BR_CUSTOMER_SERVICE_MGR,E,2,Created automatically with task list:
+300,Z_BR_CUSTOMER_SERVICE_MGR,E,3,FLP content activation for Business Roles
+300,Z_BR_CUSTOMER_SERVICE_MGR,E,4,
+300,Z_BR_DEMAND_PLANNER_RFM,E,0,Demand Planner (Retail)
+300,Z_BR_DEMAND_PLANNER_RFM,E,1,Role copied from SAP_BR_DEMAND_PLANNER_RFM
+300,Z_BR_DEMAND_PLANNER_RFM,E,2,Created automatically with task list:
+300,Z_BR_DEMAND_PLANNER_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_DEMAND_PLANNER_RFM,E,4,
+300,Z_BR_DEPOSITS_EMPLOYEE,E,0,Bank Back Office Employee - Deposits Management
+300,Z_BR_DEPOSITS_EMPLOYEE,E,1,Role copied from SAP_BR_DEPOSITS_EMPLOYEE
+300,Z_BR_DEPOSITS_EMPLOYEE,E,2,Created automatically with task list:
+300,Z_BR_DEPOSITS_EMPLOYEE,E,3,FLP content activation for Business Roles
+300,Z_BR_DEPOSITS_EMPLOYEE,E,4,
+300,Z_BR_DEPOSITS_SPECIALIST,E,0,Back Office Specialist - Deposits Management
+300,Z_BR_DEPOSITS_SPECIALIST,E,1,Role copied from SAP_BR_DEPOSITS_SPECIALIST
+300,Z_BR_DEPOSITS_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_DEPOSITS_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_DEPOSITS_SPECIALIST,E,4,
+300,Z_BR_DESIGN_ENGINEER,E,0,Design Engineer
+300,Z_BR_DESIGN_ENGINEER,E,1,Role copied from SAP_BR_DESIGN_ENGINEER
+300,Z_BR_DESIGN_ENGINEER,E,2,Created automatically with task list:
+300,Z_BR_DESIGN_ENGINEER,E,3,FLP content activation for Business Roles
+300,Z_BR_DESIGN_ENGINEER,E,4,
+300,Z_BR_DEVELOPMENT_MANAGER_DIN,E,0,Development Manager - Discrete Industry
+300,Z_BR_DEVELOPMENT_MANAGER_DIN,E,1,Role copied from SAP_BR_DEVELOPMENT_MANAGER_DIN
+300,Z_BR_DEVELOPMENT_MANAGER_DIN,E,2,Created automatically with task list:
+300,Z_BR_DEVELOPMENT_MANAGER_DIN,E,3,FLP content activation for Business Roles
+300,Z_BR_DEVELOPMENT_MANAGER_DIN,E,4,
+300,Z_BR_DG_SAFETY_ADVISOR,E,0,Dangerous Goods Specialist
+300,Z_BR_DG_SAFETY_ADVISOR,E,1,Role copied from SAP_BR_DG_SAFETY_ADVISOR
+300,Z_BR_DG_SAFETY_ADVISOR,E,2,Created automatically with task list:
+300,Z_BR_DG_SAFETY_ADVISOR,E,3,FLP content activation for Business Roles
+300,Z_BR_DG_SAFETY_ADVISOR,E,4,
+300,Z_BR_DIVISION_ACCOUNTANT,E,0,Divisional Accountant
+300,Z_BR_DIVISION_ACCOUNTANT,E,1,Role copied from SAP_BR_DIVISION_ACCOUNTANT
+300,Z_BR_DIVISION_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_DIVISION_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_DIVISION_ACCOUNTANT,E,4,
+300,Z_BR_EMPLOYEE_LEGAL_CONTENT,E,0,Employee - Legal Content Management
+300,Z_BR_EMPLOYEE_LEGAL_CONTENT,E,1,Role copied from SAP_BR_EMPLOYEE_LEGAL_CONTENT
+300,Z_BR_EMPLOYEE_LEGAL_CONTENT,E,2,Created automatically with task list:
+300,Z_BR_EMPLOYEE_LEGAL_CONTENT,E,3,FLP content activation for Business Roles
+300,Z_BR_EMPLOYEE_LEGAL_CONTENT,E,4,
+300,Z_BR_EMPLOYEE_PROCUREMENT,E,0,Employee - Procurement
+300,Z_BR_EMPLOYEE_PROCUREMENT,E,1,Role copied from SAP_BR_EMPLOYEE_PROCUREMENT
+300,Z_BR_EMPLOYEE_PROCUREMENT,E,2,Created automatically with task list:
+300,Z_BR_EMPLOYEE_PROCUREMENT,E,3,FLP content activation for Business Roles
+300,Z_BR_EMPLOYEE_PROCUREMENT,E,4,
+300,Z_BR_EMPLOYEE_TRV,E,0,Employee - Travel Info
+300,Z_BR_EMPLOYEE_TRV,E,1,Role copied from SAP_BR_EMPLOYEE_TRV
+300,Z_BR_EMPLOYEE_TRV,E,2,Created automatically with task list:
+300,Z_BR_EMPLOYEE_TRV,E,3,FLP content activation for Business Roles
+300,Z_BR_EMPLOYEE_TRV,E,4,
+300,Z_BR_EXTERNAL_AUDITOR,E,0,External Auditor
+300,Z_BR_EXTERNAL_AUDITOR,E,1,Role copied from SAP_BR_EXTERNAL_AUDITOR
+300,Z_BR_EXTERNAL_AUDITOR,E,2,Created automatically with task list:
+300,Z_BR_EXTERNAL_AUDITOR,E,3,FLP content activation for Business Roles
+300,Z_BR_EXTERNAL_AUDITOR,E,4,
+300,Z_BR_EXT_AUDITOR_APR_FICA,E,0,External Auditor - Accounts Payable and Receivable (FI-CA)
+300,Z_BR_EXT_AUDITOR_APR_FICA,E,1,Role copied from SAP_BR_EXT_AUDITOR_APR_FICA
+300,Z_BR_EXT_AUDITOR_APR_FICA,E,2,Created automatically with task list:
+300,Z_BR_EXT_AUDITOR_APR_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_EXT_AUDITOR_APR_FICA,E,4,
+300,Z_BR_FRGHT_SETTLEMENT_CLERK,E,0,Settlement Clerk - Freight Management
+300,Z_BR_FRGHT_SETTLEMENT_CLERK,E,1,Role copied from SAP_BR_FRGHT_SETTLEMENT_CLERK
+300,Z_BR_FRGHT_SETTLEMENT_CLERK,E,2,Created automatically with task list:
+300,Z_BR_FRGHT_SETTLEMENT_CLERK,E,3,FLP content activation for Business Roles
+300,Z_BR_FRGHT_SETTLEMENT_CLERK,E,4,
+300,Z_BR_GL_ACCOUNTANT,E,0,General Ledger Accountant
+300,Z_BR_GL_ACCOUNTANT,E,1,Role copied from SAP_BR_GL_ACCOUNTANT
+300,Z_BR_GL_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT,E,4,
+300,Z_BR_GL_ACCOUNTANT_AE,E,0,General Ledger Accountant for United Arab Emirates
+300,Z_BR_GL_ACCOUNTANT_AE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_AE
+300,Z_BR_GL_ACCOUNTANT_AE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_AE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_AE,E,4,
+300,Z_BR_GL_ACCOUNTANT_AR,E,0,General Ledger Accountant for Argentina
+300,Z_BR_GL_ACCOUNTANT_AR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_AR
+300,Z_BR_GL_ACCOUNTANT_AR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_AR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_AR,E,4,
+300,Z_BR_GL_ACCOUNTANT_AT,E,0,General Ledger Accountant for Austria
+300,Z_BR_GL_ACCOUNTANT_AT,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_AT
+300,Z_BR_GL_ACCOUNTANT_AT,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_AT,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_AT,E,4,
+300,Z_BR_GL_ACCOUNTANT_AU,E,0,General Ledger Accountant for Australia
+300,Z_BR_GL_ACCOUNTANT_AU,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_AU
+300,Z_BR_GL_ACCOUNTANT_AU,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_AU,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_AU,E,4,
+300,Z_BR_GL_ACCOUNTANT_BE,E,0,General Ledger Accountant for Belgium
+300,Z_BR_GL_ACCOUNTANT_BE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_BE
+300,Z_BR_GL_ACCOUNTANT_BE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_BE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_BE,E,4,
+300,Z_BR_GL_ACCOUNTANT_BG,E,0,General Ledger Accountant for Bulgaria
+300,Z_BR_GL_ACCOUNTANT_BG,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_BG
+300,Z_BR_GL_ACCOUNTANT_BG,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_BG,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_BG,E,4,
+300,Z_BR_GL_ACCOUNTANT_BR,E,0,General Ledger Accountant for Brazil
+300,Z_BR_GL_ACCOUNTANT_BR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_BR
+300,Z_BR_GL_ACCOUNTANT_BR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_BR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_BR,E,4,
+300,Z_BR_GL_ACCOUNTANT_CA,E,0,General Ledger Accountant for Canada
+300,Z_BR_GL_ACCOUNTANT_CA,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_CA
+300,Z_BR_GL_ACCOUNTANT_CA,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_CA,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_CA,E,4,
+300,Z_BR_GL_ACCOUNTANT_CH,E,0,General Ledger Accountant for Switzerland
+300,Z_BR_GL_ACCOUNTANT_CH,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_CH
+300,Z_BR_GL_ACCOUNTANT_CH,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_CH,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_CH,E,4,
+300,Z_BR_GL_ACCOUNTANT_CN,E,0,General Ledger Accountant for China
+300,Z_BR_GL_ACCOUNTANT_CN,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_CN
+300,Z_BR_GL_ACCOUNTANT_CN,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_CN,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_CN,E,4,
+300,Z_BR_GL_ACCOUNTANT_CO,E,0,General Ledger Accountant for Colombia
+300,Z_BR_GL_ACCOUNTANT_CO,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_CO
+300,Z_BR_GL_ACCOUNTANT_CO,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_CO,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_CO,E,4,
+300,Z_BR_GL_ACCOUNTANT_DE,E,0,General Ledger Accountant for Germany
+300,Z_BR_GL_ACCOUNTANT_DE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_DE
+300,Z_BR_GL_ACCOUNTANT_DE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_DE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_DE,E,4,
+300,Z_BR_GL_ACCOUNTANT_DK,E,0,General Ledger Accountant for Denmark
+300,Z_BR_GL_ACCOUNTANT_DK,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_DK
+300,Z_BR_GL_ACCOUNTANT_DK,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_DK,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_DK,E,4,
+300,Z_BR_GL_ACCOUNTANT_EE,E,0,General Ledger Accountant for Estonia
+300,Z_BR_GL_ACCOUNTANT_EE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_EE
+300,Z_BR_GL_ACCOUNTANT_EE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_EE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_EE,E,4,
+300,Z_BR_GL_ACCOUNTANT_EG,E,0,General Ledger Accountant for Egypt
+300,Z_BR_GL_ACCOUNTANT_EG,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_EG
+300,Z_BR_GL_ACCOUNTANT_EG,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_EG,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_EG,E,4,
+300,Z_BR_GL_ACCOUNTANT_ES,E,0,General Ledger Accountant for Spain
+300,Z_BR_GL_ACCOUNTANT_ES,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_ES
+300,Z_BR_GL_ACCOUNTANT_ES,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_ES,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_ES,E,4,
+300,Z_BR_GL_ACCOUNTANT_FI,E,0,General Ledger Accountant for Finland
+300,Z_BR_GL_ACCOUNTANT_FI,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_FI
+300,Z_BR_GL_ACCOUNTANT_FI,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_FI,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_FI,E,4,
+300,Z_BR_GL_ACCOUNTANT_FR,E,0,General Ledger Accountant for France
+300,Z_BR_GL_ACCOUNTANT_FR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_FR
+300,Z_BR_GL_ACCOUNTANT_FR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_FR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_FR,E,4,
+300,Z_BR_GL_ACCOUNTANT_GB,E,0,General Ledger Accountant for United Kingdom
+300,Z_BR_GL_ACCOUNTANT_GB,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_GB
+300,Z_BR_GL_ACCOUNTANT_GB,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_GB,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_GB,E,4,
+300,Z_BR_GL_ACCOUNTANT_GR,E,0,General Ledger Accountant for Greece
+300,Z_BR_GL_ACCOUNTANT_GR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_GR
+300,Z_BR_GL_ACCOUNTANT_GR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_GR,E,4,
+300,Z_BR_GL_ACCOUNTANT_HR,E,0,General Ledger Accountant for Croatia
+300,Z_BR_GL_ACCOUNTANT_HR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_HR
+300,Z_BR_GL_ACCOUNTANT_HR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_HR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_HR,E,4,
+300,Z_BR_GL_ACCOUNTANT_HU,E,0,General Ledger Accountant for Hungary
+300,Z_BR_GL_ACCOUNTANT_HU,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_HU
+300,Z_BR_GL_ACCOUNTANT_HU,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_HU,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_HU,E,4,
+300,Z_BR_GL_ACCOUNTANT_ID,E,0,General Ledger Accountant for Indonesia
+300,Z_BR_GL_ACCOUNTANT_ID,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_ID
+300,Z_BR_GL_ACCOUNTANT_ID,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_ID,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_ID,E,4,
+300,Z_BR_GL_ACCOUNTANT_IE,E,0,General Ledger Accountant for Ireland
+300,Z_BR_GL_ACCOUNTANT_IE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_IE
+300,Z_BR_GL_ACCOUNTANT_IE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_IE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_IE,E,4,
+300,Z_BR_GL_ACCOUNTANT_IL,E,0,General Ledger Accountant for Israel
+300,Z_BR_GL_ACCOUNTANT_IL,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_IL
+300,Z_BR_GL_ACCOUNTANT_IL,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_IL,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_IL,E,4,
+300,Z_BR_GL_ACCOUNTANT_IN,E,0,General Ledger Accountant for India
+300,Z_BR_GL_ACCOUNTANT_IN,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_IN
+300,Z_BR_GL_ACCOUNTANT_IN,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_IN,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_IN,E,4,
+300,Z_BR_GL_ACCOUNTANT_IT,E,0,General Ledger Accountant for Italy
+300,Z_BR_GL_ACCOUNTANT_IT,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_IT
+300,Z_BR_GL_ACCOUNTANT_IT,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_IT,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_IT,E,4,
+300,Z_BR_GL_ACCOUNTANT_JP,E,0,General Ledger Accountant for Japan
+300,Z_BR_GL_ACCOUNTANT_JP,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_JP
+300,Z_BR_GL_ACCOUNTANT_JP,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_JP,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_JP,E,4,
+300,Z_BR_GL_ACCOUNTANT_KR,E,0,General Ledger Accountant for South Korea
+300,Z_BR_GL_ACCOUNTANT_KR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_KR
+300,Z_BR_GL_ACCOUNTANT_KR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_KR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_KR,E,4,
+300,Z_BR_GL_ACCOUNTANT_KW,E,0,General Ledger Accountant for Kuwait
+300,Z_BR_GL_ACCOUNTANT_KW,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_KW
+300,Z_BR_GL_ACCOUNTANT_KW,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_KW,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_KW,E,4,
+300,Z_BR_GL_ACCOUNTANT_KZ,E,0,General Ledger Accountant for Kazakhstan
+300,Z_BR_GL_ACCOUNTANT_KZ,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_KZ
+300,Z_BR_GL_ACCOUNTANT_KZ,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_KZ,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_KZ,E,4,
+300,Z_BR_GL_ACCOUNTANT_LT,E,0,General Ledger Accountant for Lithuania
+300,Z_BR_GL_ACCOUNTANT_LT,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_LT
+300,Z_BR_GL_ACCOUNTANT_LT,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_LT,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_LT,E,4,
+300,Z_BR_GL_ACCOUNTANT_LU,E,0,General Ledger Accountant for Luxembourg
+300,Z_BR_GL_ACCOUNTANT_LU,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_LU
+300,Z_BR_GL_ACCOUNTANT_LU,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_LU,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_LU,E,4,
+300,Z_BR_GL_ACCOUNTANT_MX,E,0,General Ledger Accountant for Mexico
+300,Z_BR_GL_ACCOUNTANT_MX,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_MX
+300,Z_BR_GL_ACCOUNTANT_MX,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_MX,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_MX,E,4,
+300,Z_BR_GL_ACCOUNTANT_MY,E,0,General Ledger Accountant for Malaysia
+300,Z_BR_GL_ACCOUNTANT_MY,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_MY
+300,Z_BR_GL_ACCOUNTANT_MY,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_MY,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_MY,E,4,
+300,Z_BR_GL_ACCOUNTANT_NL,E,0,General Ledger Accountant for Netherlands
+300,Z_BR_GL_ACCOUNTANT_NL,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_NL
+300,Z_BR_GL_ACCOUNTANT_NL,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_NL,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_NL,E,4,
+300,Z_BR_GL_ACCOUNTANT_NO,E,0,General Ledger Accountant for Norway
+300,Z_BR_GL_ACCOUNTANT_NO,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_NO
+300,Z_BR_GL_ACCOUNTANT_NO,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_NO,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_NO,E,4,
+300,Z_BR_GL_ACCOUNTANT_PH,E,0,General Ledger Accountant for Philippines
+300,Z_BR_GL_ACCOUNTANT_PH,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_PH
+300,Z_BR_GL_ACCOUNTANT_PH,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_PH,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_PH,E,4,
+300,Z_BR_GL_ACCOUNTANT_PL,E,0,General Ledger Accountant for Poland
+300,Z_BR_GL_ACCOUNTANT_PL,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_PL
+300,Z_BR_GL_ACCOUNTANT_PL,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_PL,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_PL,E,4,
+300,Z_BR_GL_ACCOUNTANT_PT,E,0,General Ledger Accountant for Portugal
+300,Z_BR_GL_ACCOUNTANT_PT,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_PT
+300,Z_BR_GL_ACCOUNTANT_PT,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_PT,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_PT,E,4,
+300,Z_BR_GL_ACCOUNTANT_QA,E,0,General Ledger Accountant for Qatar
+300,Z_BR_GL_ACCOUNTANT_QA,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_QA
+300,Z_BR_GL_ACCOUNTANT_QA,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_QA,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_QA,E,4,
+300,Z_BR_GL_ACCOUNTANT_RO,E,0,General Ledger Accountant for Romania
+300,Z_BR_GL_ACCOUNTANT_RO,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_RO
+300,Z_BR_GL_ACCOUNTANT_RO,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_RO,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_RO,E,4,
+300,Z_BR_GL_ACCOUNTANT_RU,E,0,General Ledger Accountant for Russian Federation
+300,Z_BR_GL_ACCOUNTANT_RU,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_RU
+300,Z_BR_GL_ACCOUNTANT_RU,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_RU,E,4,
+300,Z_BR_GL_ACCOUNTANT_SA,E,0,General Ledger Accountant for Saudi Arabia
+300,Z_BR_GL_ACCOUNTANT_SA,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_SA
+300,Z_BR_GL_ACCOUNTANT_SA,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_SA,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_SA,E,4,
+300,Z_BR_GL_ACCOUNTANT_SE,E,0,General Ledger Accountant for Sweden
+300,Z_BR_GL_ACCOUNTANT_SE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_SE
+300,Z_BR_GL_ACCOUNTANT_SE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_SE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_SE,E,4,
+300,Z_BR_GL_ACCOUNTANT_SG,E,0,General Ledger Accountant for Singapore
+300,Z_BR_GL_ACCOUNTANT_SG,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_SG
+300,Z_BR_GL_ACCOUNTANT_SG,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_SG,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_SG,E,4,
+300,Z_BR_GL_ACCOUNTANT_SI,E,0,General Ledger Accountant for Slovenia
+300,Z_BR_GL_ACCOUNTANT_SI,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_SI
+300,Z_BR_GL_ACCOUNTANT_SI,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_SI,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_SI,E,4,
+300,Z_BR_GL_ACCOUNTANT_SK,E,0,General Ledger Accountant for Slovakia
+300,Z_BR_GL_ACCOUNTANT_SK,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_SK
+300,Z_BR_GL_ACCOUNTANT_SK,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_SK,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_SK,E,4,
+300,Z_BR_GL_ACCOUNTANT_TH,E,0,General Ledger Accountant for Thailand
+300,Z_BR_GL_ACCOUNTANT_TH,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_TH
+300,Z_BR_GL_ACCOUNTANT_TH,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_TH,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_TH,E,4,
+300,Z_BR_GL_ACCOUNTANT_TR,E,0,General Ledger Accountant for Turkey
+300,Z_BR_GL_ACCOUNTANT_TR,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_TR
+300,Z_BR_GL_ACCOUNTANT_TR,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_TR,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_TR,E,4,
+300,Z_BR_GL_ACCOUNTANT_TW,E,0,General Ledger Accountant for Taiwan
+300,Z_BR_GL_ACCOUNTANT_TW,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_TW
+300,Z_BR_GL_ACCOUNTANT_TW,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_TW,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_TW,E,4,
+300,Z_BR_GL_ACCOUNTANT_UA,E,0,General Ledger Accountant for Ukraine
+300,Z_BR_GL_ACCOUNTANT_UA,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_UA
+300,Z_BR_GL_ACCOUNTANT_UA,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_UA,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_UA,E,4,
+300,Z_BR_GL_ACCOUNTANT_US,E,0,General Ledger Accountant for USA
+300,Z_BR_GL_ACCOUNTANT_US,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_US
+300,Z_BR_GL_ACCOUNTANT_US,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_US,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_US,E,4,
+300,Z_BR_GL_ACCOUNTANT_VE,E,0,General Ledger Accountant for Venezuela
+300,Z_BR_GL_ACCOUNTANT_VE,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_VE
+300,Z_BR_GL_ACCOUNTANT_VE,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_VE,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_VE,E,4,
+300,Z_BR_GL_ACCOUNTANT_ZA,E,0,General Ledger Accountant for South Africa
+300,Z_BR_GL_ACCOUNTANT_ZA,E,1,Role copied from SAP_BR_GL_ACCOUNTANT_ZA
+300,Z_BR_GL_ACCOUNTANT_ZA,E,2,Created automatically with task list:
+300,Z_BR_GL_ACCOUNTANT_ZA,E,3,FLP content activation for Business Roles
+300,Z_BR_GL_ACCOUNTANT_ZA,E,4,
+300,Z_BR_GRANT_SPECIALIST,E,0,Grant Specialist
+300,Z_BR_GRANT_SPECIALIST,E,1,Role copied from SAP_BR_GRANT_SPECIALIST
+300,Z_BR_GRANT_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_GRANT_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_GRANT_SPECIALIST,E,4,
+300,Z_BR_INS_CLAIMS_HANDLER,E,0,Insurance Claims Handler
+300,Z_BR_INS_CLAIMS_HANDLER,E,1,Role copied from SAP_BR_INS_CLAIMS_HANDLER
+300,Z_BR_INS_CLAIMS_HANDLER,E,2,Created automatically with task list:
+300,Z_BR_INS_CLAIMS_HANDLER,E,3,FLP content activation for Business Roles
+300,Z_BR_INS_CLAIMS_HANDLER,E,4,
+300,Z_BR_INTERNAL_SALES_REP,E,0,Internal Sales Representative
+300,Z_BR_INTERNAL_SALES_REP,E,1,Role copied from SAP_BR_INTERNAL_SALES_REP
+300,Z_BR_INTERNAL_SALES_REP,E,2,Created automatically with task list:
+300,Z_BR_INTERNAL_SALES_REP,E,3,FLP content activation for Business Roles
+300,Z_BR_INTERNAL_SALES_REP,E,4,
+300,Z_BR_INTRASTAT_SPECIALIST,E,0,Intrastat Specialist
+300,Z_BR_INTRASTAT_SPECIALIST,E,1,Role copied from SAP_BR_INTRASTAT_SPECIALIST
+300,Z_BR_INTRASTAT_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_INTRASTAT_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_INTRASTAT_SPECIALIST,E,4,
+300,Z_BR_INTRNAL_SALESREP_SOM,E,0,Internal Sales Representative (SOM)
+300,Z_BR_INTRNAL_SALESREP_SOM,E,1,Role copied from SAP_BR_INTRNAL_SALESREP_SOM
+300,Z_BR_INTRNAL_SALESREP_SOM,E,2,Created automatically with task list:
+300,Z_BR_INTRNAL_SALESREP_SOM,E,3,FLP content activation for Business Roles
+300,Z_BR_INTRNAL_SALESREP_SOM,E,4,
+300,Z_BR_INVENTORY_ACCOUNTANT,E,0,Cost Accountant - Inventory
+300,Z_BR_INVENTORY_ACCOUNTANT,E,1,Role copied from SAP_BR_INVENTORY_ACCOUNTANT
+300,Z_BR_INVENTORY_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_INVENTORY_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_INVENTORY_ACCOUNTANT,E,4,
+300,Z_BR_INVENTORY_ACCOUNTANT_GR,E,0,Inventory Accountant for Greece
+300,Z_BR_INVENTORY_ACCOUNTANT_GR,E,1,Role copied from SAP_BR_INVENTORY_ACCOUNTANT_GR
+300,Z_BR_INVENTORY_ACCOUNTANT_GR,E,2,Created automatically with task list:
+300,Z_BR_INVENTORY_ACCOUNTANT_GR,E,3,FLP content activation for Business Roles
+300,Z_BR_INVENTORY_ACCOUNTANT_GR,E,4,
+300,Z_BR_INVENTORY_ACCOUNTANT_RU,E,0,Inventory Accountant for Russian Federation
+300,Z_BR_INVENTORY_ACCOUNTANT_RU,E,1,Role copied from SAP_BR_INVENTORY_ACCOUNTANT_RU
+300,Z_BR_INVENTORY_ACCOUNTANT_RU,E,2,Created automatically with task list:
+300,Z_BR_INVENTORY_ACCOUNTANT_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_INVENTORY_ACCOUNTANT_RU,E,4,
+300,Z_BR_INVENTORY_MANAGER,E,0,Inventory Manager
+300,Z_BR_INVENTORY_MANAGER,E,1,Role copied from SAP_BR_INVENTORY_MANAGER
+300,Z_BR_INVENTORY_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_INVENTORY_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_INVENTORY_MANAGER,E,4,
+300,Z_BR_INVESTIGATOR,E,0,Criminal Investigator
+300,Z_BR_INVESTIGATOR,E,1,Role copied from SAP_BR_INVESTIGATOR
+300,Z_BR_INVESTIGATOR,E,2,Created automatically with task list:
+300,Z_BR_INVESTIGATOR,E,3,FLP content activation for Business Roles
+300,Z_BR_INVESTIGATOR,E,4,
+300,Z_BR_INVOICING_MANAGER_CINV,E,0,Invoicing Manager (Convergent Invoicing)
+300,Z_BR_INVOICING_MANAGER_CINV,E,1,Role copied from SAP_BR_INVOICING_MANAGER_CINV
+300,Z_BR_INVOICING_MANAGER_CINV,E,2,Created automatically with task list:
+300,Z_BR_INVOICING_MANAGER_CINV,E,3,FLP content activation for Business Roles
+300,Z_BR_INVOICING_MANAGER_CINV,E,4,
+300,Z_BR_JVA_ACCOUNTANT,E,0,Joint Venture Accountant
+300,Z_BR_JVA_ACCOUNTANT,E,1,Role copied from SAP_BR_JVA_ACCOUNTANT
+300,Z_BR_JVA_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_JVA_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_JVA_ACCOUNTANT,E,4,
+300,Z_BR_LEGAL_COUNSEL,E,0,Legal Counsel
+300,Z_BR_LEGAL_COUNSEL,E,1,Role copied from SAP_BR_LEGAL_COUNSEL
+300,Z_BR_LEGAL_COUNSEL,E,2,Created automatically with task list:
+300,Z_BR_LEGAL_COUNSEL,E,3,FLP content activation for Business Roles
+300,Z_BR_LEGAL_COUNSEL,E,4,
+300,Z_BR_LOAN_CREDIT_ANALYST,E,0,Credit Analyst - Loans Management
+300,Z_BR_LOAN_CREDIT_ANALYST,E,1,Role copied from SAP_BR_LOAN_CREDIT_ANALYST
+300,Z_BR_LOAN_CREDIT_ANALYST,E,2,Created automatically with task list:
+300,Z_BR_LOAN_CREDIT_ANALYST,E,3,FLP content activation for Business Roles
+300,Z_BR_LOAN_CREDIT_ANALYST,E,4,
+300,Z_BR_LOAN_DEPT_MANAGER,E,0,Manager - Loans Management
+300,Z_BR_LOAN_DEPT_MANAGER,E,1,Role copied from SAP_BR_LOAN_DEPT_MANAGER
+300,Z_BR_LOAN_DEPT_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_LOAN_DEPT_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_LOAN_DEPT_MANAGER,E,4,
+300,Z_BR_LOAN_LOAN_OFFICER,E,0,Loan Officer
+300,Z_BR_LOAN_LOAN_OFFICER,E,1,Role copied from SAP_BR_LOAN_LOAN_OFFICER
+300,Z_BR_LOAN_LOAN_OFFICER,E,2,Created automatically with task list:
+300,Z_BR_LOAN_LOAN_OFFICER,E,3,FLP content activation for Business Roles
+300,Z_BR_LOAN_LOAN_OFFICER,E,4,
+300,Z_BR_LOAN_STAFF_ACCOUNT,E,0,Staff Accountant - Loans Management
+300,Z_BR_LOAN_STAFF_ACCOUNT,E,1,Role copied from SAP_BR_LOAN_STAFF_ACCOUNT
+300,Z_BR_LOAN_STAFF_ACCOUNT,E,2,Created automatically with task list:
+300,Z_BR_LOAN_STAFF_ACCOUNT,E,3,FLP content activation for Business Roles
+300,Z_BR_LOAN_STAFF_ACCOUNT,E,4,
+300,Z_BR_MAINTENANCE_PLANNER,E,0,Maintenance Planner
+300,Z_BR_MAINTENANCE_PLANNER,E,1,Role copied from SAP_BR_MAINTENANCE_PLANNER
+300,Z_BR_MAINTENANCE_PLANNER,E,2,Created automatically with task list:
+300,Z_BR_MAINTENANCE_PLANNER,E,3,FLP content activation for Business Roles
+300,Z_BR_MAINTENANCE_PLANNER,E,4,
+300,Z_BR_MAINTENANCE_PLANNER_RSH,E,0,Maintenance Planner - Resource Scheduling
+300,Z_BR_MAINTENANCE_PLANNER_RSH,E,1,Role copied from SAP_BR_MAINTENANCE_PLANNER_RSH
+300,Z_BR_MAINTENANCE_PLANNER_RSH,E,2,Created automatically with task list:
+300,Z_BR_MAINTENANCE_PLANNER_RSH,E,3,FLP content activation for Business Roles
+300,Z_BR_MAINTENANCE_PLANNER_RSH,E,4,
+300,Z_BR_MAINTENANCE_TECHNICIAN,E,0,Maintenance Technician
+300,Z_BR_MAINTENANCE_TECHNICIAN,E,1,Role copied from SAP_BR_MAINTENANCE_TECHNICIAN
+300,Z_BR_MAINTENANCE_TECHNICIAN,E,2,Created automatically with task list:
+300,Z_BR_MAINTENANCE_TECHNICIAN,E,3,FLP content activation for Business Roles
+300,Z_BR_MAINTENANCE_TECHNICIAN,E,4,
+300,Z_BR_MANAGER_PROCUREMENT,E,0,Manager - Procurement
+300,Z_BR_MANAGER_PROCUREMENT,E,1,Role copied from SAP_BR_MANAGER_PROCUREMENT
+300,Z_BR_MANAGER_PROCUREMENT,E,2,Created automatically with task list:
+300,Z_BR_MANAGER_PROCUREMENT,E,3,FLP content activation for Business Roles
+300,Z_BR_MANAGER_PROCUREMENT,E,4,
+300,Z_BR_MASTER_DATA_ACM,E,0,Master Data Specialist (ACM)
+300,Z_BR_MASTER_DATA_ACM,E,1,Role copied from SAP_BR_MASTER_DATA_ACM
+300,Z_BR_MASTER_DATA_ACM,E,2,Created automatically with task list:
+300,Z_BR_MASTER_DATA_ACM,E,3,FLP content activation for Business Roles
+300,Z_BR_MASTER_DATA_ACM,E,4,
+300,Z_BR_MASTER_SPECIALIST_FIN,E,0,Master Data Specialist - Financial Data (MDG)
+300,Z_BR_MASTER_SPECIALIST_FIN,E,1,Role copied from SAP_BR_MASTER_SPECIALIST_FIN
+300,Z_BR_MASTER_SPECIALIST_FIN,E,2,Created automatically with task list:
+300,Z_BR_MASTER_SPECIALIST_FIN,E,3,FLP content activation for Business Roles
+300,Z_BR_MASTER_SPECIALIST_FIN,E,4,
+300,Z_BR_MATL_PLNR_EXT_PROC,E,0,Material Planner - External Procurement
+300,Z_BR_MATL_PLNR_EXT_PROC,E,1,Role copied from SAP_BR_MATL_PLNR_EXT_PROC
+300,Z_BR_MATL_PLNR_EXT_PROC,E,2,Created automatically with task list:
+300,Z_BR_MATL_PLNR_EXT_PROC,E,3,FLP content activation for Business Roles
+300,Z_BR_MATL_PLNR_EXT_PROC,E,4,
+300,Z_BR_MD_SPECIALIST_ITEM_RFM,E,0,Master Data Specialist - Product Data (Retail)
+300,Z_BR_MD_SPECIALIST_ITEM_RFM,E,1,Role copied from SAP_BR_MD_SPECIALIST_ITEM_RFM
+300,Z_BR_MD_SPECIALIST_ITEM_RFM,E,2,Created automatically with task list:
+300,Z_BR_MD_SPECIALIST_ITEM_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_MD_SPECIALIST_ITEM_RFM,E,4,
+300,Z_BR_MD_SPECIALIST_PCL,E,0,Master Data Specialist - Product Compliance
+300,Z_BR_MD_SPECIALIST_PCL,E,1,Role copied from SAP_BR_MD_SPECIALIST_PCL
+300,Z_BR_MD_SPECIALIST_PCL,E,2,Created automatically with task list:
+300,Z_BR_MD_SPECIALIST_PCL,E,3,FLP content activation for Business Roles
+300,Z_BR_MD_SPECIALIST_PCL,E,4,
+300,Z_BR_MD_SPECIALIST_RAW_SUBST,E,0,Master Data Specialist - Raw Substance Data
+300,Z_BR_MD_SPECIALIST_RAW_SUBST,E,1,Role copied from SAP_BR_MD_SPECIALIST_RAW_SUBST
+300,Z_BR_MD_SPECIALIST_RAW_SUBST,E,2,Created automatically with task list:
+300,Z_BR_MD_SPECIALIST_RAW_SUBST,E,3,FLP content activation for Business Roles
+300,Z_BR_MD_SPECIALIST_RAW_SUBST,E,4,
+300,Z_BR_METERDATA_SPEC_ISU,E,0,Meter Data Specialist (Utilities)
+300,Z_BR_METERDATA_SPEC_ISU,E,1,Role copied from SAP_BR_METERDATA_SPEC_ISU
+300,Z_BR_METERDATA_SPEC_ISU,E,2,Created automatically with task list:
+300,Z_BR_METERDATA_SPEC_ISU,E,3,FLP content activation for Business Roles
+300,Z_BR_METERDATA_SPEC_ISU,E,4,
+300,Z_BR_ORDER_FULFILLMNT_MNGR_R,E,0,Order Fulfillment Manager (Retail)
+300,Z_BR_ORDER_FULFILLMNT_MNGR_R,E,1,Role copied from SAP_BR_ORDER_FULFILLMNT_MNGR_R
+300,Z_BR_ORDER_FULFILLMNT_MNGR_R,E,2,Created automatically with task list:
+300,Z_BR_ORDER_FULFILLMNT_MNGR_R,E,3,FLP content activation for Business Roles
+300,Z_BR_ORDER_FULFILLMNT_MNGR_R,E,4,
+300,Z_BR_ORDER_FULFILLMNT_SPCLST,E,0,Order Fulfillment Specialist
+300,Z_BR_ORDER_FULFILLMNT_SPCLST,E,1,Role copied from SAP_BR_ORDER_FULFILLMNT_SPCLST
+300,Z_BR_ORDER_FULFILLMNT_SPCLST,E,2,Created automatically with task list:
+300,Z_BR_ORDER_FULFILLMNT_SPCLST,E,3,FLP content activation for Business Roles
+300,Z_BR_ORDER_FULFILLMNT_SPCLST,E,4,
+300,Z_BR_ORG_PLANNER,E,0,Organizational Planner - Force Element
+300,Z_BR_ORG_PLANNER,E,1,Role copied from SAP_BR_ORG_PLANNER
+300,Z_BR_ORG_PLANNER,E,2,Created automatically with task list:
+300,Z_BR_ORG_PLANNER,E,3,FLP content activation for Business Roles
+300,Z_BR_ORG_PLANNER,E,4,
+300,Z_BR_OVERHEAD_ACCOUNTANT,E,0,Cost Accountant - Overhead
+300,Z_BR_OVERHEAD_ACCOUNTANT,E,1,Role copied from SAP_BR_OVERHEAD_ACCOUNTANT
+300,Z_BR_OVERHEAD_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_OVERHEAD_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_OVERHEAD_ACCOUNTANT,E,4,
+300,Z_BR_PAYM_SPECIALIST,E,0,Payment Specialist
+300,Z_BR_PAYM_SPECIALIST,E,1,Role copied from SAP_BR_PAYM_SPECIALIST
+300,Z_BR_PAYM_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_PAYM_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_PAYM_SPECIALIST,E,4,
+300,Z_BR_PRICING_SPECIALIST,E,0,Pricing Specialist
+300,Z_BR_PRICING_SPECIALIST,E,1,Role copied from SAP_BR_PRICING_SPECIALIST
+300,Z_BR_PRICING_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_PRICING_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_PRICING_SPECIALIST,E,4,
+300,Z_BR_PRICING_SPECIALIST_RFM,E,0,Pricing Specialist (Retail)
+300,Z_BR_PRICING_SPECIALIST_RFM,E,1,Role copied from SAP_BR_PRICING_SPECIALIST_RFM
+300,Z_BR_PRICING_SPECIALIST_RFM,E,2,Created automatically with task list:
+300,Z_BR_PRICING_SPECIALIST_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_PRICING_SPECIALIST_RFM,E,4,
+300,Z_BR_PRJTEAMMEMBER_COMMPRJ,E,0,Project Team Member (CPM)
+300,Z_BR_PRJTEAMMEMBER_COMMPRJ,E,1,Role copied from SAP_BR_PRJTEAMMEMBER_COMMPRJ
+300,Z_BR_PRJTEAMMEMBER_COMMPRJ,E,2,Created automatically with task list:
+300,Z_BR_PRJTEAMMEMBER_COMMPRJ,E,3,FLP content activation for Business Roles
+300,Z_BR_PRJTEAMMEMBER_COMMPRJ,E,4,
+300,Z_BR_PRODMASTER_SPECIALIST,E,0,Master Data Specialist - Product Data
+300,Z_BR_PRODMASTER_SPECIALIST,E,1,Role copied from SAP_BR_PRODMASTER_SPECIALIST
+300,Z_BR_PRODMASTER_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_PRODMASTER_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODMASTER_SPECIALIST,E,4,
+300,Z_BR_PRODMASTER_STEWARD,E,0,Master Data Steward - Product Data
+300,Z_BR_PRODMASTER_STEWARD,E,1,Role copied from SAP_BR_PRODMASTER_STEWARD
+300,Z_BR_PRODMASTER_STEWARD,E,2,Created automatically with task list:
+300,Z_BR_PRODMASTER_STEWARD,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODMASTER_STEWARD,E,4,
+300,Z_BR_PRODN_ACCOUNTANT,E,0,Cost Accountant - Production
+300,Z_BR_PRODN_ACCOUNTANT,E,1,Role copied from SAP_BR_PRODN_ACCOUNTANT
+300,Z_BR_PRODN_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_PRODN_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_ACCOUNTANT,E,4,
+300,Z_BR_PRODN_ENG_DISC,E,0,Production Engineer - Discrete Manufacturing
+300,Z_BR_PRODN_ENG_DISC,E,1,Role copied from SAP_BR_PRODN_ENG_DISC
+300,Z_BR_PRODN_ENG_DISC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_ENG_DISC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_ENG_DISC,E,4,
+300,Z_BR_PRODN_ENG_DISC_CAM,E,0,Production Engineer - Discrete Manufacturing (CAM)
+300,Z_BR_PRODN_ENG_DISC_CAM,E,1,Role copied from SAP_BR_PRODN_ENG_DISC_CAM
+300,Z_BR_PRODN_ENG_DISC_CAM,E,2,Created automatically with task list:
+300,Z_BR_PRODN_ENG_DISC_CAM,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_ENG_DISC_CAM,E,4,
+300,Z_BR_PRODN_ENG_DISC_EME,E,0,Production Engineer - Discrete Manufacturing (EME)
+300,Z_BR_PRODN_ENG_DISC_EME,E,1,Role copied from SAP_BR_PRODN_ENG_DISC_EME
+300,Z_BR_PRODN_ENG_DISC_EME,E,2,Created automatically with task list:
+300,Z_BR_PRODN_ENG_DISC_EME,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_ENG_DISC_EME,E,4,
+300,Z_BR_PRODN_ENG_PROC,E,0,Production Engineer - Process Manufacturing
+300,Z_BR_PRODN_ENG_PROC,E,1,Role copied from SAP_BR_PRODN_ENG_PROC
+300,Z_BR_PRODN_ENG_PROC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_ENG_PROC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_ENG_PROC,E,4,
+300,Z_BR_PRODN_OPTR_DISC,E,0,Production Operator - Discrete Manufacturing
+300,Z_BR_PRODN_OPTR_DISC,E,1,Role copied from SAP_BR_PRODN_OPTR_DISC
+300,Z_BR_PRODN_OPTR_DISC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_OPTR_DISC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_OPTR_DISC,E,4,
+300,Z_BR_PRODN_OPTR_DISC_EPO,E,0,Production Operator - Discrete Manufacturing (EPO)
+300,Z_BR_PRODN_OPTR_DISC_EPO,E,1,Role copied from SAP_BR_PRODN_OPTR_DISC_EPO
+300,Z_BR_PRODN_OPTR_DISC_EPO,E,2,Created automatically with task list:
+300,Z_BR_PRODN_OPTR_DISC_EPO,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_OPTR_DISC_EPO,E,4,
+300,Z_BR_PRODN_OPTR_LEAN_MFG,E,0,Production Operator - Lean Manufacturing
+300,Z_BR_PRODN_OPTR_LEAN_MFG,E,1,Role copied from SAP_BR_PRODN_OPTR_LEAN_MFG
+300,Z_BR_PRODN_OPTR_LEAN_MFG,E,2,Created automatically with task list:
+300,Z_BR_PRODN_OPTR_LEAN_MFG,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_OPTR_LEAN_MFG,E,4,
+300,Z_BR_PRODN_OPTR_PROC,E,0,Production Operator - Process Manufacturing
+300,Z_BR_PRODN_OPTR_PROC,E,1,Role copied from SAP_BR_PRODN_OPTR_PROC
+300,Z_BR_PRODN_OPTR_PROC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_OPTR_PROC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_OPTR_PROC,E,4,
+300,Z_BR_PRODN_OPTR_RPTV,E,0,Production Operator - Repetitive Manufacturing
+300,Z_BR_PRODN_OPTR_RPTV,E,1,Role copied from SAP_BR_PRODN_OPTR_RPTV
+300,Z_BR_PRODN_OPTR_RPTV,E,2,Created automatically with task list:
+300,Z_BR_PRODN_OPTR_RPTV,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_OPTR_RPTV,E,4,
+300,Z_BR_PRODN_PLNR,E,0,Production Planner
+300,Z_BR_PRODN_PLNR,E,1,Role copied from SAP_BR_PRODN_PLNR
+300,Z_BR_PRODN_PLNR,E,2,Created automatically with task list:
+300,Z_BR_PRODN_PLNR,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_PLNR,E,4,
+300,Z_BR_PRODN_SUPERVISOR_DISC,E,0,Production Supervisor - Discrete Manufacturing
+300,Z_BR_PRODN_SUPERVISOR_DISC,E,1,Role copied from SAP_BR_PRODN_SUPERVISOR_DISC
+300,Z_BR_PRODN_SUPERVISOR_DISC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_SUPERVISOR_DISC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_SUPERVISOR_DISC,E,4,
+300,Z_BR_PRODN_SUPERVISOR_PROC,E,0,Production Supervisor - Process Manufacturing
+300,Z_BR_PRODN_SUPERVISOR_PROC,E,1,Role copied from SAP_BR_PRODN_SUPERVISOR_PROC
+300,Z_BR_PRODN_SUPERVISOR_PROC,E,2,Created automatically with task list:
+300,Z_BR_PRODN_SUPERVISOR_PROC,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_SUPERVISOR_PROC,E,4,
+300,Z_BR_PRODN_SUPERVISOR_RFM,E,0,Production Supervisor - Discrete Manufacturing (Retail)
+300,Z_BR_PRODN_SUPERVISOR_RFM,E,1,Role copied from SAP_BR_PRODN_SUPERVISOR_RFM
+300,Z_BR_PRODN_SUPERVISOR_RFM,E,2,Created automatically with task list:
+300,Z_BR_PRODN_SUPERVISOR_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_SUPERVISOR_RFM,E,4,
+300,Z_BR_PRODN_SUPERVISOR_RPTV,E,0,Production Supervisor - Repetitive Manufacturing
+300,Z_BR_PRODN_SUPERVISOR_RPTV,E,1,Role copied from SAP_BR_PRODN_SUPERVISOR_RPTV
+300,Z_BR_PRODN_SUPERVISOR_RPTV,E,2,Created automatically with task list:
+300,Z_BR_PRODN_SUPERVISOR_RPTV,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODN_SUPERVISOR_RPTV,E,4,
+300,Z_BR_PRODSTWRD_SPLST_PCL,E,0,Product Stewardship Specialist - Product Compliance
+300,Z_BR_PRODSTWRD_SPLST_PCL,E,1,Role copied from SAP_BR_PRODSTWRD_SPLST_PCL
+300,Z_BR_PRODSTWRD_SPLST_PCL,E,2,Created automatically with task list:
+300,Z_BR_PRODSTWRD_SPLST_PCL,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODSTWRD_SPLST_PCL,E,4,
+300,Z_BR_PRODUCT_CONFIG_MODELER,E,0,Product Configuration Modeler
+300,Z_BR_PRODUCT_CONFIG_MODELER,E,1,Role copied from SAP_BR_PRODUCT_CONFIG_MODELER
+300,Z_BR_PRODUCT_CONFIG_MODELER,E,2,Created automatically with task list:
+300,Z_BR_PRODUCT_CONFIG_MODELER,E,3,FLP content activation for Business Roles
+300,Z_BR_PRODUCT_CONFIG_MODELER,E,4,
+300,Z_BR_PROD_CONF_MODELR_SOM,E,0,Product Configuration Modeler (SOM)
+300,Z_BR_PROD_CONF_MODELR_SOM,E,1,Role copied from SAP_BR_PROD_CONF_MODELR_SOM
+300,Z_BR_PROD_CONF_MODELR_SOM,E,2,Created automatically with task list:
+300,Z_BR_PROD_CONF_MODELR_SOM,E,3,FLP content activation for Business Roles
+300,Z_BR_PROD_CONF_MODELR_SOM,E,4,
+300,Z_BR_PROD_STWRDSHP_SPECLST,E,0,Product Stewardship Specialist
+300,Z_BR_PROD_STWRDSHP_SPECLST,E,1,Role copied from SAP_BR_PROD_STWRDSHP_SPECLST
+300,Z_BR_PROD_STWRDSHP_SPECLST,E,2,Created automatically with task list:
+300,Z_BR_PROD_STWRDSHP_SPECLST,E,3,FLP content activation for Business Roles
+300,Z_BR_PROD_STWRDSHP_SPECLST,E,4,
+300,Z_BR_PROJECTMGR_COMMPRJ,E,0,Project Manager (CPM)
+300,Z_BR_PROJECTMGR_COMMPRJ,E,1,Role copied from SAP_BR_PROJECTMGR_COMMPRJ
+300,Z_BR_PROJECTMGR_COMMPRJ,E,2,Created automatically with task list:
+300,Z_BR_PROJECTMGR_COMMPRJ,E,3,FLP content activation for Business Roles
+300,Z_BR_PROJECTMGR_COMMPRJ,E,4,
+300,Z_BR_PROJ_FIN_CONTROLLER,E,0,Project Financial Controller
+300,Z_BR_PROJ_FIN_CONTROLLER,E,1,Role copied from SAP_BR_PROJ_FIN_CONTROLLER
+300,Z_BR_PROJ_FIN_CONTROLLER,E,2,Created automatically with task list:
+300,Z_BR_PROJ_FIN_CONTROLLER,E,3,FLP content activation for Business Roles
+300,Z_BR_PROJ_FIN_CONTROLLER,E,4,
+300,Z_BR_PROMOTION_SPEC_RFM,E,0,Promotion Specialist (Retail)
+300,Z_BR_PROMOTION_SPEC_RFM,E,1,Role copied from SAP_BR_PROMOTION_SPEC_RFM
+300,Z_BR_PROMOTION_SPEC_RFM,E,2,Created automatically with task list:
+300,Z_BR_PROMOTION_SPEC_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_PROMOTION_SPEC_RFM,E,4,
+300,Z_BR_PURCHASER,E,0,Purchaser
+300,Z_BR_PURCHASER,E,1,Role copied from SAP_BR_PURCHASER
+300,Z_BR_PURCHASER,E,2,Created automatically with task list:
+300,Z_BR_PURCHASER,E,3,FLP content activation for Business Roles
+300,Z_BR_PURCHASER,E,4,
+300,Z_BR_PURCHASER_IN,E,0,Purchaser for India
+300,Z_BR_PURCHASER_IN,E,1,Role copied from SAP_BR_PURCHASER_IN
+300,Z_BR_PURCHASER_IN,E,2,Created automatically with task list:
+300,Z_BR_PURCHASER_IN,E,3,FLP content activation for Business Roles
+300,Z_BR_PURCHASER_IN,E,4,
+300,Z_BR_PURCHASER_RFM,E,0,Purchaser (Retail)
+300,Z_BR_PURCHASER_RFM,E,1,Role copied from SAP_BR_PURCHASER_RFM
+300,Z_BR_PURCHASER_RFM,E,2,Created automatically with task list:
+300,Z_BR_PURCHASER_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_PURCHASER_RFM,E,4,
+300,Z_BR_PURCHASING_MANAGER,E,0,Purchasing Manager
+300,Z_BR_PURCHASING_MANAGER,E,1,Role copied from SAP_BR_PURCHASING_MANAGER
+300,Z_BR_PURCHASING_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_PURCHASING_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_PURCHASING_MANAGER,E,4,
+300,Z_BR_PURCHASING_MANAGER_EMPT,E,0,Purchasing Manager - Empties Management
+300,Z_BR_PURCHASING_MANAGER_EMPT,E,1,Role copied from SAP_BR_PURCHASING_MANAGER_EMPT
+300,Z_BR_PURCHASING_MANAGER_EMPT,E,2,Created automatically with task list:
+300,Z_BR_PURCHASING_MANAGER_EMPT,E,3,FLP content activation for Business Roles
+300,Z_BR_PURCHASING_MANAGER_EMPT,E,4,
+300,Z_BR_QUALITY_ENGINEER,E,0,Quality Engineer
+300,Z_BR_QUALITY_ENGINEER,E,1,Role copied from SAP_BR_QUALITY_ENGINEER
+300,Z_BR_QUALITY_ENGINEER,E,2,Created automatically with task list:
+300,Z_BR_QUALITY_ENGINEER,E,3,FLP content activation for Business Roles
+300,Z_BR_QUALITY_ENGINEER,E,4,
+300,Z_BR_QUALITY_MANAGER,E,0,Quality Manager
+300,Z_BR_QUALITY_MANAGER,E,1,Role copied from SAP_BR_QUALITY_MANAGER
+300,Z_BR_QUALITY_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_QUALITY_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_QUALITY_MANAGER,E,4,
+300,Z_BR_QUALITY_PLANNER,E,0,Quality Planner
+300,Z_BR_QUALITY_PLANNER,E,1,Role copied from SAP_BR_QUALITY_PLANNER
+300,Z_BR_QUALITY_PLANNER,E,2,Created automatically with task list:
+300,Z_BR_QUALITY_PLANNER,E,3,FLP content activation for Business Roles
+300,Z_BR_QUALITY_PLANNER,E,4,
+300,Z_BR_QUALITY_TECHNICIAN,E,0,Quality Technician
+300,Z_BR_QUALITY_TECHNICIAN,E,1,Role copied from SAP_BR_QUALITY_TECHNICIAN
+300,Z_BR_QUALITY_TECHNICIAN,E,2,Created automatically with task list:
+300,Z_BR_QUALITY_TECHNICIAN,E,3,FLP content activation for Business Roles
+300,Z_BR_QUALITY_TECHNICIAN,E,4,
+300,Z_BR_RECEIVING_SPECIALIST,E,0,Receiving Specialist
+300,Z_BR_RECEIVING_SPECIALIST,E,1,Role copied from SAP_BR_RECEIVING_SPECIALIST
+300,Z_BR_RECEIVING_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_RECEIVING_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_RECEIVING_SPECIALIST,E,4,
+300,Z_BR_RECIPE_DEVELOPER,E,0,Recipe Developer
+300,Z_BR_RECIPE_DEVELOPER,E,1,Role copied from SAP_BR_RECIPE_DEVELOPER
+300,Z_BR_RECIPE_DEVELOPER,E,2,Created automatically with task list:
+300,Z_BR_RECIPE_DEVELOPER,E,3,FLP content activation for Business Roles
+300,Z_BR_RECIPE_DEVELOPER,E,4,
+300,Z_BR_RECM_ADMINISTRATOR,E,0,Administrator - Leasing
+300,Z_BR_RECM_ADMINISTRATOR,E,1,Role copied from SAP_BR_RECM_ADMINISTRATOR
+300,Z_BR_RECM_ADMINISTRATOR,E,2,Created automatically with task list:
+300,Z_BR_RECM_ADMINISTRATOR,E,3,FLP content activation for Business Roles
+300,Z_BR_RECM_ADMINISTRATOR,E,4,
+300,Z_BR_RECM_AP_ACCOUNTANT,E,0,Accounts Payable Accountant - Leasing
+300,Z_BR_RECM_AP_ACCOUNTANT,E,1,Role copied from SAP_BR_RECM_AP_ACCOUNTANT
+300,Z_BR_RECM_AP_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_RECM_AP_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_RECM_AP_ACCOUNTANT,E,4,
+300,Z_BR_RECM_AR_ACCOUNTANT,E,0,Accounts Receivable Accountant - Leasing
+300,Z_BR_RECM_AR_ACCOUNTANT,E,1,Role copied from SAP_BR_RECM_AR_ACCOUNTANT
+300,Z_BR_RECM_AR_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_RECM_AR_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_RECM_AR_ACCOUNTANT,E,4,
+300,Z_BR_RECM_SPECIALIST,E,0,Contract Specialist - Leasing
+300,Z_BR_RECM_SPECIALIST,E,1,Role copied from SAP_BR_RECM_SPECIALIST
+300,Z_BR_RECM_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_RECM_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_RECM_SPECIALIST,E,4,
+300,Z_BR_RECM_VALSPECIALIST,E,0,Contract Valuation Specialist - Leasing
+300,Z_BR_RECM_VALSPECIALIST,E,1,Role copied from SAP_BR_RECM_VALSPECIALIST
+300,Z_BR_RECM_VALSPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_RECM_VALSPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_RECM_VALSPECIALIST,E,4,
+300,Z_BR_RECONC_SPEC_APR_FICA,E,0,Reconciliation Specialist - Accounts Payable and Receivable (FI-CA)
+300,Z_BR_RECONC_SPEC_APR_FICA,E,1,Role copied from SAP_BR_RECONC_SPEC_APR_FICA
+300,Z_BR_RECONC_SPEC_APR_FICA,E,2,Created automatically with task list:
+300,Z_BR_RECONC_SPEC_APR_FICA,E,3,FLP content activation for Business Roles
+300,Z_BR_RECONC_SPEC_APR_FICA,E,4,
+300,Z_BR_RECON_ACCOUNTANT,E,0,General Ledger Accountant - Intercompany
+300,Z_BR_RECON_ACCOUNTANT,E,1,Role copied from SAP_BR_RECON_ACCOUNTANT
+300,Z_BR_RECON_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_RECON_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_RECON_ACCOUNTANT,E,4,
+300,Z_BR_RETAIL_STORE_ASSOCIATE,E,0,Retail Store Associate
+300,Z_BR_RETAIL_STORE_ASSOCIATE,E,1,Role copied from SAP_BR_RETAIL_STORE_ASSOCIATE
+300,Z_BR_RETAIL_STORE_ASSOCIATE,E,2,Created automatically with task list:
+300,Z_BR_RETAIL_STORE_ASSOCIATE,E,3,FLP content activation for Business Roles
+300,Z_BR_RETAIL_STORE_ASSOCIATE,E,4,
+300,Z_BR_RETAIL_STORE_MANAGER,E,0,Retail Store Manager
+300,Z_BR_RETAIL_STORE_MANAGER,E,1,Role copied from SAP_BR_RETAIL_STORE_MANAGER
+300,Z_BR_RETAIL_STORE_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_RETAIL_STORE_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_RETAIL_STORE_MANAGER,E,4,
+300,Z_BR_RETURNS_REFUND_CLERK,E,0,Returns and Refund Clerk
+300,Z_BR_RETURNS_REFUND_CLERK,E,1,Role copied from SAP_BR_RETURNS_REFUND_CLERK
+300,Z_BR_RETURNS_REFUND_CLERK,E,2,Created automatically with task list:
+300,Z_BR_RETURNS_REFUND_CLERK,E,3,FLP content activation for Business Roles
+300,Z_BR_RETURNS_REFUND_CLERK,E,4,
+300,Z_BR_REV_ACCOUNTANT,E,0,Revenue Accountant
+300,Z_BR_REV_ACCOUNTANT,E,1,Role copied from SAP_BR_REV_ACCOUNTANT
+300,Z_BR_REV_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_REV_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_REV_ACCOUNTANT,E,4,
+300,Z_BR_REV_ADMIN,E,0,Administrator - Revenue Accounting
+300,Z_BR_REV_ADMIN,E,1,Role copied from SAP_BR_REV_ADMIN
+300,Z_BR_REV_ADMIN,E,2,Created automatically with task list:
+300,Z_BR_REV_ADMIN,E,3,FLP content activation for Business Roles
+300,Z_BR_REV_ADMIN,E,4,
+300,Z_BR_SALES_ACCOUNTANT,E,0,Cost Accountant - Sales
+300,Z_BR_SALES_ACCOUNTANT,E,1,Role copied from SAP_BR_SALES_ACCOUNTANT
+300,Z_BR_SALES_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_SALES_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_SALES_ACCOUNTANT,E,4,
+300,Z_BR_SALES_MANAGER,E,0,Sales Manager
+300,Z_BR_SALES_MANAGER,E,1,Role copied from SAP_BR_SALES_MANAGER
+300,Z_BR_SALES_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_SALES_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_SALES_MANAGER,E,4,
+300,Z_BR_SALES_PROCESS_MANAGER,E,0,Order-to-Cash Process Manager
+300,Z_BR_SALES_PROCESS_MANAGER,E,1,Role copied from SAP_BR_SALES_PROCESS_MANAGER
+300,Z_BR_SALES_PROCESS_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_SALES_PROCESS_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_SALES_PROCESS_MANAGER,E,4,
+300,Z_BR_SERV_REP_T,E,0,Customer Service Representative (Customer Management)
+300,Z_BR_SERV_REP_T,E,1,Role copied from SAP_BR_SERV_REP_T
+300,Z_BR_SERV_REP_T,E,2,Created automatically with task list:
+300,Z_BR_SERV_REP_T,E,3,FLP content activation for Business Roles
+300,Z_BR_SERV_REP_T,E,4,
+300,Z_BR_SET_CLERK,E,0,Settlement Clerk
+300,Z_BR_SET_CLERK,E,1,Role copied from SAP_BR_SET_CLERK
+300,Z_BR_SET_CLERK,E,2,Created automatically with task list:
+300,Z_BR_SET_CLERK,E,3,FLP content activation for Business Roles
+300,Z_BR_SET_CLERK,E,4,
+300,Z_BR_SHIPPING_SPECIALIST,E,0,Shipping Specialist
+300,Z_BR_SHIPPING_SPECIALIST,E,1,Role copied from SAP_BR_SHIPPING_SPECIALIST
+300,Z_BR_SHIPPING_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_SHIPPING_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_SHIPPING_SPECIALIST,E,4,
+300,Z_BR_SHIP_SPECIALIST_JIT,E,0,Shipping Specialist - Just-In-Time Supply
+300,Z_BR_SHIP_SPECIALIST_JIT,E,1,Role copied from SAP_BR_SHIP_SPECIALIST_JIT
+300,Z_BR_SHIP_SPECIALIST_JIT,E,2,Created automatically with task list:
+300,Z_BR_SHIP_SPECIALIST_JIT,E,3,FLP content activation for Business Roles
+300,Z_BR_SHIP_SPECIALIST_JIT,E,4,
+300,Z_BR_STORE_DESIGN_MGN_RFM,E,0,Store Design Manager
+300,Z_BR_STORE_DESIGN_MGN_RFM,E,1,Role copied from SAP_BR_STORE_DESIGN_MGN_RFM
+300,Z_BR_STORE_DESIGN_MGN_RFM,E,2,Created automatically with task list:
+300,Z_BR_STORE_DESIGN_MGN_RFM,E,3,FLP content activation for Business Roles
+300,Z_BR_STORE_DESIGN_MGN_RFM,E,4,
+300,Z_BR_SYSTEMS_ENGINEER,E,0,Systems Engineer
+300,Z_BR_SYSTEMS_ENGINEER,E,1,Role copied from SAP_BR_SYSTEMS_ENGINEER
+300,Z_BR_SYSTEMS_ENGINEER,E,2,Created automatically with task list:
+300,Z_BR_SYSTEMS_ENGINEER,E,3,FLP content activation for Business Roles
+300,Z_BR_SYSTEMS_ENGINEER,E,4,
+300,Z_BR_TAX_SPECIALIST_BR,E,0,Tax Specialist for Brazil
+300,Z_BR_TAX_SPECIALIST_BR,E,1,Role copied from SAP_BR_TAX_SPECIALIST_BR
+300,Z_BR_TAX_SPECIALIST_BR,E,2,Created automatically with task list:
+300,Z_BR_TAX_SPECIALIST_BR,E,3,FLP content activation for Business Roles
+300,Z_BR_TAX_SPECIALIST_BR,E,4,
+300,Z_BR_TRADER,E,0,Trader
+300,Z_BR_TRADER,E,1,Role copied from SAP_BR_TRADER
+300,Z_BR_TRADER,E,2,Created automatically with task list:
+300,Z_BR_TRADER,E,3,FLP content activation for Business Roles
+300,Z_BR_TRADER,E,4,
+300,Z_BR_TRADER_ACM,E,0,Trader (ACM)
+300,Z_BR_TRADER_ACM,E,1,Role copied from SAP_BR_TRADER_ACM
+300,Z_BR_TRADER_ACM,E,2,Created automatically with task list:
+300,Z_BR_TRADER_ACM,E,3,FLP content activation for Business Roles
+300,Z_BR_TRADER_ACM,E,4,
+300,Z_BR_TRADING_MANAGER,E,0,Trading Manager
+300,Z_BR_TRADING_MANAGER,E,1,Role copied from SAP_BR_TRADING_MANAGER
+300,Z_BR_TRADING_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_TRADING_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_TRADING_MANAGER,E,4,
+300,Z_BR_TRANSPORTATION_MANAGER,E,0,Transportation Manager
+300,Z_BR_TRANSPORTATION_MANAGER,E,1,Role copied from SAP_BR_TRANSPORTATION_MANAGER
+300,Z_BR_TRANSPORTATION_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_TRANSPORTATION_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_TRANSPORTATION_MANAGER,E,4,
+300,Z_BR_TRD_CLS_SPECIALIST,E,0,Trade Classification Specialist
+300,Z_BR_TRD_CLS_SPECIALIST,E,1,Role copied from SAP_BR_TRD_CLS_SPECIALIST
+300,Z_BR_TRD_CLS_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_TRD_CLS_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_TRD_CLS_SPECIALIST,E,4,
+300,Z_BR_TRD_CMPLNC_MANAGER_RU,E,0,Trade Compliance Specialist for Russian Federation
+300,Z_BR_TRD_CMPLNC_MANAGER_RU,E,1,Role copied from SAP_BR_TRD_CMPLNC_MANAGER_RU
+300,Z_BR_TRD_CMPLNC_MANAGER_RU,E,2,Created automatically with task list:
+300,Z_BR_TRD_CMPLNC_MANAGER_RU,E,3,FLP content activation for Business Roles
+300,Z_BR_TRD_CMPLNC_MANAGER_RU,E,4,
+300,Z_BR_TRD_CMPLNC_SPECIALIST,E,0,Trade Compliance Specialist
+300,Z_BR_TRD_CMPLNC_SPECIALIST,E,1,Role copied from SAP_BR_TRD_CMPLNC_SPECIALIST
+300,Z_BR_TRD_CMPLNC_SPECIALIST,E,2,Created automatically with task list:
+300,Z_BR_TRD_CMPLNC_SPECIALIST,E,3,FLP content activation for Business Roles
+300,Z_BR_TRD_CMPLNC_SPECIALIST,E,4,
+300,Z_BR_TREASURY_ACCOUNTANT,E,0,Treasury Accountant
+300,Z_BR_TREASURY_ACCOUNTANT,E,1,Role copied from SAP_BR_TREASURY_ACCOUNTANT
+300,Z_BR_TREASURY_ACCOUNTANT,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_ACCOUNTANT,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_ACCOUNTANT,E,4,
+300,Z_BR_TREASURY_ACCOUNTANT_BR,E,0,Treasury Accountant for Brazil
+300,Z_BR_TREASURY_ACCOUNTANT_BR,E,1,Role copied from SAP_BR_TREASURY_ACCOUNTANT_BR
+300,Z_BR_TREASURY_ACCOUNTANT_BR,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_ACCOUNTANT_BR,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_ACCOUNTANT_BR,E,4,
+300,Z_BR_TREASURY_RISK_MANAGER,E,0,Treasury Risk Manager
+300,Z_BR_TREASURY_RISK_MANAGER,E,1,Role copied from SAP_BR_TREASURY_RISK_MANAGER
+300,Z_BR_TREASURY_RISK_MANAGER,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_RISK_MANAGER,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_RISK_MANAGER,E,4,
+300,Z_BR_TREASURY_SPECIALIST_BOE,E,0,Treasury Specialist - Back Office
+300,Z_BR_TREASURY_SPECIALIST_BOE,E,1,Role copied from SAP_BR_TREASURY_SPECIALIST_BOE
+300,Z_BR_TREASURY_SPECIALIST_BOE,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_SPECIALIST_BOE,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_SPECIALIST_BOE,E,4,
+300,Z_BR_TREASURY_SPECIALIST_FOE,E,0,Treasury Specialist - Front Office
+300,Z_BR_TREASURY_SPECIALIST_FOE,E,1,Role copied from SAP_BR_TREASURY_SPECIALIST_FOE
+300,Z_BR_TREASURY_SPECIALIST_FOE,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_SPECIALIST_FOE,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_SPECIALIST_FOE,E,4,
+300,Z_BR_TREASURY_SPECIALIST_MOE,E,0,Treasury Specialist - Middle Office
+300,Z_BR_TREASURY_SPECIALIST_MOE,E,1,Role copied from SAP_BR_TREASURY_SPECIALIST_MOE
+300,Z_BR_TREASURY_SPECIALIST_MOE,E,2,Created automatically with task list:
+300,Z_BR_TREASURY_SPECIALIST_MOE,E,3,FLP content activation for Business Roles
+300,Z_BR_TREASURY_SPECIALIST_MOE,E,4,
+300,Z_BR_WAREHOUSE_CLERK,E,0,Warehouse Clerk
+300,Z_BR_WAREHOUSE_CLERK,E,1,Role copied from SAP_BR_WAREHOUSE_CLERK
+300,Z_BR_WAREHOUSE_CLERK,E,2,Created automatically with task list:
+300,Z_BR_WAREHOUSE_CLERK,E,3,FLP content activation for Business Roles
+300,Z_BR_WAREHOUSE_CLERK,E,4,
+300,Z_DCC_COMMON,E,0,DCC Common Authorization for all users
+300,Z_SFIN_CASH_MANAGER,E,0,Cash Manager
+300,Z_FIORI_TEST,E,0,
+300,Z_FIORI_FI,E,0,
+300,Z_FIORI_MM,E,0,
+300,Z_FIORI_SD,E,0,
+300,Z_FIORI_MNARGIS,E,0,
+300,Z_FIORI_AGUHA,E,0,
+300,Z_FIORI_AHASAN,E,0,
+300,Z_FIORI_ANEFF,E,0,
+300,Z_FIORI_CHANDFORD,E,0,
+300,Z_FIORI_BIYER,E,0,
+300,ZTEST01,E,0,test P2P Invoice
+300,ZTEST02,E,0,test P2P Invoice
+300,ZME21N,E,0,ME21N test
+300,ZSOD_TEST08,E,0,Maintain Purchase Order
+300,ZSOD_TEST06,E,0,Purchase Manager
+300,ZSOD_TEST04,E,0,Maintain Asset Master
+300,ZSOD_TEST01,E,0,Finance Director
+300,ZSOD_TEST02,E,0,Finance Clerk
+300,ZSOD_TEST03,E,0,Finance Master Data Manager
+300,ZSOD_TEST09,E,0,Puchase Manager-PO Release
+300,ZSOD_TEST10,E,0,PO Release
+300,ZSOD_TEST11,E,0,Despatch Department
+300,ZSOD_TEST12,E,0,Sales Executive:Sales Order Processing
+300,ZSOD_TEST13,E,0,Sales Invoicing

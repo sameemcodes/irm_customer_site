@@ -1,0 +1,17 @@
+LINE_TYPE_ID, LANGUAGE, SOURCE_LANG, DESCRIPTION, LINE_TYPE, LAST_UPDATE_DATE, LAST_UPDATED_BY, LAST_UPDATE_LOGIN, CREATION_DATE, CREATED_BY
+3,US,US,Outside processing line type,Outside processing,07.01.08,121,0,15.05.00,2
+1,US,US,All goods that are individually recorded and printed out (by item class, unit, and unit price),Goods,14.08.03,2,0,15.05.00,2
+1000,US,US,IGC CONTRACT COMMITMENT,IGC CONTRACT COMMITMENT,25.06.03,-1,-1,25.06.03,-1
+1042,AR,US,Service Item,Service Item,09.11.17,1150,6595987,09.11.17,1150
+1042,US,US,Service Item,Service Item,09.11.17,1150,6595987,09.11.17,1150
+4,US,US,Rate Based Temporary Labor,Rate Based Temp Labor,14.08.03,2,0,14.08.03,2
+5,US,US,Fixed Price Temporary Labor,Fixed Price Temp Labor,14.08.03,2,0,14.08.03,2
+6,US,US,Services,Services,05.03.20,1150,27050530,14.08.03,2
+3,AR,AR,نوع سطر المعالجة الخارجية,معالجة خارجية,07.01.08,121,0,15.05.00,2
+1,AR,AR,كل البضائع التي تم تسجيلها فرديا وطباعتها (حسب طبقة الصنف والوحدة سعر الوحدة),بضائع,14.08.03,121,0,15.05.00,2
+1000,AR,US,IGC CONTRACT COMMITMENT,IGC CONTRACT COMMITMENT,25.06.03,-1,-1,25.06.03,-1
+4,AR,AR,العمالة المؤقتة حسب السعر,عمالة حسب سعر,14.08.03,121,0,14.08.03,2
+5,AR,AR,السعر الثابت للعمالة المؤقتة,سعر العمالة,14.08.03,121,0,14.08.03,2
+6,AR,AR,سعر خدمة ثابت,سعر خدمة ثابت,14.08.03,121,0,14.08.03,2
+1020,AR,US,Service,Service,20.10.15,1150,830986,20.10.15,1150
+1020,US,US,Service,Service,20.10.15,1150,830986,20.10.15,1150

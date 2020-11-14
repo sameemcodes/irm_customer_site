@@ -1,0 +1,22 @@
+
+Add customer module will write data in 3 different tables:
+
+1. Django Model: IrmCustGblMst
+   Table Name: irm_cust_gbl_mst
+   Description: All Header Level Information
+
+   Attribute Analysis:
+      a. UI Field: Customer Legal Entity
+
+         Attribute Name: cust_legal_name
+
+      b. UI Field: Address
+
+         Attribute Name: Unknown
+
+      c. UI Field: Deployment Type
+
+         Attribute Name: deploy_type_mst_id
+
+         Meta: The corresponding field is a dropdown and the data is coming from 'description' field of
+         `irm_common_master_dtl` where 'mst_hdr' == ''. 

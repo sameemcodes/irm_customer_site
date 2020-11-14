@@ -1,0 +1,230 @@
+ # SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-17 15:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: irmservices/settings.py:30 templates/irmlogin-templates/index.html:75
+msgid "Arabic"
+msgstr "عربى"
+
+#: irmservices/settings.py:31 templates/irmlogin-templates/index.html:74
+msgid "English"
+msgstr "الإنجليزية"
+
+#: templates/customer-creation-templates/index.html:10
+msgid "IRM | New Customer"
+msgstr "IRM | عميل جديد"
+
+#: templates/customer-creation-templates/index.html:31
+#: templates/customer-creation-templates/index.html:351
+#: templates/irm-dashboard-templates/index.html:32
+#: templates/irm-dashboard-templates/index.html:351
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: templates/customer-creation-templates/index.html:34
+#: templates/irm-dashboard-templates/index.html:35
+msgid "Contact"
+msgstr "اتصل"
+
+#: templates/customer-creation-templates/index.html:177
+#: templates/customer-creation-templates/index.html:185
+#: templates/irm-dashboard-templates/index.html:185
+#: templates/irm-dashboard-templates/index.html:347
+#: templates/irm-dashboard-templates/index.html:352
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: templates/customer-creation-templates/index.html:193
+#: templates/irm-dashboard-templates/index.html:193
+msgid "MODULES"
+msgstr "الوحدات"
+
+#: templates/customer-creation-templates/index.html:289
+#: templates/irm-dashboard-templates/index.html:289
+msgid "SETUP"
+msgstr "اقامة"
+
+#: templates/customer-creation-templates/index.html:299
+#: templates/irm-dashboard-templates/index.html:299
+msgid "Create Customer"
+msgstr "إنشاء العميل"
+msgid "Update Customer"
+msgstr "تحديث العميل"
+
+#: templates/customer-creation-templates/index.html:305
+#: templates/irm-dashboard-templates/index.html:305
+msgid "Creat Role"
+msgstr "إنشاء دور"
+
+#: templates/customer-creation-templates/index.html:311
+#: templates/irm-dashboard-templates/index.html:311
+msgid "Create Sources"
+msgstr "إنشاء المصادر"
+
+#: templates/customer-creation-templates/index.html:317
+#: templates/irm-dashboard-templates/index.html:317
+msgid "Add Datasource"
+msgstr "إضافة البيانات"
+
+#: templates/customer-creation-templates/index.html:325
+#: templates/irm-dashboard-templates/index.html:325
+msgid "MISCELLANEOUS"
+msgstr "متنوع"
+
+#: templates/customer-creation-templates/index.html:329
+#: templates/irm-dashboard-templates/index.html:329
+msgid "Documentation"
+msgstr "توثيق"
+
+#: templates/customer-creation-templates/index.html:347
+#: templates/customer-creation-templates/index.html:353
+msgid "Add New Customer"
+msgstr "إضافة عميل جديد"
+
+#: templates/customer-creation-templates/index.html:352
+msgid "Setup"
+msgstr "اقامة"
+
+#: templates/customer-creation-templates/index.html:369
+msgid "Add Customer Details"
+msgstr "أضف تفاصيل العميل"
+
+#: templates/customer-creation-templates/index.html:377
+msgid "Customer Legal Entity"
+msgstr "الكيان القانوني للعميل"
+
+#: templates/customer-creation-templates/index.html:381
+msgid "Address"
+msgstr "عنوان"
+
+#: templates/customer-creation-templates/index.html:389
+msgid "Deployment Type"
+msgstr "نوع النشر"
+
+#: templates/customer-creation-templates/index.html:396
+msgid "Source ERPs"
+msgstr "مصدر ERPs"
+
+#: templates/customer-creation-templates/index.html:403
+msgid "Region"
+msgstr "منطقة"
+
+#: templates/customer-creation-templates/index.html:410
+msgid "Primary Contact"
+msgstr "اتصال رئيسي"
+
+#: templates/customer-creation-templates/index.html:415
+msgid "Email Address"
+msgstr "عنوان البريد الالكترونى"
+
+#: templates/customer-creation-templates/index.html:431
+msgid "Engagement Type"
+msgstr "نوع المشاركة"
+
+#: templates/customer-creation-templates/index.html:437
+msgid "Module Licenses"
+msgstr "تراخيص الوحدة النمطية"
+
+#: templates/customer-creation-templates/index.html:443
+msgid "No of Employees"
+msgstr "عدد الموظفين"
+
+#: templates/customer-creation-templates/index.html:447
+msgid "Designation"
+msgstr "تعيين"
+
+#: templates/customer-creation-templates/index.html:461
+msgid "Submit"
+msgstr "إرسال"
+#: templates/customer-selection-templates/index.html:11
+msgid "IRM Customer Selection"
+msgstr "IRM اختيار العميل"
+
+#: templates/customer-selection-templates/index.html:85
+msgid "Select Customer"
+msgstr "حدد العميل"
+
+#: templates/customer-selection-templates/index.html:104
+msgid "Select"
+msgstr "تحديد"
+
+#: templates/customer-selection-templates/index.html:115
+msgid "Create a new Customer"
+msgstr "قم بإنشاء عميل جديد"
+
+#: templates/irm-dashboard-templates/index.html:11
+msgid "IRM | Dashboard"
+msgstr "IRM |لوحة القيادة"
+
+#: templates/irm-dashboard-templates/index.html:177
+msgid " Dashboard"
+msgstr "لوحة القيادة"
+
+#: templates/irm-dashboard-templates/index.html:371
+msgid "Customer"
+msgstr "الزبون"
+
+#: templates/irm-dashboard-templates/index.html:395
+msgid "Imported Data"
+msgstr "البيانات المستوردة"
+
+#: templates/irm-dashboard-templates/index.html:437
+msgid "Sales"
+msgstr "مبيعات"
+
+#: templates/irm-dashboard-templates/index.html:454
+msgid "Monthly Recap Report"
+msgstr "تقرير الملخص الشهري"
+
+#: templates/irmlogin-templates/index.html:8
+msgid "IRM | Log in"
+msgstr "IRM | تسجيل الدخول"
+
+#: templates/irmlogin-templates/index.html:31
+msgid "Sign in to start your session"
+msgstr "تسجيل الدخول لبدء الجلسة الخاصة بك"
+
+#: templates/irmlogin-templates/index.html:36
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: templates/irmlogin-templates/index.html:44
+msgid "Password"
+msgstr "كلمه السر"
+
+#: templates/irmlogin-templates/index.html:56
+msgid "Remember Me"
+msgstr "تذكرنى"
+
+#: templates/irmlogin-templates/index.html:62
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#: templates/irmlogin-templates/index.html:70
+msgid "Language"
+msgstr "لغة"
+
+#: templates/irmlogin-templates/index.html:88
+msgid "I forgot my password"
+msgstr "لقد نسيت كلمة المرور"
+
+#: templates/irmlogin-templates/index.html:91
+msgid "Register a new membership"
+msgstr "تسجيل عضوية جديدة"
